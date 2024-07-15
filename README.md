@@ -6,10 +6,13 @@ summary and use that as input for RAG to answer the user question.
 
 ## Running this locally.
 
-To run this locally, you will need a `OPEN_AI_API_KEY` that can be optained at openai. To start chappie in dev mode you can do:
+To run this locally, you will need a `OPEN_AI_API_KEY` that can be optained at openai. 
+You will also need a `GITHUB_API_KEY` that can be optained at github. You only need access to public repos
+To start chappie in dev mode you can do:
 
 ```
-export OPEN_AI_API_KEY=asd-as......hfd
+export OPEN_AI_API_KEY=asd-rf......hfd
+export GITHUB_API_KEY=ghp_j4......gyU
 mvn quarkus:dev -Dquarkus.profile=quarkus
 ```
 
