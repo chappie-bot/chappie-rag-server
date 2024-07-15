@@ -3,9 +3,10 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.chappiebot</groupId>
-    <artifactId>chappie-injestion-service</artifactId>
+    <artifactId>chappie-server</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <description>Injesting data for a certain chappie tenant</description>
+    <name>chappie-server</name>
+    <description>RAG for Project documentation</description>
     <url>https://chappie-bot.org/</url>
     <organization>
         <name>Chappie Bot</name>
@@ -33,7 +34,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
-        <quarkus.platform.version>3.12.1</quarkus.platform.version>
+        <quarkus.platform.version>3.12.2</quarkus.platform.version>
         <skipITs>true</skipITs>
         <surefire-plugin.version>3.2.5</surefire-plugin.version>
         <quarkus.langchain4j.version>0.16.1</quarkus.langchain4j.version>
@@ -244,5 +245,4 @@
             </properties>
         </profile>
     </profiles>
-    <name>chappie-injestion-service</name>
 </project>
