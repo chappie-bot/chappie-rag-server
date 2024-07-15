@@ -1,0 +1,6 @@
+{
+  "title" : "Third-Party Extensions in Quarkus Platform",
+  "categories" : [ "Quarkus Extensions", "Third-Party Integration", "Quarkus Platform" ],
+  "summary" : "The documentation discusses an extension for Quarkus that has been developed by a third party. It highlights that this extension is officially part of the Quarkus Platform. This information is crucial for developers looking to understand or use extensions supported within the Quarkus ecosystem that are not initially developed by the primary Quarkus team.",
+  "uuid" : "6e760123-c87f-4e02-9063-6f290197146f"
+}

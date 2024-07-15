@@ -1,0 +1,6 @@
+{
+  "title" : "Running Quarkus in Development Mode",
+  "categories" : [ "Quarkus CLI", "Maven", "Gradle", "Development Tools" ],
+  "summary" : "This section of the Quarkus documentation provides commands for running Quarkus in development mode using different build tools. It includes commands for the Quarkus Command Line Interface (CLI), Maven, and Gradle. Key parameters can be adjusted using '{dev-additional-parameters}'. This documentation helps developers start Quarkus in development mode to leverage live coding features.",
+  "uuid" : "0ed64c1e-a76e-40cc-9de8-c9ea27c15dd4"
+}

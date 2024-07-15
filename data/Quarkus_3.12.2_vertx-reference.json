@@ -1,0 +1,6 @@
+{
+  "title" : "Vert.x Reference Guide for Quarkus",
+  "categories" : [ "miscellaneous" ],
+  "summary" : "This guide provides detailed information on advanced usage and configuration of Vert.x in Quarkus, including how to access and modify the Vert.x instance, utilize Vert.x clients, configure Vert.x, and use native transports. It covers integration with various Vert.x clients, including Kafka, MySQL, and Redis, as well as handling Vert.x Json, utilizing Mutiny API, and deploying Verticles in a Quarkus application. Additionally, it discusses event bus usage, handling blocking and non-blocking operations, and creating custom configurations through CDI beans.",
+  "uuid" : "4fee18d6-556f-4904-b05b-d66f9301f2cd"
+}

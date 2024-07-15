@@ -1,0 +1,6 @@
+{
+  "title" : "Qute Reference Guide",
+  "categories" : [ "templating", "qute" ],
+  "summary" : "The guide includes comprehensive details about the Qute template engine, outlining core features, basic examples, integration into Quarkus, and handling of issues related to native images. It discusses Qute's design tailored for Quarkus, including its minimal use of reflection to suit native compilation, and presents examples for simple to advanced usage scenarios within a Quarkus application. Moreover, the document covers the extension capabilities of Qute, how to define type-safe templates, and the interaction with standalone libraries.",
+  "uuid" : "964e6c15-d616-4d23-979d-5e26fc7978f4"
+}

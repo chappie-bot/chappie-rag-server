@@ -1,0 +1,6 @@
+{
+  "title" : "Creating a tutorial",
+  "categories" : [ "contributing", "web" ],
+  "summary" : "This document provides a comprehensive guide for creating a Quarkus tutorial focused on developing a Quarkus application that utilizes an experimental 'acme' extension. It covers every aspect from setting up the document structure, deciding on a title, copying templates, and managing document headers, to defining and describing the actual tutorial content, including prerequisites, development steps, testing, and summarizing the tutorial outcomes. It is intended for contributors to the Quarkus documentation.",
+  "uuid" : "10a8d02c-9f2c-49fe-a40a-5d8688cfbe1e"
+}

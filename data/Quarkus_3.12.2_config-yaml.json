@@ -1,0 +1,6 @@
+{
+  "title" : "YAML Configuration in Quarkus",
+  "categories" : [ "configuration", "core", "extensions" ],
+  "summary" : "This document guides on how to configure a Quarkus application using a YAML file (application.yaml) instead of the conventional application.properties. It covers the enabling of YAML configuration via adding the 'quarkus-config-yaml' extension or dependency, syntax examples, dealing with profile-specific configurations, resolving property conflicts in YAML, and using expressions in YAML files. It also discusses configuration property conflicts and how to use YAML for complex configurations.",
+  "uuid" : "e2c76b93-208a-44fc-9a96-1862731b6271"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Simplified Hibernate Reactive with Panache",
+  "categories" : [ "data", "hibernate-reactive", "panache", "sql" ],
+  "summary" : "The document provides a comprehensive guide on using Hibernate Reactive with Panache in Quarkus for reactive database access. Topics include setting up entities, utilizing the active record and repository patterns, detailed query examples, and integrating with databases. Recommended for users needing high concurrency with a reactive framework and simpler database operations.",
+  "uuid" : "9cf49f32-0635-4b53-bf0a-91effe517752"
+}

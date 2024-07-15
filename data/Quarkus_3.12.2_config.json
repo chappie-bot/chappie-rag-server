@@ -1,0 +1,6 @@
+{
+  "title" : "Configuring Your Application",
+  "categories" : [ "core", "configuration" ],
+  "summary" : "This guide provides comprehensive steps and guidelines on configuring a Quarkus application, covering topics such as Maven project setup, REST endpoint creation, environment-specific secrets, testing updates, packaging, running the application, and advanced configuration methods. It emphasizes using external configuration sources and managing sensitive data securely. Ideal for developers needing to configure Quarkus applications without hardcoding values into the codebase.",
+  "uuid" : "8637178f-daf9-45a9-aed7-9b67b9bec7c1"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Using the Event Bus with Quarkus",
+  "categories" : [ "messaging", "event-bus", "reactive programming" ],
+  "summary" : "The documentation focuses on utilizing the Quarkus framework alongside Vert.x to achieve asynchronous event-driven communication between different beans. It explains various messaging patterns such as point-to-point, publish/subscribe, and request/reply using the Vert.x event bus within Quarkus applications. Detailed guidance is provided on setting up the environment with necessary extensions, consuming events with the '@ConsumeEvent' annotation, handling asynchronous responses, and configuring message addresses. Moreover, topics such as sending messages, bridging HTTP with messaging, using codecs for serialization, and handling failures are comprehensively covered. This guide serves as a detailed resource for developers looking to implement decoupled, asynchronous, reactive applications using Quarkus and Vert.x.",
+  "uuid" : "0674787f-d8c9-4ec9-aaf3-8955ec064608"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Azure Functions with Quarkus REST, Undertow, or Reactive Routes",
+  "categories" : [ "cloud", "azure", "serverless", "function" ],
+  "summary" : "The documentation details how to use the 'quarkus-azure-functions-http' extension to deploy microservices developed with Quarkus frameworks such as REST (Jakarta REST implementation), Undertow (Servlet), Reactive Routes, or Funqy HTTP, onto Microsoft Azure Functions. Key preliminary requirements include having an Azure account, Azure Functions Core Tools version 4.x, and the Azure CLI installed. It includes a guide to create a project using either Maven or Gradle, configure necessary Azure authentications, run in Quarkus dev mode, and manage Azure deployments and configurations. The guide also covers local and Azure deployment instructions and details on integration testing within the Azure Functions local environment.",
+  "uuid" : "570d227f-8330-488c-8150-c5b3fd74994f"
+}

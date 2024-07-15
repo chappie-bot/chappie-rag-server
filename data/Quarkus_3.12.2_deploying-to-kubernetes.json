@@ -1,0 +1,6 @@
+{
+  "title" : "Kubernetes Extension",
+  "categories" : [ "cloud", "native" ],
+  "summary" : "The Quarkus Kubernetes extension facilitates the deployment of Quarkus applications to Kubernetes, OpenShift, and Knative platforms. It automates the generation of Kubernetes manifests based on user configuration and defaults, supports building and pushing container images via the Jib extension, and handles deployment to the specified cluster. Key features include handling of environment variables, service binding, and custom resource definitions, with extensive support for configuration customizations via `application.properties`. The guide also details the prerequisites and required dependencies for successful deployment.",
+  "uuid" : "a721c9a0-327f-463e-93bf-174cc5bc8265"
+}

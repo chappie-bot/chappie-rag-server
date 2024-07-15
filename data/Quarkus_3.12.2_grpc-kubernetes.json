@@ -1,0 +1,6 @@
+{
+  "title" : "Deploying your gRPC Service in Kubernetes",
+  "categories" : [ "serialization", "grpc", "kubernetes" ],
+  "summary" : "This document provides guidelines on deploying gRPC services using Quarkus into Kubernetes. It covers adding the Quarkus Kubernetes extension to your project, exposing services via Kubernetes Ingress, and using the Smallrye Health extension for setting up health probes. Key properties to configure ingress target port and enable gRPC action on readiness probes are highlighted. Additionally, the document provides links to more detailed guides on relevant topics.",
+  "uuid" : "8b9a360d-23f5-4abd-82ec-9f63e2e75e19"
+}

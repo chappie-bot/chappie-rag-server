@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Security Overview",
+  "categories" : [ "security", "authentication", "authorization" ],
+  "summary" : "The Quarkus Security framework offers an array of features for Java applications including multiple authentication mechanisms like Basic, Form-based, mTLS, and OpenID Connect (OIDC). It supports role-based access control (RBAC) using standard security annotations and integrates with various identity providers. Key functionalities include WebSockets security, CORS, CSRF prevention, SameSite cookies, secure serialization, and integration with secret management like HashiCorp Vault. The documentation details how to get started, test security features and the use of Quarkus in preventing security vulnerabilities with links to National Vulnerability Database (NVD).",
+  "uuid" : "d52e0049-93d8-4b2e-8971-15c11fa2a34e"
+}

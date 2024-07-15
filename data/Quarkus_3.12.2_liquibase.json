@@ -1,0 +1,6 @@
+{
+  "title" : "Using Liquibase with Quarkus",
+  "categories" : [ "data", "schema-migration", "liquibase" ],
+  "summary" : "This Quarkus guide explains how to integrate and use the Liquibase extension for handling database schema migrations. It provides instructions on setting up Liquibase with Quarkus, configuring Liquibase properties through application.properties, and optionally managing multiple data sources. Additionally, the guide covers usage details like automatic schema migration on startup, use of the Liquibase object for manual interventions, and deployment considerations for environments like Kubernetes.",
+  "uuid" : "a03af415-28cb-4f65-a04d-d720db32d11d"
+}

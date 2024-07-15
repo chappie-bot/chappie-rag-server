@@ -1,0 +1,6 @@
+{
+  "title" : "Using Keycloak Admin Client with Quarkus",
+  "categories" : [ "security", "authentication", "authorization", "keycloak", "sso" ],
+  "summary" : "This guide details how to incorporate the Keycloak Admin Client into a Quarkus application for managing Keycloak realms, clients, and users programmatically. It explains both dependency setup and client injection methods with examples in Java, demonstrating configurations for direct API operations on a Keycloak server. The guide also covers different authentication grants like password and client_credentials for secure Admin API interactions, and advises on testing setups with Dev Services for Keycloak.",
+  "uuid" : "e3fad9f2-bf91-420c-b7f2-22bd530e24e9"
+}

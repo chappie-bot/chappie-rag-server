@@ -1,0 +1,6 @@
+{
+  "title" : "Deploying Quarkus Applications to Google Cloud Functions",
+  "categories" : [ "cloud", "serverless", "google-cloud", "deployment" ],
+  "summary" : "This guide covers how to deploy various types of Quarkus applications such as REST API, Servlet, Reactive Routes, and Funqy HTTP to Google Cloud Functions. It includes prerequisites, setup instructions, creating Maven deployment projects, logging into Google Cloud, defining service endpoints, and deploying to cloud. Additionally, it addresses local testing with the Cloud Function invoker and links to further resources on using Funqy with Google Cloud.",
+  "uuid" : "cd5b0ec9-a4e8-401e-b443-a7fe65556869"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Configuration Properties for Quarkus Blaze-Persistence",
+  "categories" : [ "Configuration", "Blaze-Persistence", "Build Time" ],
+  "summary" : "This documentation section provides a detailed list of Blaze-Persistence configuration properties in Quarkus, fixed at build time. It covers properties such as template eager loading, default batch size, batch modes, updater settings, and more. Each property is described with its type, default value, and a brief description, helping users understand how to optimize entity view configurations for their Quarkus application. This section is crucial for users needing to configure how Blaze-Persistence behaves with regards to caching, batch fetching, and entity view updates at startup or runtime.",
+  "uuid" : "a1f717f4-558e-4bb1-a22f-70946f032bd4"
+}

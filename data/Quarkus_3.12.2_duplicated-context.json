@@ -1,0 +1,6 @@
+{
+  "title" : "Understanding Duplicated Context and Context Propagation in Quarkus",
+  "categories" : [ "core", "architecture" ],
+  "summary" : "The document discusses the challenge of data propagation in asynchronous processing within reactive models using Quarkus, contrasting traditional blocking models that use ThreadLocals for data propagation. It introduces the concept of 'duplicated context', a unique Quarkus feature for managing context propagation in non-blocking and reactive scenarios. Additionally, it details how duplicated contexts allow local data to be safely stored and accessed, are used in various Quarkus extensions, and how they differ from root contexts. The document also provides usage examples in Quarkus for both programmatic and declarative handling of contexts, ensuring that users can implement efficient, reactive applications without risking unwanted data leakage between concurrent operations.",
+  "uuid" : "6fe03c10-3bbf-49e6-81ac-fb26c80388f1"
+}

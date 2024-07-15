@@ -1,0 +1,6 @@
+{
+  "title" : "Deploying to Microsoft Azure Cloud",
+  "categories" : [ "cloud", "devops", "azure", "deployment" ],
+  "summary" : "This guide provides step-by-step instructions on deploying a Quarkus application to various Azure services including Azure Container Instances, Azure Kubernetes Service, and Azure App Service for Linux Containers. Key steps include configuring the Quarkus HTTP port, using the Azure CLI, creating and using Azure Container Registry, and deploying to cloud platforms. It is intended for users with a native Quarkus application ready for deployment and assumes prior completion of the building native image guide.",
+  "uuid" : "94d94547-db3e-4deb-87ac-90d56774d312"
+}

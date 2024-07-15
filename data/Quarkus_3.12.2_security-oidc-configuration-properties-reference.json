@@ -1,0 +1,6 @@
+{
+  "title" : "OpenID Connect (OIDC) Configuration Properties",
+  "categories" : [ "security", "oidc" ],
+  "summary" : "This document provides a detailed guide on configuring the OpenID Connect (OIDC) extension in Quarkus. It outlines the necessary properties to set in the application.properties file for proper integration. For developers interested in implementing OIDC in their Quarkus applications, this source can serve as a primary reference, complemented by additional links to relevant guides and topics on bearer token authentication, and comparisons of different authentication mechanisms.",
+  "uuid" : "249c7e8c-bb75-4563-85b0-d148587a1865"
+}

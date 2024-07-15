@@ -1,0 +1,6 @@
+{
+  "title" : "Funqy Google Cloud Functions",
+  "categories" : [ "cloud", "serverless", "function", "google cloud", "quarkus" ],
+  "summary" : "This guide provides detailed instructions on how to deploy Quarkus Funqy functions to Google Cloud Functions. It covers setup, creating Maven projects, coding practices, deploying single and multiple functions, and includes examples for handling both Background Functions like PubSub and Google Cloud Storage events, as well as Cloud Events Functions specifically for Google Cloud Storage. Additionally, it addresses local running and testing using the Cloud Function invoker and Quarkus testing extensions. Useful for users needing to manage serverless functions on Google Cloud Platform with Quarkus.",
+  "uuid" : "bfde64ec-b4a8-48e0-8364-a472ea022e18"
+}

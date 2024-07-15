@@ -1,0 +1,6 @@
+{
+  "title" : "Apache Kafka Reference Guide",
+  "categories" : [ "messaging", "kafka", "reactive-messaging" ],
+  "summary" : "This guide details the integration and usage of Apache Kafka with Quarkus, focusing on the reactive messaging approach provided via SmallRye Reactive Messaging. It covers the essentials of using Kafka as an event-streaming platform in conjunction with Quarkus, including configuration basics, producing and consuming messages, and advanced topics like transactions, serialization, and Kafka Streams integration. The document is useful for developers intending to leverage Kafka for reactive data pipeline implementations in Quarkus applications.",
+  "uuid" : "a2fa51e4-e0fb-4cde-a354-894aa8f92d31"
+}

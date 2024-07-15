@@ -1,0 +1,6 @@
+{
+  "title" : "CDI Integration Guide",
+  "categories" : [ "writing-extensions", "cdi", "arc", "injection" ],
+  "summary" : "This guide details the process of integrating extensions with Quarkus' CDI container, focusing specifically on the Quarkus-specific extensions API rather than CDI Portable Extensions. It covers the multiple phases of CDI container bootstrapping, including initialization, bean discovery, synthetic component registration, and validation. Also featured are common CDI integration scenarios, explaining how to handle unrecognized classes or annotations, modify annotation metadata, customize beans and observers, and the registration of synthetic beans and observers. The documentation provides numerous code examples, insights on build time metadata usage, and extension integration guidelines.",
+  "uuid" : "6faa6a51-3c20-4e16-abd7-cfacce6bb1a7"
+}

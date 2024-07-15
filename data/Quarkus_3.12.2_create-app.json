@@ -1,0 +1,6 @@
+{
+  "title" : "Generating Quarkus Projects with CLI and Maven",
+  "categories" : [ "CLI Tooling", "Maven", "Project Setup" ],
+  "summary" : "The documentation outlines the steps to create a Quarkus application using both Quarkus CLI and Maven. It includes variations based on whether certain conditions such as application extensions, stream options, or code generation preferences are specified. The guide also provides tips on creating Gradle projects and adaptations for Windows cmd and Powershell environments. Additionally, users are directed to the Quarkus CLI guide for further information on installation and usage.",
+  "uuid" : "d36d98dc-619a-45e6-85a1-7f44cc378827"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Using Hibernate ORM and Jakarta Persistence with Quarkus",
+  "categories" : [ "data", "hibernate-orm", "sql", "jdbc" ],
+  "summary" : "This document explains how to utilize Hibernate ORM, a leading implementation of Jakarta Persistence, with Quarkus. It includes comprehensive guidance on setting up and configuring Hibernate ORM without a persistence.xml resource, simply by making use of Quarkus' application.properties for settings and annotations for defining entities. Moreover, it details how to quickly set up a working example using Hibernate ORM with various JDBC driver extensions, how to integrate and use different JDBC databases, and how to handle database initialization and schema generation, using examples of actual configuration and code snippets. Additionally, dependencies needed for the setup are also listed and explained.",
+  "uuid" : "1aa224ee-7c8d-4b83-a6c8-f7eb5272ffdc"
+}

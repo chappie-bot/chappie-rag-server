@@ -1,0 +1,6 @@
+{
+  "title" : "OpenID Connect (OIDC) Bearer Token Authentication",
+  "categories" : [ "security", "web" ],
+  "summary" : "This section discusses how to secure HTTP access to Jakarta REST endpoints in Quarkus applications using Bearer token authentication with the Quarkus OIDC extension. It covers the token issuing process through OIDC and OAuth 2.0 compliant servers like Keycloak and the authentication process, which includes verifying the bearer token against the OIDC provider. The guide also emphasizes various aspects such as support for Single-Page Applications, access token propagation, and handling JWT claims and security identity via Quarkus extensions. Additionally, it explains the configuration required for setting up OIDC providers, details about obtaining user information, and ways to customize token validation and error handling.",
+  "uuid" : "2a267205-9a02-485e-bc1a-b14b01f2784b"
+}

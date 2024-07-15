@@ -1,0 +1,6 @@
+{
+  "title" : "Reactive SQL Clients",
+  "categories" : [ "data", "database", "reactive", "sql" ],
+  "summary" : "This guide describes how to utilize Reactive SQL Clients for various databases like PostgreSQL, IBM Db2, MariaDB/MySQL, Microsoft SQL Server, and Oracle in Quarkus applications. It provides instructions for setting up a CRUD application, configuring the database connection using standard and reactive URLs, and implementing data management operations using Mutiny API. Additionally, the guide includes advanced topics such as handling transactions, pipelined queries, and configuring multiple datasources or connection properties like idle-timeout and max-lifetime.",
+  "uuid" : "8cac700b-0ca0-446a-ab87-957b8d8ba0fd"
+}

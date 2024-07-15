@@ -1,0 +1,6 @@
+{
+  "title" : "Using Apache Kafka Streams with Quarkus",
+  "categories" : [ "messaging", "kafka", "kafka-streams" ],
+  "summary" : "This document guides you through using Apache Kafka Streams API in a Quarkus application to implement stream processing. It covers setup, architecture, building streaming pipelines, and deploying with Docker. The guide details producing and consuming messages in Kafka, stream processing fundamentals, interactively querying stream data, and scaling. Additionally, it addresses development tips and production considerations like health checks.",
+  "uuid" : "55e4896b-89a6-4b00-86b2-431efe1de38d"
+}

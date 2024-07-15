@@ -1,0 +1,6 @@
+{
+  "title" : "Kubernetes Client",
+  "categories" : [ "cloud", "kubernetes", "openshift", "kubernetes-client" ],
+  "summary" : "A comprehensive guide on using the Fabric8 Kubernetes client in Quarkus applications to manage Kubernetes resources, including setup, configuration, usage examples, and testing. This guide covers the integration with CDI, customization through specific interfaces, testing against a mock Kubernetes API, the extension necessary for using Elliptic Curve keys, and configurations necessary for accessing the Kubernetes API. Additionally, it discusses handling Quarkus applications in native mode on Kubernetes and the usage of OpenShift client for interactions with OpenShift-specific resources.",
+  "uuid" : "1643bd56-0d53-4dfe-91f5-683867fc6d8c"
+}

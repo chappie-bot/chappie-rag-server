@@ -1,0 +1,6 @@
+{
+  "title" : "AWS Lambda with Quarkus",
+  "categories" : [ "cloud", "serverless", "function", "AWS" ],
+  "summary" : "This guide provides comprehensive instructions on deploying Quarkus-based AWS Lambda functions, including prerequisites, creating projects with Maven or Gradle, handling Lambda functions, building and deploying to AWS, tunable performance through native compilation, and additional capabilities like X-Ray tracing and HTTPS. It covers both JVM and GraalVM native deployments, emphasizing configuration and operational details essential for successful deployment and optimal performance in AWS Lambda environments.",
+  "uuid" : "cdf09ed5-4a19-4b79-88a8-984a1748cb5d"
+}

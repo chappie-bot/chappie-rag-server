@@ -1,0 +1,6 @@
+{
+  "title" : "Managing Quarkus Extensions",
+  "categories" : [ "CLI", "Maven", "Gradle", "Quarkus Extensions" ],
+  "summary" : "This documentation provides guidelines on how to manage Quarkus extensions using different build tools. It showcases the commands necessary for listing all available Quarkus extensions using the Quarkus CLI, Maven, and Gradle. This is especially useful for developers looking to enhance their Quarkus applications by integrating additional functionalities through extensions.",
+  "uuid" : "12c27291-6cf6-4406-b3bb-19e3b3d19a32"
+}

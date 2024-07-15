@@ -1,0 +1,6 @@
+{
+  "title" : "SmallRye Health",
+  "categories" : [ "observability", "health" ],
+  "summary" : "This guide demonstrates how to implement health checks in a Quarkus application using the SmallRye Health extension, which adheres to the MicroProfile Health specification. It covers creating various health checks such as liveness, readiness, and startup checks. Additionally, it explains extending health checks with custom data, reactive health checks, and leveraging health checks provided by Quarkus extensions.",
+  "uuid" : "40420634-8811-4052-bb3d-a772b427452d"
+}

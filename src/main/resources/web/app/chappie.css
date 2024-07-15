@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Future Now';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Future Now'), url('font/chappie-font.woff') format('woff');
+}
+
+html, body {
+    margin: 0;
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    --lumo-clickable-cursor: pointer;
+    --lumo-primary-color-50pct: hsla(211, 63%, 54%, 0.5);
+    --lumo-body-text-color: hsla(214, 96%, 96%, 0.9);
+    --lumo-tertiary-text-color: hsla(214, 78%, 88%, 0.5);
+    --lumo-base-color: rgb(2, 0, 36);
+    --lumo-error-contrast-color: hsla(0, 100%, 100%, 1.0);
+    --lumo-contrast-30pct: hsla(214, 69%, 84%, 0.32);
+    --lumo-contrast-80pct: hsla(214, 91%, 94%, 0.8);
+    --lumo-contrast-70pct: hsla(214, 87%, 92%, 0.7);
+    --lumo-contrast-20pct: hsla(214, 64%, 82%, 0.23);
+    --lumo-primary-color: var(--lumo-body-text-color);
+    --lumo-error-color: hsla(3, 90%, 63%, 1.0);
+    --lumo-disabled-text-color: hsla(214, 69%, 84%, 0.32);
+    --lumo-contrast-90pct: hsla(214, 96%, 96%, 0.9);
+    --lumo-contrast-60pct: hsla(214, 82%, 90%, 0.6);
+    --lumo-warning-text-color: hsla(30, 100%, 67%, 1.0);
+    --lumo-contrast-10pct: hsla(214, 60%, 80%, 0.14);
+    --lumo-primary-text-color: var(--lumo-body-text-color);
+    --lumo-success-color-10pct: hsla(145, 65%, 42%, 0.1);
+    --lumo-primary-color-10pct: hsla(214, 90%, 63%, 0.1);
+    --lumo-primary-contrast-color: hsla(0, 100%, 100%, 1.0);
+    --lumo-success-color-50pct: hsla(145, 65%, 42%, 0.5);
+    --lumo-success-color: hsla(145, 65%, 42%, 1.0);
+    --lumo-warning-color: hsla(30, 100%, 50%, 1.0);
+    --lumo-success-contrast-color: hsla(0, 100%, 100%, 1.0);
+    --lumo-contrast-50pct: hsla(214, 78%, 88%, 0.5);
+    --lumo-warning-color-50pct: hsla(30, 100%, 50%, 0.5);
+    --lumo-header-text-color: hsla(214, 100%, 98%, 1.0);
+    --lumo-warning-color-10pct: hsla(30, 100%, 50%, 0.1);
+    --lumo-contrast-40pct: hsla(214, 73%, 86%, 0.41);
+    --lumo-error-color-50pct: hsla(3, 90%, 63%, 0.5);
+    --lumo-warning-contrast-color: hsla(0, 100%, 100%, 1.0);
+    --lumo-secondary-text-color: hsla(214, 87%, 92%, 0.7);
+    --lumo-error-text-color: hsla(3, 100%, 67%, 1.0);
+    --lumo-contrast-5pct: hsla(214, 65%, 85%, 0.06);
+    --lumo-contrast: hsla(214, 100%, 98%, 1.0);
+    --lumo-error-color-10pct: hsla(3, 90%, 63%, 0.1);
+    --lumo-success-text-color: hsla(145, 85%, 47%, 1.0);
+    font-family: var(--lumo-font-family);
+    font-size: var(--lumo-font-size-m);
+    line-height: var(--lumo-line-height-m);
+    color: var(--lumo-body-text-color);                        
+    background: rgb(11,8,2);
+    background: linear-gradient(180deg, rgba(11,8,2,1) 0%, rgba(81,82,85,1) 59%, rgba(113,114,116,1) 100%);
+}
+.loading-indicator {
+    display: flex;
+    background: #0f0e05;
+    align-items: center;
+    gap:20px;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.loading-indicator img {
+    width: 100px;
+    height: 100px;
+}
+
+main {
+    width:100vw;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    overflow-y: scroll;   
+}
+
+#outlet {
+    width:100%;
+    height: 100%;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    font-size: smaller;
+}

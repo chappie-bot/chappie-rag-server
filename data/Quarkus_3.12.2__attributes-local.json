@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Documentation Structure Overview",
+  "categories" : [ "documentation", "development", "structure" ],
+  "summary" : "This metadata provides a brief overview of the structural components fundamental to the Quarkus documentation setup. It outlines the directories and settings used for rendering the documentation in various environments, including the settings for icons, example code paths, and image directories. This guide is useful for contributors looking to understand or modify the scaffolding of the Quarkus documentation on its official website or within an IDE environment.",
+  "uuid" : "228780f1-306a-4e03-89a5-dc2bec0bd2cf"
+}

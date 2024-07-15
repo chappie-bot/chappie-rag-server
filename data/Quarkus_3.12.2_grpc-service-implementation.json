@@ -1,0 +1,6 @@
+{
+  "title" : "Implementing a gRPC Service",
+  "categories" : [ "serialization", "grpc", "extensions" ],
+  "summary" : "The guide covers the essentials of implementing gRPC services within a Quarkus application. Key points include generating gRPC classes from `.proto` files, creating service interfaces and implementation classes as CDI beans, using the Mutiny API or the default gRPC API for service implementations, and specialized configurations for scaling, security, and testing. Additionally, it discusses enabling reflection services in different modes, integrating metrics using the Micrometer extension, and applying interceptors for custom server behavior.",
+  "uuid" : "ca7027a1-88ff-496a-bbb8-9ce356f2cf17"
+}

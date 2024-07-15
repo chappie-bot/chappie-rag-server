@@ -1,0 +1,6 @@
+{
+  "title" : "Identity Providers in Quarkus Security",
+  "categories" : [ "security", "identity-providers" ],
+  "summary" : "In Quarkus, identity providers are integral to the security framework, enabling authentication and authorization by verifying user identities. They transform credentials into 'SecurityIdentity' instances, crucial for access control in applications. Supported by extensions like OIDC, OAuth2, and SmallRye JWT, these providers are tailored to specific authentication flows. The documentation also details implementation steps for starting with Basic HTTP authentication combined with Jakarta Persistence for role-based access.",
+  "uuid" : "712e61cc-679b-41cf-b337-b30e9d16b496"
+}

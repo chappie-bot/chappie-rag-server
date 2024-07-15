@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for Pulsar",
+  "categories" : [ "messaging", "reactive-messaging", "pulsar", "dev-services", "testing", "dev-mode" ],
+  "summary" : "The Quarkus guide for Dev Services for Pulsar details how to automatically start and configure a Pulsar broker in development and testing environments using Docker. It includes instructions on how to enable or disable this service, share brokers between applications, configure the broker image, and set specific broker configurations like enabling transaction support.",
+  "uuid" : "c4c3d0a9-d9ad-461c-adf4-dce957a54151"
+}

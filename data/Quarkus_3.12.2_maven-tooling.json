@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus and Maven",
+  "categories" : [ "tooling", "native" ],
+  "summary" : "This documentation section provides detailed guidance on using Maven with Quarkus. It covers creating, managing, and building a Quarkus application using Maven. Key topics include project creation, managing extensions, configuring development mode, building native executables, and using Maven for multi-module projects. It also explains the integration of Quarkus applications into different IDEs and suggests best practices for Maven settings in Quarkus projects.",
+  "uuid" : "07067e78-ba87-48aa-b2c4-5525aa10d591"
+}

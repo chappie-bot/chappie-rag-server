@@ -1,0 +1,6 @@
+{
+  "title" : "Using Security with JDBC",
+  "categories" : [ "security", "identity-providers", "JDBC", "SQL", "database" ],
+  "summary" : "This documentation provides a comprehensive guide on how to integrate database security in a Quarkus application using JDBC. It details creating a basic Quarkus application that securely handles user identities, utilizing a PostgreSQL database for storage. The guide includes setting up authentication mechanisms with role-based access control (RBAC) for different APIs, configuring the application properties to connect to the database, and securing endpoints per user roles. It is useful for developers looking to add sophisticated security measures in their Quarkus-based applications.",
+  "uuid" : "a203ce11-8bfb-48ea-9021-07493865d2d6"
+}

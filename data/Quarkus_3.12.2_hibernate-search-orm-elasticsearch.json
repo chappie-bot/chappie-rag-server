@@ -1,0 +1,6 @@
+{
+  "title" : "Use Hibernate Search with Hibernate ORM and Elasticsearch/OpenSearch",
+  "categories" : [ "data" ],
+  "summary" : "The guide provides a comprehensive tutorial for integrating Hibernate Search with Hibernate ORM and Elasticsearch or OpenSearch to enable full-text search functionality in Hibernate ORM-based applications. It covers initial setup, configuration, entity annotation for indexing, and custom analyzer configuration to enhance search capabilities, fitting the needs of developers looking to implement advanced search features in their applications.",
+  "uuid" : "284d88f8-1c5a-4edf-805f-ef0ef0057558"
+}

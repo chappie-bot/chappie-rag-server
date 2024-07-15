@@ -1,0 +1,6 @@
+{
+  "title" : "Funqy AWS Lambda Binding",
+  "categories" : [ "cloud", "aws", "lambda", "serverless", "function" ],
+  "summary" : "This guide details how to deploy Funqy functions to AWS Lambda, covering prerequisites, setup instructions, and deployment processes for both JVM and native executions. It includes information on building Funqy functions with Maven, creating AWS Lambda functions, function management via scripts, testing locally with the SAM CLI, and custom configurations for deployment packages and runtime environments.",
+  "uuid" : "f581edcb-5eda-448e-93dc-b0a983d16c2b"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "SmallRye GraphQL Client",
+  "categories" : [ "web", "graphql", "client", "Quarkus extension" ],
+  "summary" : "This guide details how to use the SmallRye GraphQL Client within a Quarkus application to consume GraphQL services. It covers the setup and implementation of both typesafe and dynamic GraphQL clients, connecting to external GraphQL services, specifically querying a Star Wars API for details regarding films and their associated planets. The guide provides comprehensive instructions starting from project setup with Maven, adding necessary dependencies, and creating model classes to executing GraphQL queries via the typesafe and dynamic clients.",
+  "uuid" : "49c148fc-3d6e-4b0f-9b78-c32467b8a546"
+}

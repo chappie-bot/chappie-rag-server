@@ -1,0 +1,6 @@
+{
+  "title" : "Understanding Quarkus Funqy",
+  "categories" : [ "cloud", "serverless", "function" ],
+  "summary" : "The Quarkus Funqy guide explores the basic API used to create portable functions across multiple FaaS platforms including AWS Lambda, Azure Functions, Google Cloud Functions, and others. It highlights its simplicity and constraints in terms of flexibility, and its use with reactive programming, dependency injection, and context injection. It discusses when to use Funqy over REST for creating cross-provider cloud functions while considering platform-specific APIs and limitations.",
+  "uuid" : "6182516b-4bce-4634-8856-0241c0d0efd5"
+}

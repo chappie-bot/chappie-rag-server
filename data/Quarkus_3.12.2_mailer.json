@@ -1,0 +1,6 @@
+{
+  "title" : "Sending emails using SMTP",
+  "categories" : [ "miscellaneous", "mail", "mailer" ],
+  "summary" : "This guide details how to set up and send emails from a Quarkus application using both imperative and reactive mailer APIs. It includes prerequisites like SMTP details and cURL, setting up the Quarkus project with required extensions, implementing HTTP endpoints to trigger emails, and configuring SMTP settings. Additionally, it introduces reactive programming with Mutiny and provides links for deeper insights and configurations like adding attachments, configuring for popular email services, or using templates.",
+  "uuid" : "002bab49-4690-4bf5-9dfb-3876821d3f4e"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Deploying to Heroku",
+  "categories" : [ "cloud", "devops", "heroku", "deployment", "docker", "podman" ],
+  "summary" : "This guide explains the process of deploying a Quarkus web application to Heroku using different methods including using a Quarkus Maven build, pushing container images with Docker or Podman, and deploying as a native Quarkus application. It covers setting the HTTP port for Heroku, managing application properties, and integrating with CI/CD pipelines. Both Java and native compilation are discussed, with specific commands and configurations for Docker and Podman, including troubleshooting tips for common issues.",
+  "uuid" : "31807cc5-0f83-4e7e-8490-833e8a4ef82d"
+}

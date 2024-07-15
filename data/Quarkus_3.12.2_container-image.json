@@ -1,0 +1,6 @@
+{
+  "title" : "Container Images",
+  "categories" : [ "cloud", "devops" ],
+  "summary" : "Detailed documentation on creating container images with Quarkus using various extensions like Jib, Docker, Podman, OpenShift, and Buildpack. Covers features such as Jib's fast rebuild via caching, custom entry point configurations, multi-module project support, and integration with CI environments. Also includes instructions for setting up JVM debugging, adding extra files to images, and using QuarkusIntegrationTest for testing images.",
+  "uuid" : "e27de07c-5251-4dfe-845d-daae9c92f8b6"
+}

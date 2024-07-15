@@ -1,0 +1,6 @@
+{
+  "title" : "Extension Capabilities",
+  "categories" : [ "writing-extensions" ],
+  "summary" : "This Quarkus documentation outlines how capabilities within Quarkus extensions are implemented and utilized. It explains the concepts of capabilities provided and required by various extensions, emphasizing the one-provider-per-capability rule that could lead to build failures if violated. The documentation elaborates on specifying capabilities in MAVEN and Gradle, including conditional capabilities based on certain conditions. This section is crucial for understanding how to manage and implement capabilities in Quarkus extensions to maintain functional integrity and compatibility.",
+  "uuid" : "e815ba13-4402-4492-a1a3-f9a1a394d755"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Using Liquibase MongoDB with Quarkus",
+  "categories" : [ "data", "schema-migration", "liquibase", "mongodb" ],
+  "summary" : "This documentation covers the integration of Liquibase MongoDB Extension with Quarkus for database schema management. It provides step-by-step instructions on setting up and configuring the extension in your Quarkus application, including environment specific configurations such as Kubernetes. Users can find detailed usage scenarios, including managing database changelogs, automatic migrations at application start, and using the Liquibase object for manual migrations. Additionally, configurations for single and multiple MongoDB clients, as well as custom containers for Kubernetes deployments, are discussed.",
+  "uuid" : "14d78596-0fb6-458d-a21b-17193a61576a"
+}

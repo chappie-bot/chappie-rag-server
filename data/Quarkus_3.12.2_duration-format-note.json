@@ -1,0 +1,6 @@
+{
+  "title" : "Formatting Duration Values in Quarkus",
+  "categories" : [ "Configuration", "Java Time API", "Quarkus" ],
+  "summary" : "In Quarkus, duration values should be written using the 'java.time.Duration' format. For simpler cases, numerical values can represent seconds, or add 'ms', 's', 'm', 'h', or 'd' to denote milliseconds, seconds, minutes, hours, or days respectively. The simplified entry is automatically translated into the correct 'java.time.Duration' format during parsing. Refer to the Java SE Documentation for more details.",
+  "uuid" : "27d8a44a-9597-442f-9ed4-2780819ba23c"
+}

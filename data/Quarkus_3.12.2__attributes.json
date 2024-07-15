@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Project Dependency Versions and Guide Links",
+  "categories" : [ "Quarkus Configuration", "Dependency Management", "Project Setup" ],
+  "summary" : "The document provides comprehensive details on the dependency versions used in Quarkus projects including Maven, GraalVM, Elasticsearch, and more. It also lists various guide URLs for Quarkus services and extensions like Amazon Services, Neo4J Integration, Vault, and others. This can be beneficial for developers seeking to understand the compatibility and configuration options available in Quarkus, as well as for accessing specific guides and documentation on how to integrate these services into their Quarkus applications.",
+  "uuid" : "d73eb169-2bdd-496f-8152-b2244bcf6867"
+}

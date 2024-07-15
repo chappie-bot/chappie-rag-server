@@ -1,0 +1,6 @@
+{
+  "title" : "Continuous Testing",
+  "categories" : [ "core", "testing", "dev-ui", "tooling", "dev-mode" ],
+  "summary" : "Learn how to utilize continuous testing in Quarkus to automatically run tests upon code changes, enhancing development efficiency. This guide offers detailed instructions on enabling and controlling continuous testing, including key commands and configuration options. It covers different modes like dev mode and standalone testing, as well as multi-module project support, making it essential for developers seeking immediate feedback during application development.",
+  "uuid" : "031e10fb-f46a-4ea4-82c2-96f8c563cf53"
+}

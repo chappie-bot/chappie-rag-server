@@ -1,0 +1,6 @@
+{
+  "title" : "Class Loading Reference",
+  "categories" : [ "architecture", "internals", "extensions" ],
+  "summary" : "Detailed overview of Quarkus class loading architecture designed for extension authors and advanced users. Explains different class loaders and their roles in various environments such as dev mode, production, and using different package types like fast-jar and legacy-jar. Describes the process from application creation with QuarkusBootstrap to handling dependencies and class transformations. Also, discusses isolated class loaders, parent-first dependencies, and configuration options for class loading through application properties.",
+  "uuid" : "347670f3-eca4-4d77-86ea-530db7e283fd"
+}

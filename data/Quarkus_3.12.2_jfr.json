@@ -1,0 +1,6 @@
+{
+  "title" : "Using Java Flight Recorder with Quarkus",
+  "categories" : [ "observability", "jfr", "java", "monitoring", "performance" ],
+  "summary" : "This documentation explains how to integrate and utilize Java Flight Recorder (JFR) in Quarkus applications to enhance observability and diagnose performance issues. It includes details on setting up JFR, creating and managing Maven projects with JFR extension, examining Jakarta REST resources, enabling JFR in native executables, and configuring JFR to record custom events. The guide also covers examining the output in various tools such as JDK Mission Control and the JFR CLI, adding new custom events, and configuring JFR through XML files or commands. This resource is useful for developers seeking to leverage JFR for detailed runtime insights into their Quarkus applications.",
+  "uuid" : "edc04ec4-898f-4eb5-bfe7-16190445112c"
+}

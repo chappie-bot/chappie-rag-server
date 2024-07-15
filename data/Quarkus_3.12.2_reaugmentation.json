@@ -1,0 +1,6 @@
+{
+  "title" : "Re-augment a Quarkus Application",
+  "categories" : [ "tooling" ],
+  "summary" : "This document explains how to re-augment a Quarkus application to adapt to different build time configurations using a mutable jar. It details when re-augmentation is useful, such as switching database drivers or toggling features, and outlines the necessary steps for rebuilding the application with a new configuration. It also warns against including sensitive information in build configuration files and points out that native images can't be used with mutable jars.",
+  "uuid" : "8cb6e626-3c4c-48b8-b4f0-a3050ead5faf"
+}

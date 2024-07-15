@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Configuration Reference Guide",
+  "categories" : [ "core", "configuration", "environment" ],
+  "summary" : "Covers various configuration aspects of Quarkus using SmallRye Config API, supporting MicroProfile Config specification. Explains configuration sources such as system properties, environment variables, and `.env` files. Details override mechanisms through config profiles enabling environment-specific adjustments, and demonstrates property injection using MicroProfile Config annotations. Also, offers insights into accessing and manipulating configuration programmatically and securing sensitive configurations.",
+  "uuid" : "b3e015b6-7671-44c7-bb7b-ad8ec469f8d0"
+}

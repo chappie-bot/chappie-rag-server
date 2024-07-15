@@ -1,0 +1,6 @@
+{
+  "title" : "Testing Quarkus Applications with Maven and Gradle",
+  "categories" : [ "Quarkus", "Dev Tools", "Testing" ],
+  "summary" : "This section of the documentation provides commands for running tests in Quarkus applications using Maven and Gradle build tools. Users can use './mvnw test' for Maven-based projects or './gradlew test' for Gradle-based projects, depending on whether they have excluded Maven or Gradle in their Quarkus setup.",
+  "uuid" : "1ba04652-2961-4d26-a134-a2077ceaf0e2"
+}

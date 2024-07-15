@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus and Gradle",
+  "categories" : [ "tooling", "native" ],
+  "summary" : "This guide explains how to use Gradle with Quarkus for various development tasks including creating new projects, handling extensions, running in development mode, building native executables, and integrating with IDEs. It provides specific instructions for generating and managing projects with Gradle, customizing the build process, setting up a development environment, handling dependencies, and the specifics of building for different environments like native or containerized deployments.",
+  "uuid" : "1067dce5-6d04-4f00-84c0-ba19aff85fe1"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Security Testing",
+  "categories" : [ "security", "testing" ],
+  "summary" : "The Quarkus documentation on Security Testing provides comprehensive guidance on testing the security implementations within a Quarkus application. It covers configuring user information for various environments, utilizing the 'quarkus-test-security' extension for testing security with different user identities or without authentication, and mixing various authentication methods in tests like Basic Auth and Bearer Token. Additionally, it includes guidelines on path-based and form-based authentication, as well as mocking authorization services like OAuth2 and OIDC using Wiremock. Important annotations such as '@TestSecurity' are also elaborated for effectively controlling security contexts during testing.",
+  "uuid" : "8fccb69b-280d-4bf0-a60a-c8ff014128d0"
+}

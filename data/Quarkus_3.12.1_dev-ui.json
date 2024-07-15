@@ -1,0 +1,6 @@
+{
+  "title" : "Dev UI for Extension Developers",
+  "categories" : [ "writing-extensions", "dev-ui", "testing" ],
+  "summary" : "This guide provides instructions for Quarkus extension developers on how to integrate and enhance their extensions with the Quarkus Developer UI (Dev UI) version 2, starting from Quarkus 3. It includes explanations on how extensions can add links, full custom pages, log streams, section menus, and create custom cards within the Dev UI. The document also describes how to manage external and runtime links, use web components for dynamic content, and test these integrations.",
+  "uuid" : "64ef9aa5-cd19-453b-8534-dbc1867c72de"
+}

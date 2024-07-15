@@ -1,0 +1,6 @@
+{
+  "title" : "OpenID Connect (OIDC) and OAuth2 Client and Filters",
+  "categories" : [ "security", "oidc", "client" ],
+  "summary" : "The document discusses how to implement and configure Quarkus extensions for managing OpenID Connect and OAuth 2.0 access tokens. Key features include acquiring, refreshing, and propagating tokens using the 'quarkus-oidc-client', 'quarkus-rest-client-oidc-filter', and 'quarkus-resteasy-client-oidc-filter' extensions. For token management, 'OidcClient' is used to handle token endpoint configurations and support various token grants. The document also explains how to directly use 'OidcClient' for acquiring tokens and setting them in HTTP headers, and introduces 'OidcClients' for managing multiple OIDC clients. Detailed configuration examples for the 'client_credentials' and 'password' grants are provided, alongside instructions for more complex scenarios involving token refresh and revocation, and advanced OIDC client configurations.",
+  "uuid" : "d8bfcb39-10d0-493c-89a0-0db5ab70111f"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Narayana LRA Participant Support",
+  "categories" : [ "data", "lra", "narayana" ],
+  "summary" : "This guide explains the use of the Narayana LRA (Long Running Action) participant extension in Quarkus for coordinating transactions across multiple services. It describes the configuration of the extension, the role of the LRA coordinator, how to handle failures, and offers examples of implementing services that participate in an LRA. This is useful for developers looking to implement distributed consistency and reliability in microservice architectures using Quarkus and Jakarta REST API annotations such as '@LRA', '@Compensate', and '@Complete'.",
+  "uuid" : "e3b25e8d-d2aa-4137-ada1-0cc6ed2260e5"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Redis Extension Guide",
+  "categories" : [ "Data Store", "Redis", "NoSQL", "Quarkus Extension" ],
+  "summary" : "The Quarkus Redis Extension guide provides detailed instructions on integrating Redis with Quarkus applications. It covers setup and configuration of Redis clients, different modes of Redis operations (simple client, sentinel, cluster, replication), connection details including TLS support, and usage of various APIs like low-level and high-level APIs, imperative and reactive APIs. Additionally, the guide discusses different Redis commands, transaction management, data preloading, programmatically configuring Redis hosts, and customization of Redis clients options. It's useful for developers looking for integration details between Quarkus and Redis for database, caching or messaging purposes.",
+  "uuid" : "bbb86da5-58e9-4a7f-8902-8975c20ba66a"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Enable Basic authentication",
+  "categories" : [ "security", "authentication", "basic-authentication", "http" ],
+  "summary" : "The Quarkus document guide on enabling Basic authentication allows developers to secure their applications by allowing users to authenticate using a username and password. To implement this, one must install extensions that provide an Identity Provider for handling authentication data such as 'quarkus-elytron-security-jdbc', 'quarkus-elytron-security-ldap', or 'quarkus-security-jpa-reactive'. Steps covered include configuring properties in `application.properties` to activate basic authentication and manage users and roles securely, particularly for testing environments. The document also emphasizes storing sensitive data securely in a database for production and points to further guides for elaborate configurations with Jakarta Persistence.",
+  "uuid" : "8a21930b-e1cd-42ab-b043-1950dbbf812c"
+}

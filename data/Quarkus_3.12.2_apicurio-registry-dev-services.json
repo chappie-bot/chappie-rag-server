@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for Apicurio Registry",
+  "categories" : [ "messaging", "kafka", "apicurio", "registry", "dev-services", "dev-mode", "testing" ],
+  "summary" : "Documentation regarding the automatic setup of the Apicurio Registry in Quarkus when working with Kafka channels in SmallRye Reactive Messaging, including its default configurations, enabling/disabling conditions, Docker dependency, service discovery for multiple applications, and configuration options for registry URL, port, sharing, and Docker image.",
+  "uuid" : "89614e27-3423-4403-85b5-f353563efe4d"
+}

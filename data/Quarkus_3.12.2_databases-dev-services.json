@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for Databases",
+  "categories" : [ "data", "tooling" ],
+  "summary" : "Quarkus provides an out-of-the-box, zero-config database feature known as Dev Services intended for development and testing environments, automatically starting supported databases like DB2, Derby, H2, MariaDB, Microsoft SQL, MySQL, Oracle, and PostgreSQL using Docker containers or in-process. Dev Services simplifies development by auto-configuring the data source and can be disabled or configured for persistence and schema management using Hibernate ORM, Flyway, or Liquibase. Specific configurations for container properties and volume mappings are also supported alongside mechanisms to control data retention across executions.",
+  "uuid" : "f6b6d0c0-9238-46d0-ade7-b063e619fc53"
+}

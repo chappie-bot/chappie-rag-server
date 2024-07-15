@@ -1,0 +1,6 @@
+{
+  "title" : "Creating Your First Application",
+  "categories" : [ "getting-started", "application-setup", "development-tools" ],
+  "summary" : "This guide provides step-by-step instructions on creating a basic Quarkus application, highlighting the setup of a Jakarta REST endpoint, usage of CDI for dependency injection, and how to package and run the application. Key aspects include ensuring the correct Java version with Maven, understanding application architecture, and utilizing Quarkus' live reload capabilities in development mode. The guide also covers creating functional tests and the configuration of non-application specific endpoints.",
+  "uuid" : "a3bef82e-75c7-49cf-af11-c79f9816049d"
+}

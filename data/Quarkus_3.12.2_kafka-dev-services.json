@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for Kafka",
+  "categories" : [ "messaging", "kafka", "dev-services", "testing", "dev-mode" ],
+  "summary" : "Quarkus' Dev Services for Kafka simplifies the process of starting a Kafka broker automatically in development and test modes without the need for manual setup. It leverages Docker for broker instantiation and supports configurations for shared brokers, custom images, topic creation, port settings, and broker properties. Supported images include Redpanda for fast startups and Kafka -native images, with an option to also use Strimzi images suitable for Kubernetes environments. Functionality includes the automatization of Kafka setup which enhances developer productivity during development and testing phases.",
+  "uuid" : "e13702e4-6d5f-4286-b8a5-9c4022752dd5"
+}

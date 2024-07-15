@@ -1,0 +1,6 @@
+{
+  "title" : "Basic Authentication in Quarkus",
+  "categories" : [ "security", "web" ],
+  "summary" : "Quarkus supports HTTP Basic authentication to secure application endpoints, using the 'Authorization' header with Base64-encoded credentials. While providing a simple and well-understood mechanism, it has limitations such as exposure of credentials when not used with HTTPS. The document details implementing and securing Basic authentication in Quarkus, highlights its limitations, and compares it with other authentication mechanisms. It also discusses role-based access control (RBAC) with security annotations and references further guides on Quarkus security.",
+  "uuid" : "fbe7c8f5-9265-4fa8-abed-584d21fd9d3f"
+}

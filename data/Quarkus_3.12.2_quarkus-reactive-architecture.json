@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Reactive Architecture",
+  "categories" : [ "architecture", "internals", "reactive" ],
+  "summary" : "This comprehensive guide delves into the Quarkus reactive architecture, explaining its integration of reactive and imperative programming without the need for separate API stacks. It covers what 'Reactive' in Quarkus signifies, involves principles like being responsive, elastic, resilient, and utilizing asynchronous message passing. The guide continues by detailing Quarkus support for both reactive and traditional programming models, including the importance of efficient resource use and non-blocking I/O supported by Eclipse Vert.x and Netty. Multiple programming models like Mutiny and Kotlin Coroutines are explained, as well as how Quarkus facilitates a seamless blend of reactive and imperative programming techniques. Moreover, extensive support for reactive features through Quarkus extensions across various areas such as HTTP, data management, and event-driven architecture is showcased.",
+  "uuid" : "5c927b0b-72d2-4b95-a175-4d6189a96005"
+}

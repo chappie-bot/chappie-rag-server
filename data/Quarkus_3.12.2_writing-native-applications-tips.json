@@ -1,0 +1,6 @@
+{
+  "title" : "Tips for Writing Native Applications with Quarkus",
+  "categories" : [ "core", "writing-extensions", "native" ],
+  "summary" : "This guide offers practical recommendations for developing Java applications into native executables using Quarkus. It covers configuring native-image properties, including and excluding resources, and techniques for managing reflective access, registering classes for reflection and proxy interfaces, and managing class initializations. It also highlights best practices for dealing with JNI and native code, managing resources and logging in a native context, and optimizing application performance for native compilation.",
+  "uuid" : "648da930-8f37-4ab8-aefb-8705e2dd614e"
+}

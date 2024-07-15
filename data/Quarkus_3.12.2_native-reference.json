@@ -1,0 +1,6 @@
+{
+  "title" : "Native Reference Guide for Quarkus",
+  "categories" : [ "native", "performance", "diagnostics" ],
+  "summary" : "This guide focuses on advanced usage of Quarkus with native executables using GraalVM. It provides details on memory management, debugging, frequent issues, and best practices to enhance the performance and reliability of native applications. It covers garbage collectors available, management options, and techniques for inspecting and debugging native executables. Additionally, it discusses generating heap dumps, using JFR for profiling, resolving common build and runtime errors such as unsupported features or configuration issues, and considerations for using experimental options in native configurations.",
+  "uuid" : "97d38488-e80e-4acc-9d3a-87f26773b207"
+}

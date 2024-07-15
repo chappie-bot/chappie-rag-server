@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Native Build Configuration",
+  "categories" : [ "Build Tool Configuration", "Native Compilation", "Quarkus CLI", "Maven", "Gradle" ],
+  "summary" : "The documentation details how to configure native builds in Quarkus using different build tools. For CLI users, the command 'quarkus build --native' is used, with optional additional parameters. Maven users should use './mvnw install -Dnative' with similar parameter flexibility. For Gradle, the command is './gradlew build -Dquarkus.native.enabled=true', also supporting additional parameters. This is useful for developers looking to compile Quarkus applications natively with specific configurations.",
+  "uuid" : "3c8b75ef-30c7-4328-bc4f-0fcc9d30a822"
+}

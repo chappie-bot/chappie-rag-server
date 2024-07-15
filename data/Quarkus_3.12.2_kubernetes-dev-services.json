@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for Kubernetes",
+  "categories" : [ "cloud", "dev-services", "kubernetes", "testing", "dev-mode" ],
+  "summary" : "Quarkus’s Dev Services for Kubernetes automates the setup of a Kubernetes API server for development and testing, negating the need for manual cluster start-up. It automatically configures the Quarkus application to connect with this server. For environments without Docker, manual connection to an existing Kubernetes cluster is required.",
+  "uuid" : "23bc22e8-1f86-4f36-80a5-9f05cf54f07b"
+}

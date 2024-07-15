@@ -1,0 +1,6 @@
+{
+  "title" : "Writing JSON REST Services",
+  "categories" : [ "web", "serialization" ],
+  "summary" : "This guide provides an understanding of how to implement JSON REST services in Quarkus. It covers the creation of REST services that consume and produce JSON payloads, leveraging Quarkus extensions like RESTEasy Reactive, Jackson, and JSON-B. Key features include the setup of Maven projects, creation of JSON endpoints, configuration of JSON serialization/deserialization, and building native executables. It also explores advanced configurations and the use of `Response` and `Uni` for reactive services. The guide is valuable for developers looking to integrate JSON processing in their Quarkus applications.",
+  "uuid" : "96e9e750-08c3-4c6c-ae68-3d76380b7c05"
+}

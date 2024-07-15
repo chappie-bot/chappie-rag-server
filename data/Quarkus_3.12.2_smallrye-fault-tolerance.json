@@ -1,0 +1,6 @@
+{
+  "title" : "SmallRye Fault Tolerance in Quarkus",
+  "categories" : [ "web", "observability" ],
+  "summary" : "The guide provides detailed walkthroughs on implementing fault tolerance in a Quarkus application using the SmallRye Fault Tolerance extension, which conforms to the MicroProfile Fault Tolerance specification. It covers setting up a Maven project, adding necessary dependencies, and specific fault-tolerance strategies including retries, timeouts, fallbacks, circuit breakers, and rate limits. The guide uses practical examples featuring a coffee shop application scenario to explain how each component works by demonstrating both success and failure cases. Additionally, tips on runtime configuration and integrating other Quarkus extensions are provided.",
+  "uuid" : "96a7f105-a80e-4843-b2f6-8a4a86446fc7"
+}

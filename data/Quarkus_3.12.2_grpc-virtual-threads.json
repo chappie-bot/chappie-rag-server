@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Virtual Thread support for gRPC services",
+  "categories" : [ "gRPC", "Virtual Threads", "Reactive Programming" ],
+  "summary" : "This guide discusses how to utilize Java virtual threads in implementing gRPC services with Quarkus to allow blocking operations without blocking the platform thread. It explains using the `@RunOnVirtualThread` annotation in service methods to shift execution from event-loop or worker threads to virtual threads, suitable for JDK 19 or above. The guide includes configuration setups, example implementations, and a pertinent note on the limitations with streaming methods, recommending the Quarkus gRPC extension for optimal integration.",
+  "uuid" : "2faf2e9e-8831-4dd1-add2-5ff173aa1cdd"
+}

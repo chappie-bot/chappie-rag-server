@@ -1,0 +1,6 @@
+{
+  "title" : "Redis Cache",
+  "categories" : [ "data", "cache", "redis" ],
+  "summary" : "This Quarkus guide describes how to use Redis as a cache backend instead of the default Caffeine. It covers installation of necessary extensions, configuring cache properties, serializing objects, and implementing caching strategies such as optimistic locking. It also discusses the construction of cache keys and the automatic eviction of cache entries.",
+  "uuid" : "b6904225-40c7-4abd-81d1-b0e191ad6838"
+}

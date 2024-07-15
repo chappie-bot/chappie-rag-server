@@ -1,0 +1,6 @@
+{
+  "title" : "Mutiny - Async for mere mortals",
+  "categories" : [ "reactive", "programming", "API", "Mutiny" ],
+  "summary" : "Mutiny is a reactive programming library designed to simplify writing reactive applications in Quarkus, focusing on an event-driven and intuitive API. It emphasizes handling asynchronous operations elegantly with 'Uni' for single events and 'Multi' for multiple events. Mutiny integrates deeply with Quarkus, supporting reactive features and enabling non-blocking I/O operations effectively within Quarkus's reactive model. Key concepts include transforming and composing asynchronous operations, handling failures, and integrating with reactive systems like Vert.x. Additionally, Mutiny complies with the Reactive Streams specification, ensuring interoperability with other reactive frameworks.",
+  "uuid" : "c1e07250-e76f-4c28-885a-24e743d0a6a4"
+}

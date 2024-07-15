@@ -1,0 +1,6 @@
+{
+  "title" : "Migrate from OpenTracing to OpenTelemetry tracing",
+  "categories" : [ "observability", "opentracing", "opentelemetry", "tracing", "migration" ],
+  "summary" : "This document provides a comprehensive guide for migrating a Quarkus application from the deprecated OpenTracing framework to OpenTelemetry tracing. It covers a variety of migration scenarios including applications with no manual instrumentation, those with manual instrumentation, and makes use of the OpenTracing Shim for complex, step-by-step migrations. It includes detailed steps for changing dependencies, adjusting application properties, and modifying code with adequate replacements from OpenTelemetry. Various migration paths are explored to accommodate different complexities in existing applications.",
+  "uuid" : "8d3e10ff-d61f-4fc9-89b9-1a48aad3d4d9"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Extension Codestart",
+  "categories" : [ "writing-extensions", "extensions", "codestarts" ],
+  "summary" : "The guide aims to provide instructions on creating and configuring a Quarkus Codestart for extensions, which helps in generating foundational code and resources essential for Quarkus extension development. It discusses tools like code.quarkus.io, Quarkus Maven plugin, and Quarkus CLI to initiate projects, and details on project categorization into 'Base' and 'Extra' codestarts. The document also guides on testing, integrating, and elaborating codestarts with examples using the Quarkus core repository and offers tips for writing effective codestarts.",
+  "uuid" : "f34152f9-86db-4aa9-b2da-f24ca1e9c6c3"
+}

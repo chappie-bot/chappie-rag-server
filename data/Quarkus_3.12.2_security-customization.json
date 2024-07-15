@@ -1,0 +1,6 @@
+{
+  "title" : "Security Tips and Tricks",
+  "categories" : [ "security" ],
+  "summary" : "This document provides detailed guidance on securing Quarkus applications, including how to customize HTTP authentication mechanisms, handle multiple authentication systems, customize security identities, and manage security providers including BouncyCastle configurations. It also covers disabling authorization, observing security events, and specific configurations for reactive security environments.",
+  "uuid" : "f7747c5f-c38b-444d-a4db-f39ea7cbb82d"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Extending Configuration Support in Quarkus",
+  "categories" : [ "Configuration", "Customization", "MicroProfile Config", "Quarkus Core" ],
+  "summary" : "The documentation details how to extend and customize the configuration support in Quarkus applications using MicroProfile Config. It covers custom `ConfigSource`, `ConfigSourceFactory`, `Converter`, and `Config Interceptors`. Key topics include creating and integrating custom configuration sources and converters, managing initialization stages (STATIC and RUNTIME INIT), and using interceptors to modify the configuration value retrieval process. This guide is essential for developers looking to implement advanced configuration handling features in their Quartz-based applications.",
+  "uuid" : "dd9fe54f-dd2c-4bfb-9336-598078af81fb"
+}

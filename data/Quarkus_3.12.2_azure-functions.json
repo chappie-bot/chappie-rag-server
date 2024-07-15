@@ -1,0 +1,6 @@
+{
+  "title" : "Azure Functions",
+  "categories" : [ "cloud", "azure", "serverless", "function" ],
+  "summary" : "This Quarkus documentation explains the integration of Quarkus with Azure Functions via the `quarkus-azure-functions` extension. It details how to set up an Azure Functions project with Quarkus, inject a CDI bean, configure the project, and deploy it to Azure. The guide includes prerequisites, such as having an Azure account and the Azure Functions Core Tools. It also covers local development setup, the deployment process using Maven or Gradle, and how to run integration tests in the local Azure Functions environment.",
+  "uuid" : "5cbc4fcf-f92b-42c6-a9c5-0dd413cb1f10"
+}

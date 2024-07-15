@@ -1,0 +1,6 @@
+{
+  "title" : "Building a Native Executable with Quarkus",
+  "categories" : [ "getting-started", "native" ],
+  "summary" : "This guide assists developers in building native executables using either GraalVM or Mandrel specific for Quark discussions. It starts by compiling and packaging the application into a container, followed by detailing prerequisites such as configuring a C development environment and installing GraalVM or Mandrel. The document also covers how to configure and debug the native executable. Developers can build native executables optimized for containerized environments, particularly targeting Linux. Key features and differences between Oracle GraalVM and Mandrel are discussed to help make informed decisions tailored to project needs.",
+  "uuid" : "67c42b1d-3d2f-4a05-9823-d443129a2613"
+}

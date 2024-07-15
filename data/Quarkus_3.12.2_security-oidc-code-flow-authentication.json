@@ -1,0 +1,6 @@
+{
+  "title" : "OpenID Connect authorization code flow mechanism for protecting web applications",
+  "categories" : [ "security", "web" ],
+  "summary" : "The documentation details the OpenID Connect (OIDC) Authorization Code Flow mechanism as implemented in Quarkus for securing web applications. It explains how this method works by directing users to an OIDC provider for authentication and subsequently handling the authorization code returned from the provider. Key aspects include how Quarkus applications use the tokens received (ID token, access token, and refresh token) to manage user authentication and maintain session security. It also covers configuration settings necessary for setting up and customizing the OIDC code flow, including endpoint discovery, provider client authentication, request filtration, and redirection management.",
+  "uuid" : "6dea36d8-fb6a-4c08-856d-68089bcd7c1f"
+}

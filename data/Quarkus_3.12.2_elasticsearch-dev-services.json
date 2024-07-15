@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for Elasticsearch",
+  "categories" : [ "data", "search", "elasticsearch", "nosql", "dev-services", "testing", "dev-mode" ],
+  "summary" : "Documentation on Quarkus covers automatic provisioning of an Elasticsearch server in development and test modes, when an Elasticsearch-related extension is included. Key features include auto-configuration, auto-start using Docker, port settings, image configuration, and container reuse. Dev Services for Elasticsearch supports Elasticsearch and OpenSearch distributions. It details how to enable, disable, share, and configure the service, including setting specific ports, choosing the distribution, and reusing Dev Services across multiple runs or sessions.",
+  "uuid" : "bd9222a3-ed09-4546-a6a3-98cb8bc3a6fb"
+}

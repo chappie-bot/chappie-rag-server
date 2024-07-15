@@ -1,0 +1,6 @@
+{
+  "title" : "Using the MongoDB Client with Quarkus",
+  "categories" : [ "data", "mongodb", "nosql", "quarkus", "database" ],
+  "summary" : "This guide provides detailed instructions on integrating MongoDB with Quarkus applications. It covers setup, configuration, creating a Maven project, and building both simple and reactive REST APIs to interact with MongoDB. Useful for developers needing to implement MongoDB in their Quarkus applications or those seeking to utilize multiple MongoDB clients or connections in their projects.",
+  "uuid" : "77440ce0-0c3d-47b9-a047-4305a7038ce4"
+}

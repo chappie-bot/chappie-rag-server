@@ -1,0 +1,6 @@
+{
+  "title" : "Understanding Quarkus Documentation Structure",
+  "categories" : [ "Documentation", "Concept Guides", "Best Practices" ],
+  "summary" : "This document provides guidance on structuring, framing, and authoring concept-type documentation within the Quarkus ecosystem. It helps contributors understand how to create meaningful and interconnected content using Quarkus documentation guidelines, emphasizing the importance of context, explanation, and the use of cross-references to enhance comprehension and navigation. Additionally, the document includes tips on language usage and instructions on creating anchors for better documentation navigation.",
+  "uuid" : "d553cda4-815a-4b3e-89c1-496881c2bc89"
+}

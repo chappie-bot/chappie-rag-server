@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with Quarkus Messaging and Apache Kafka",
+  "categories" : [ "messaging", "kafka", "reactive-messaging", "Quarkus extensions" ],
+  "summary" : "This document provides a comprehensive guide on how to leverage Quarkus Messaging to interact with Apache Kafka. It covers prerequisites, architectural overview, setup of Maven projects for producer and processor applications, and describes how to manage messaging through the Kafka connector for Reactive Messaging. The guide includes practical examples of creating, consuming, and processing live quote requests using Apache Kafka topics, and explains how to configure and run the applications in various environments.",
+  "uuid" : "37b1fbff-84d8-43b2-93b2-6b1f6851f948"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Extension for Spring Security API",
+  "categories" : [ "compatibility", "security", "spring" ],
+  "summary" : "This guide details how to use the Quarkus extension for Spring Security to apply authorization annotations on RESTful services. It emphasizes the utility of the Quarkus compatibility layer for users familiar with Spring Security, providing steps to create a Maven project integrated with `spring-web`, `spring-security`, and other relevant extensions. Key functionalities include role-based and method-level security, along with examples on securing endpoints using the `@Secured` and `@PreAuthorize` annotations. Useful for developers transitioning from Spring to Quarkus or integrating Quarkus into Spring-based projects.",
+  "uuid" : "bd94226c-d6d4-4269-af0f-a7dd5ecf241e"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Infinispan Client Extension Reference Guide",
+  "categories" : [ "data", "infinispan", "cache" ],
+  "summary" : "The Infinispan Client Extension allows Quarkus applications to connect to remote Infinispan clusters, providing a scalable, distributed in-memory key/value store. It includes features for cache configuration, health checking, custom serialization, and querying data effectively. This guide discusses installation, configuration, implementing cache strategies, connecting to multiple clusters, query capabilities via indexing, managing protobuf schemas, and securing connections using SSL/TLS. It is essential for users looking to implement robust data management strategies utilizing Infinispan with Quarkus.",
+  "uuid" : "672b350a-c9b2-4deb-b095-56caf400a461"
+}

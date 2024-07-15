@@ -1,0 +1,6 @@
+{
+  "title" : "Writing REST Services with Quarkus REST",
+  "categories" : [ "web" ],
+  "summary" : "This guide covers how to create reactive and scalable REST services using Quarkus REST, which is based on the Jakarta REST specification. It includes details on setting up REST endpoints, handling HTTP methods, and utilizing different annotations for routing and parameter capturing. The guide further explains how to handle different data types, including JSON and custom serializers. Additionally, advanced features like request/response filters, exception mapping, and entity readers and writers are covered to enhance API functionality and error handling.",
+  "uuid" : "a2580dd0-b011-4776-812c-2ed6b82686c1"
+}

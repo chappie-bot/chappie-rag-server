@@ -1,0 +1,6 @@
+{
+  "title" : "Understanding Quarkus Development Mode vs. Production Applications",
+  "categories" : [ "architecture", "internals", "dev-mode" ],
+  "summary" : "The document discusses the key differences between the development mode and production mode in Quarkus. Key points include: Development mode features such as live reload, Dev UI, and special handling of errors and databases, which are absent in production mode. Dev Mode employs a different class loader architecture that supports live code reloading not present in production applications. Quarkus in dev mode offers numerous features aimed at enhancing developer productivity, which should not be used in production environments due to security and performance considerations.",
+  "uuid" : "bef54ee7-bc58-4aca-8360-3517965bbd10"
+}

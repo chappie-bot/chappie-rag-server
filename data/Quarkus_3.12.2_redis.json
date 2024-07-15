@@ -1,0 +1,6 @@
+{
+  "title" : "Using the Redis Client in Quarkus",
+  "categories" : [ "data", "redis", "nosql" ],
+  "summary" : "Guide to integrating a Quarkus application with a Redis datastore using the Quarkus Redis Client extension. It includes prerequisites like Docker, describes the architecture for a REST API using Redis commands, and details step-by- step setup for a Maven project. The guide also contains code snippets for creating service components and resource management endpoints, as well as instructions for testing, deployment in JVM and native modes, and further references for deep diving into Redis with Quarkus.",
+  "uuid" : "68bed140-f68b-4ac1-9888-e07be914ad6f"
+}

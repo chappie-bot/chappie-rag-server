@@ -1,0 +1,6 @@
+{
+  "title" : "Mapping Configuration to Objects in Quarkos",
+  "categories" : [ "configuration" ],
+  "summary" : "This Quarkus guide explains how to use @ConfigMapping to map configuration properties to Java interface methods. It covers various aspects like initialization stages (STATIC INIT and RUNTIME INIT), registration, retrieval methods for CDI and non-CDI contexts, extending through nested groups, custom property name overriding, support for multiple naming strategies, type conversions, and mapping collections, maps, and defaults. Additionally, it addresses mocking and validation requirements, including integration with bean validation and mocking of configuration objects in tests.",
+  "uuid" : "a4eefbbc-2ee4-45c1-9d98-38b2c40d16c4"
+}

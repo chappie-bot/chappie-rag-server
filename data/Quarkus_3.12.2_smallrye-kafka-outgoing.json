@@ -1,0 +1,6 @@
+{
+  "title" : "Configuration Attributes for SmallRye Kafka Connector in Quarkus",
+  "categories" : [ "Quarkus", "Kafka", "SmallRye", "Configuration", "Messaging" ],
+  "summary" : "This section of the Quarkus documentation provides an exhaustive list of configuration attributes available when using the SmallRye Kafka connector. It includes both mandatory and optional settings along with their default values. Notable attributes include message acknowledgment settings, Kafka cluster connection details, Cloud Event settings, serialization configurations, and health check capabilities. Each attribute’s role within outgoing connections to Kafka is explained, including types and default setups. This is valuable for users seeking to understand or customize Kafka message production within a Quarkus application.",
+  "uuid" : "3b9097fc-a0c5-4626-b253-90c17c4c2330"
+}

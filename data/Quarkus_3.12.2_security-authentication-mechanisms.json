@@ -1,0 +1,6 @@
+{
+  "title" : "Authentication mechanisms in Quarkus",
+  "categories" : [ "security", "web" ],
+  "summary" : "The document explores various authentication mechanisms available in Quarkus, including built-in and extension-supported mechanisms. It covers basic, form-based, mutual TLS, OIDC (Bearer token and Code Flow), JWT, and OAuth2 authentication strategies, discussing configurations, usage, and suitable scenarios. Additionally, the document details combining authentication methods and provides resources for further reading on securing Quarkus applications.",
+  "uuid" : "14264b0c-e07b-46b6-9653-62e4d9659f75"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Understanding Quarkus Platform and Platform Artifacts",
+  "categories" : [ "architecture", "internals", "platform" ],
+  "summary" : "This documentation explains the concept of a Quarkus Platform within the Quarkus ecosystem, detailing how a Quarkus platform integrates extensions and ensures their compatibility. It covers how a Quarkus platform is defined, the role of the Quarkus Platform BOM in managing dependencies, and the specific artifacts involved such as the Quarkus Platform Descriptor and Quarkus Platform Properties. This information is crucial for understanding how to set up and maintain a Quarkus project that is cleanly integrated into any organizational architecture, leveraging Quarkus tools for adding or removing extensions.",
+  "uuid" : "cd5081d9-d932-4edf-9e65-3f69ca876991"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Build, Sign and Encrypt JSON Web Tokens with Quarkus",
+  "categories" : "Security, JWT",
+  "summary" : "This document provides comprehensive guidance on utilizing JWTs for securing claims which can be signed, encrypted, or both in a Quarkus application using SmallRye JWT Build. It outlines how to create `JwtClaimsBuilder`, sign using RSA or EC private keys, encrypt claims using public keys, and configure key management related properties. The document also elaborates on configuring JWT tokens' lifespan, issuer, audience, and the use of key locations for both signing and encrypting JWTs. Additionally, it covers the integration of external services for key management such as HashiCorp Vault and the establishment of efficient JWT generation and security patterns.",
+  "uuid" : "18f59286-48f9-46f2-a1b5-b7c03c9b13df"
+}

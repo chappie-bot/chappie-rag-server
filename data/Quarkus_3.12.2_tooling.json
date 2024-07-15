@@ -1,0 +1,6 @@
+{
+  "title" : "Using our Tooling",
+  "categories" : [ "getting-started" ],
+  "summary" : "This guide covers the complete Quarkus toolchain, designed to enhance developer productivity across numerous stages of project development. It includes details on how to use Maven and Gradle as build tools, the Quarkus CLI for toolchain management, enabling live reload, and setting up Quarkus tools in various IDEs like VS Code, Eclipse, and IntelliJ IDEA. Suitable for users looking to setup or enhance their development environment efficiently.",
+  "uuid" : "d39d9915-bc8b-488b-97bd-ebaad34081a7"
+}

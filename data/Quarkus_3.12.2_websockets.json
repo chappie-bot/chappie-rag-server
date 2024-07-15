@@ -1,0 +1,6 @@
+{
+  "title" : "Using WebSockets in Quarkus",
+  "categories" : [ "web", "websockets" ],
+  "summary" : "The document describes how to implement WebSockets in a Quarkus application to facilitate real-time communication. It covers creating a new Quarkus project with WebSocket extension, building a simple chat application, handling WebSocket events, and testing the application. Additionally, it explains using WebSocket clients and provides guidance on setting up the client-server communication with annotated endpoints. Useful for developers interested in integrating WebSockets for interactive features in web apps.",
+  "uuid" : "03cf87af-2c16-45e3-8195-e0906382304a"
+}

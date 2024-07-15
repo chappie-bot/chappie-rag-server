@@ -1,0 +1,6 @@
+{
+  "title" : "Simplifying MongoDB Operations with Panache in Quarkus",
+  "categories" : [ "data", "mongodb", "nosql", "panache", "kotlin" ],
+  "summary" : "This guide provides a detailed walkthrough on how to simplify MongoDB operations in Quarkus using the Panache extension. It covers active record and repository styles, efficient querying, Maven project setup, entity and repository setup, transactions, and advanced configurations. The document also explores multi-tenancy, reactive programming models, and best practices for MongoDB with Panache in Quarkus, highlighting the differences between imperative and reactive programming styles.",
+  "uuid" : "9aa3cf79-d70f-4286-b47d-075a2ccef100"
+}

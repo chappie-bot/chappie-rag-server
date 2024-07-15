@@ -1,0 +1,6 @@
+{
+  "title" : "Kafka Dev UI",
+  "categories" : [ "messaging", "kafka", "dev-ui", "dev-mode" ],
+  "summary" : "The Kafka Dev UI is an extension integrated into Quarkus Dev UI, enabling easy management of Apache Kafka within a Quarkus application during development. This UI allows developers to perform actions such as managing topics, visualizing and publishing records, and inspecting consumer groups. It becomes available automatically when using any Kafka-related extensions like 'quarkus-messaging-kafka'. Note that this feature is only accessible in the development mode of the application.",
+  "uuid" : "f1aabaa8-5d14-43d0-ab78-a844a216ec23"
+}

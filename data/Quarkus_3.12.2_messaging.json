@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Messaging Extensions",
+  "categories" : [ "messaging", "reactive-messaging", "microprofile", "event-driven" ],
+  "summary" : "The Quarkus Messaging Extensions documentation provides a comprehensive guide on building message-driven applications using Quarkus. It covers different connectors like Kafka, Pulsar, RabbitMQ, and AMQP, as well as Reactive HTTP and WebSocket connectors among others. Key features include a uniform development model for message processing using annotations like @Incoming and @Outgoing, channel configuration, and advanced messaging patterns with reactive streams. The document also explores channel management, message processing details, stream handling, metrics, health checks, and testing approaches, providing links to further resources for in-depth understanding.",
+  "uuid" : "7915f1f0-1474-4bcb-b03e-3a307ce03c7f"
+}

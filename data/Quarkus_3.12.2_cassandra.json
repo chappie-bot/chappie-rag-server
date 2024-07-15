@@ -1,0 +1,6 @@
+{
+  "title" : "Using the Cassandra Client with Quarkus",
+  "categories" : [ "Cassandra", "Quarkus", "Data Model", "Data Access", "REST API", "Reactive Programming", "Health Checks", "Metrics", "Native Compilation" ],
+  "summary" : "This documentation details integrating Apache Cassandra with Quarkus, utilizing the DataStax Java driver and Object Mapper. It guides through setting up a REST application, configuring the Cassandra client, creating and managing data models, and accessing data reactively. It covers how to handle JSON conversions, configure client properties, and connect to both local and cloud-based Cassandra instances. It also discusses health checks, metrics, native image compilation, and provides a sample application for managing a list of fruits stored in Cassandra.",
+  "uuid" : "317e807c-4a50-437c-927b-4379e83bdebc"
+}

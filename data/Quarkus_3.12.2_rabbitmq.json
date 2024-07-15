@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with Quarkus Messaging using RabbitMQ",
+  "categories" : [ "messaging", "reactive-messaging", "rabbitmq" ],
+  "summary" : "This Quarkus guide describes how to implement RabbitMQ messaging within a Quarkus application. It outlines setting up a producer and processor to handle quote requests and responses using RabbitMQ exchanges and queues. The document details the prerequisites, architecture, project creation, message processing, and running the applications in both JVM and native modes. It emphasizes the use of SmallRye Reactive Messaging for handling data streams and provides specific configuration steps for integrating RabbitMQ as the message broker. Additionally, it describes Docker setup to support different environments and build styles.",
+  "uuid" : "6f55443b-2c7e-42cb-9fe6-07d87c4ea969"
+}

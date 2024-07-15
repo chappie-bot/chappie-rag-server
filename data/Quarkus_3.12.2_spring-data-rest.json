@@ -1,0 +1,6 @@
+{
+  "title" : "Extension for Spring Data REST",
+  "categories" : [ "compatibility", "spring", "data", "hibernate-orm", "jpa", "rest" ],
+  "summary" : "The documentation describes how to use the Quarkus extension for Spring Data REST to simplify creating CRUD applications. It covers setup, configuration, defining entities and repositories, and explains both supported and unsupported Spring Data REST features in Quarkus. Essential commands for adding the extension, running the application, and useful configurations for database interactions are provided. Additional functionalities like secure endpoints, pagination, and method exposure customization using Spring Data REST annotations are discussed.",
+  "uuid" : "6cf7779b-408a-4c7d-8403-ad670c08499f"
+}

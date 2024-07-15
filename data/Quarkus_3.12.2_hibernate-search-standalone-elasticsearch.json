@@ -1,0 +1,6 @@
+{
+  "title" : "Using Hibernate Search in Standalone Mode with Elasticsearch/OpenSearch",
+  "categories" : [ "data", "hibernate-search", "elasticsearch", "opensearch", "search", "nosql" ],
+  "summary" : "This guide provides instructions on integrating Hibernate Search in standalone mode for full-text search capabilities using Elasticsearch or OpenSearch. It covers entity indexing, using Hibernate Search annotations, configuring analyzers and normalizers, and implementing CRUD operations through a REST service. It also touches upon schema management, automatic data initialization, creating a frontend, building native executables, and the configuration and mappings necessary for using Hibernate Search with Quarkus. Additional features discussed are programmatic mapping, offline startup, management endpoints, dealing with Elasticsearch/OpenSearch compatibility and limitations, and extending Hibernate Search with custom components.",
+  "uuid" : "6c13c3df-c187-4018-810b-12cd12c945e7"
+}

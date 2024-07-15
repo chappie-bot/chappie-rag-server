@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Extension for Spring Cache API",
+  "categories" : [ "compatibility", "spring", "cache" ],
+  "summary" : "The document guide provides information on how to integrate and use the Spring Cache API within a Quarkus application. It details prerequisites such as familiarity with Spring DI and outlines steps to create a Maven project integrated with `spring-cache` and `spring-di` extensions. Essential for developers needing to leverage Spring Cache annotations in Quarkus for data caching in Spring beans. Additionally, it demonstrates how to enable caching, discusses supported cache-related annotations, and informs about future support for more comprehensive features of these annotations.",
+  "uuid" : "617f522e-bbbf-4edf-90b7-1b0ef4ef74af"
+}

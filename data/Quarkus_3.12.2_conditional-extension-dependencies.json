@@ -1,0 +1,6 @@
+{
+  "title" : "Conditional Extension Dependencies in Quarkus",
+  "categories" : [ "Writing Extensions" ],
+  "summary" : "This documentation outlines how to configure conditional dependencies for Quarkus extensions. It explains the concept of conditional dependencies, which should only activate under certain conditions, making them useful for managing optional extension components. Developers can set up these conditions in the Quarkus extension descriptor within their Maven or Gradle build files. An example scenario provided demonstrates how one Quarkus extension can depend conditionally on another, depending on if a third extension is present.",
+  "uuid" : "ccf2a12f-4354-432f-81d0-e30ee3564aa7"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Effective How-To Guide Creation in Quarkus",
+  "categories" : [ "documentation", "how-to", "guidelines" ],
+  "summary" : "This Quarkus documentation outlines best practices for creating effective and goal-oriented how-to guides. It emphasizes the need for practical usability over thoroughness and suggests being adaptable to varying real-world situations. The guide provides critical information on prerequisites, problem definitions, and valuable resources for better guide structuring. Specific guidance is given on linking to relevant concepts rather than explaining them, creating clear, actionable paths for users, and including cross-references for enhanced navigation. For those new to writing how-to guides or seeking to refine their documentation, this resource offers a structured approach to developing helpful, concise, and engaging content.",
+  "uuid" : "92d5cea1-a5ea-4732-8c06-5b503a3c760d"
+}

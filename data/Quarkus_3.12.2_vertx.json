@@ -1,0 +1,6 @@
+{
+  "title" : "Using Eclipse Vert.x API from a Quarkus Application",
+  "categories" : [ "miscellaneous" ],
+  "summary" : "This guide explains how to use the Eclipse Vert.x API in Quarkus applications for building reactive applications. Key areas covered include utilizing the managed instance of Vert.x, the event bus, and the Vert.x Web Client. The guide includes step-by-step instructions for creating HTTP endpoints, using the event bus for message-based interactions, and leveraging the Vert.x Web Client to access external APIs. It also touches on using asynchronous code from a blocking thread with examples of operational constructs in Quarkus.",
+  "uuid" : "40d2e3e7-64fd-49f7-b4cc-6ca96d2882da"
+}

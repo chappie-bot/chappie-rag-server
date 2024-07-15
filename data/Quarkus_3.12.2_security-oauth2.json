@@ -1,0 +1,6 @@
+{
+  "title" : "Using OAuth2 RBAC in Quarkus",
+  "categories" : [ "security", "oauth2", "identity-providers" ],
+  "summary" : "This guide expounds on how to leverage OAuth2 tokens within a Quarkus application to secure Jakarta REST endpoints. It covers creating a secure application using the Elytron Security OAuth2 extension, setting up properties, and securing and testing endpoints. Practical steps for creating projects, integration and securing endpoints with role-based access control (RBAC) are detailed. Includes references for additional configurations and testing with Wiremock.",
+  "uuid" : "571ece4d-95dc-4e7a-b6ca-0ce05a9a2eb8"
+}

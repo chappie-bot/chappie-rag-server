@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started With Reactive",
+  "categories" : [ "getting-started", "reactive" ],
+  "summary" : "This guide provides an introduction to building reactive applications with Quarkus. It covers the essentials of the Reactive architecture, using Hibernate Reactive with Panache for database interactions, and implementing an HTTP API with Quarkus REST. The guide explains the differences between the imperative and reactive models, emphasizes non-blocking I/O operations, and details how to bootstrap a reactive CRUD application. It also introduces the usage of Mutiny for reactive programming in Quarkus, and discusses testing, packaging, and running reactive applications.",
+  "uuid" : "3466926e-35a0-435a-8948-34eb514e611a"
+}

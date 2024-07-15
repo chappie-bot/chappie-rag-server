@@ -1,0 +1,6 @@
+{
+  "title" : "Understanding Quarkus Extension Statuses",
+  "categories" : [ "Quarkus", "Extensions", "Development" ],
+  "summary" : "The documentation explains the various statuses assigned to Quarkus extensions such as experimental, preview, stable, and deprecated. Each status indicates the level of stability, backward compatibility, and support expectations. Users are encouraged to provide feedback on experimental and preview extensions while acknowledging the implications of using deprecated ones. The document links to resources for feedback and a FAQ for additional details on extension statuses.",
+  "uuid" : "c1a543e7-3575-42e1-9afd-86b5596b78ff"
+}

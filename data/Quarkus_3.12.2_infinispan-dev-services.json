@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for Infinispan",
+  "categories" : [ "data", "testing", "dev-mode" ],
+  "summary" : "Guide on how to automatically spin up an Infinispan server using Quarkus Dev Services for development and testing environments, with details on configuration, overriding default settings, and integrating advanced features such as Cross Site Replication and OpenTelemetry.",
+  "uuid" : "0d95ca05-1cf9-46cd-9449-3a407a52d75d"
+}

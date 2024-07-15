@@ -1,0 +1,6 @@
+{
+  "title" : "Command Mode with Picocli",
+  "categories" : [ "command-line", "cli", "picocli" ],
+  "summary" : "This Quarkus guide provides detailed instructions on integrating the Picocli library to create command line applications. It covers installation of the Picocli extension, basic and advanced usage including creating commands and subcommands, integrating CDI beans, customization of the command line instance, handling different build profiles, and providing your own application entry point. Additionally, the document addresses potential issues when dealing with native compilation and offers solutions for Kubernetes integration, making it an essential resource for developers seeking to leverage Quarkus for CLI applications.",
+  "uuid" : "63b7a3d9-72c4-47af-a953-d8ebbef92c31"
+}

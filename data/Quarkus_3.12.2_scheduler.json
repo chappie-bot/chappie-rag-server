@@ -1,0 +1,6 @@
+{
+  "title" : "Scheduling Periodic Tasks",
+  "categories" : [ "miscellaneous", "scheduling", "cronjob", "scheduler extension" ],
+  "summary" : "The guide details how to implement and manage periodic tasks in a Quarkus application using the Quarkgiven once an hour.use of the Quarkus scheduler extension. It covers the architecture of a simple application that increments a counter every 10 seconds, and showcases how to set up a Maven project, configure and use the scheduler, create scheduled jobs with both fixed rates and cron expressions, and how to package and run the application. The documentation also explains how to schedule tasks in a cluster using the Quartz extension and provides a reference for scheduler configuration.",
+  "uuid" : "93282ef3-f5bc-49f5-8ca7-10957d5590b6"
+}

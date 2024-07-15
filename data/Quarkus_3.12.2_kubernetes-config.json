@@ -1,0 +1,6 @@
+{
+  "title" : "Kubernetes Config",
+  "categories" : [ "cloud", "kubernetes", "openshift", "configuration", "configmap" ],
+  "summary" : "The Quarkus Kubernetes Config documentation outlines how to integrate Kubernetes ConfigMaps and Secrets as configuration sources in a Quarkus application. It covers installation of the kubernetes-config extension, its usage, different types of supported ConfigMaps and Secrets, configuration properties precedence, necessary Kubernetes permissions, and provides examples on configuring Quarkus applications to use Kubernetes ConfigMaps and Secrets for external configuration, particularly useful in production environments.",
+  "uuid" : "2937bc12-5504-456f-a7f8-ce41d97c40c2"
+}

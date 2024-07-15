@@ -1,0 +1,6 @@
+{
+  "title" : "Guide to Creating Effective Quarkus Tutorials",
+  "categories" : [ "tutorial", "best practices" ],
+  "summary" : "This documentation provides a structured approach to creating impactful tutorials for Quarkus users. Readers will learn to outline essential prerequisites, structure their content effectively, and utilize clear language to guide learners through the steps of building, deploying, or creating projects. The guide also includes best practices for referencing and cross-referencing materials, aimed at enhancing the learner's ability to navigate and understand the connection between different pieces of content.",
+  "uuid" : "ae281fac-28bd-4779-8b35-d2c71086790d"
+}

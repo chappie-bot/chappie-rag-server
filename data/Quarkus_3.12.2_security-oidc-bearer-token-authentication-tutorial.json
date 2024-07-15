@@ -1,0 +1,6 @@
+{
+  "title" : "Protect a service application by using OpenID Connect (OIDC) Bearer token authentication",
+  "categories" : [ "security", "OIDC", "bearer token", "authentication", "Keycloak", "Jakarta REST" ],
+  "summary" : "This tutorial guides users on how to secure a Jakarta REST application using the Quarkus OIDC extension with Bearer token authentication, issued by providers like Keycloak. It provides a comprehensive tutorial on setting up the environment, including prerequisites like Docker and the jq tool, crafting the Maven project with necessary dependencies, and demonstrating through simple user and admin protected endpoints. Additionally, it details configuring the server settings for development and production, managing tokens with Keycloak, and running the application in various modes (dev, JVM, native). It also includes instructions for testing the secured endpoints using curl and obtaining the necessary tokens for different user roles.",
+  "uuid" : "2a3ec9da-5cc8-418e-8f4d-8213b97ee9ce"
+}

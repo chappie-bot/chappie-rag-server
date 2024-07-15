@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Reactive Messaging RabbitMQ Connector",
+  "categories" : [ "quarkus", "rabbitmq", "reactive-messaging", "messaging", "amqp" ],
+  "summary" : "Quarkus provides a Reactive Messaging RabbitMQ Connector for integrating reactive applications with RabbitMQ using the AMQP 0-9-1 protocol. This connector facilitates both inbound and outbound communication, allowing applications to consume and produce messages effectively. Configuration involves adding the `quarkus-messaging-rabbitmq` extension and setting required properties such as host, port, username, and password in `application.properties`. It supports automatic recovery, SSL configuration, and can be integrated with health checks in Quarkus. Users can either manually acknowledge messages or configure auto-acknowledgement. Moreover, the connector allows for customizing message serialization, deserialization, and configuring exchanges or queues specifically for each channel. For dynamic scale and security, it integrates with Vault for managing credentials. This connector is appropriate for developers implementing microservices that interact with RabbitMQ for asynchronous messaging.",
+  "uuid" : "5a3a4c54-6688-47f2-8586-beaa98f36ef7"
+}

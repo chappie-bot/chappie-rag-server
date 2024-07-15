@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Maven Plugin",
+  "categories" : [ "Maven", "Tooling" ],
+  "summary" : "The Quarkus Maven Plugin is designed to build Quarkus applications, enable dev mode, and build native executables. It provides a 'help' goal to describe the plugin's functionality and list all available goals. Detailed parameter information for each goal can also be accessed, such as through the `create` goal example provided. For comprehensive usage, the Maven Tooling guide should be referred to.",
+  "uuid" : "617e2934-7c34-43b2-9ff7-9e80c6a7f0ba"
+}

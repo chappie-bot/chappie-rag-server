@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Pulsar Producer Configuration Attributes",
+  "categories" : [ "Configuration", "Messaging", "Pulsar", "Producer" ],
+  "summary" : "The document details the configuration attributes for a Pulsar Producer in a Quarkus application. Each attribute such as topicName, producerName, sendTimeoutMs, and blockIfQueueFull, among others, are explained with their respective types, default values, and a brief description. Specific configurations related to message handling like batching, chunking, compression, and encryption are also covered. This provides important information for users looking to customize the behavior of Pulsar Producers in their Quarkus applications.",
+  "uuid" : "55a3a326-3e02-46a2-95f9-ca28a76a534e"
+}

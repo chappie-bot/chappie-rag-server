@@ -1,0 +1,6 @@
+{
+  "title" : "Funqy Knative Events Binding",
+  "categories" : [ "cloud", "serverless", "function", "Quarkus", "Funqy" ],
+  "summary" : "This guide provides detailed instructions on using Quarkus Funqy with Knative Events for serverless event-driven function execution. It includes setup information, prerequisites such as understanding Funqy basics and setting up Knative, configuring function triggers through Cloud Event types, and deploying functions as Kubernetes services. The documentation also covers building and deploying a sample application that uses function chaining to process events, demonstrating end-to-end usage from local setup to cloud deployment.",
+  "uuid" : "0d84a5c5-6cd0-45e3-9656-75597a9a6d48"
+}

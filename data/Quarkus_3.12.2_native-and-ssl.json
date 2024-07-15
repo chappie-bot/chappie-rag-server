@@ -1,0 +1,6 @@
+{
+  "title" : "Using SSL With Native Executables in Quarkus",
+  "categories" : [ "core", "native", "security" ],
+  "summary" : "This guide describes how to enable SSL support in native executables using Quarkus, which is not supported out of the box. Key topics include environment prerequisites, enabling SSL by default when using Quarkus extensions, and configuring SSL explicitly via 'quarkus.ssl.native' for native images. The guide also discusses the impacts of disabling SSL, like reduced executable size, and outlines how to handle certificate management at build-time and run-time. It is useful for users aiming to secure their Quarkus applications running as native binaries.",
+  "uuid" : "7f0256ad-01bc-4f1d-a144-13afaaee552a"
+}

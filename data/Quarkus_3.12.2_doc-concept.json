@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Documentation Content Types",
+  "categories" : [ "contributing", "internals", "documentation" ],
+  "summary" : "Quarkus documentation follows the Diátaxis framework, which organizes content into four main types: concept guides (explanation), how-to guides (directions), tutorials (lessons), and reference guides (technical descriptions). Each type is designed to fulfill specific user needs: understanding concepts, performing tasks, learning through doing, and providing technical reference, respectively. This structured approach aids in creating clear, purpose-driven documentation. Whether you need background on a concept, a guide to solving a particular problem, learning resources for building projects, or technical details about Quarkus functionality, the documentation is arranged to efficiently address these different aspects.",
+  "uuid" : "afb73ef7-3216-4b46-ad0a-764537cc8e80"
+}

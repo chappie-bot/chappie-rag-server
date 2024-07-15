@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chappie</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="shortcut icon" type="image/png" href="./static/favicon.ico">
+        {#bundle /}
+    </head>
+
+    <body>
+        <chappie-app>
+            <chappie-header></chappie-header>
+            <main>
+                <chappie-product></chappie-product>
+                <div id="outlet">
+                    <div class="loading-indicator">
+                        <img src="/static/logo.png" alt="chappie"/>
+                        <h1 style="font-family:'Future Now';font-weight:normal;font-size:84px">Chappie</h1>
+                    </div>
+                </div>
+            </main>
+
+            <footer>
+                <span>&copy; {config:['copyright.year']} chappie-bot.org | v{config:['quarkus.application.version']}</span>
+            </footer>
+        </chappie-app>
+    </body>
+
+</html>

@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus gRPC Integration Guide",
+  "categories" : [ "serialization", "gRPC", "microservices" ],
+  "summary" : "The documentation covers how Quarkus integrates gRPC for high-performance RPC in various languages and frameworks, suitable for microservice architectures. It details implementing and consuming gRPC services within Quarkus, supporting features like HTTP/2, TLS, mutual authentication, and xDS integration. Key aspects include reactive support and in-process gRPC development using Vert.x. Links to getting started guides, service implementation and consumption, Kubernetes deployment, and reference guides are provided.",
+  "uuid" : "c5969f14-f23c-4ece-b97f-2c18267885ff"
+}

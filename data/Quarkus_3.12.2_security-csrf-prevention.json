@@ -1,0 +1,6 @@
+{
+  "title" : "Cross-Site Request Forgery Prevention",
+  "categories" : [ "security", "csrf", "http" ],
+  "summary" : "The Quarkus guide on CSRF prevention covers techniques to secure web applications against CSRF attacks using the double-submit cookie method. The guide explains how to use the Quarkus CSRF reactive extension to generate and verify CSRF tokens in forms and headers, configuration options for customization, and includes examples on how to create a project, modify it for CSRF prevention, and handle CSRF in REST endpoints.",
+  "uuid" : "a1f06a39-bded-4520-b81b-6ac2bc7a2098"
+}

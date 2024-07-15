@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with Quarkus Messaging and AMQP 1.0",
+  "categories" : [ "messaging", "amqp" ],
+  "summary" : "This guide details how to use Quarkus Messaging with AMQP 1.0 for building applications that send and receive messages. It includes detailed setup instructions for two communicating applications (a producer and a processor), utilizing Apache Artemis as the broker. The guide covers prerequisites, architectural setup, and step-by-step instructions for project creation, Maven configurations, and operations with AMQP queues. It also includes guidelines for running the applications in JVM or Native modes and making use of Docker containers for deployment. This tutorial is useful for individuals looking to implement AMQP 1.0 messaging in their Quarkus applications.",
+  "uuid" : "24c82056-60db-4efd-80e2-8fac8c7096a3"
+}

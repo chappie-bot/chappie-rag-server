@@ -1,0 +1,6 @@
+{
+  "title" : "Using the legacy REST Client with Multipart",
+  "categories" : [ "web", "REST", "multipart", "RESTEasy" ],
+  "summary" : "This document guide explains how to utilize the RESTEasy Classic Client for handling 'multipart/form-data' to facilitate document uploads or other forms of data packaging. Although Quarkus now recommends using the more modern Quarkus REST, the guide provides a detailed legacy approach. It covers prerequisites, setting up a Maven project with necessary extensions, configuring data models, defining REST client interfaces, and creating configurations and tests. It also steps through building and running the application, adjusting properties, and providing further resources for deep diving into RESTEasy multipart handling.",
+  "uuid" : "4a64f4bd-df96-4242-8565-a27ec46f4a21"
+}

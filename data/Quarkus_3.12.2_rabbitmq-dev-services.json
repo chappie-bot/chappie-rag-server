@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for RabbitMQ in Quarkus",
+  "categories" : [ "messaging", "reactive-messaging", "rabbitmq", "dev-services", "testing", "dev-mode" ],
+  "summary" : "Quarkus Dev Services for RabbitMQ simplifies the development and testing of applications by automatically starting a RabbitMQ broker in dev mode and during tests, without manual setup. It offers configurations for enabling/disabling the service, port settings, image customization, and management UI access. Features such as shared broker setup, predefined topologies with exchanges, queues, and bindings are covered. Additionally, it includes service discovery mechanisms for shared brokers in multiple Quarkus applications, and the ability to define custom RabbitMQ configurations for development purposes.",
+  "uuid" : "41bc2d18-5129-42ca-b1d2-c7eb4cb76bc5"
+}

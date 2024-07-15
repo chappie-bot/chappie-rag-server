@@ -1,0 +1,6 @@
+{
+  "title" : "Scheduling Periodic Tasks with Quartz",
+  "categories" : [ "scheduling", "cronjob", "quartz" ],
+  "summary" : "This guide details the set up and configuration of the Quarkus Quartz extension for scheduling periodic clustered tasks. It outlines setting up a Maven project, creating Task entities, scheduling tasks using annotations and programmatically, configuring the application to support clustering, and updating Quartz stores and tables. It also addresses best practices for running and deploying applications in clustered mode with load balancing via Docker and mentions setup for virtual thread scheduling.",
+  "uuid" : "04c38a41-5d44-4184-a78f-3e4f1063c079"
+}

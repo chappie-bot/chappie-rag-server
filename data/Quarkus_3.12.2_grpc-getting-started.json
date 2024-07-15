@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with gRPC",
+  "categories" : [ "serialization", "grpc" ],
+  "summary" : "This guide demonstrates how to integrate and utilize gRPC within a Quarkus project, detailing steps to set up both Maven and Gradle configurations. It covers adding the necessary Quarkus gRPC extension, generating service and message definitions from .proto files, and implementing a simple 'Hello' service. Additionally, the guide addresses different gRPC implementation types supported by Quarkus, and provides instructions for implementing, deploying, and consuming a gRPC service within a Quarkus application.",
+  "uuid" : "bc3201eb-30b1-4972-be65-0e7f83f2945d"
+}

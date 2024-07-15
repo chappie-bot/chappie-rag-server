@@ -1,0 +1,6 @@
+{
+  "title" : "Using OpenID Connect (OIDC) and Keycloak to Centralize Authorization",
+  "categories" : [ "security", "authentication", "authorization", "keycloak", "sso", "oidc" ],
+  "summary" : "This guide outlines how to leverage the `quarkus-keycloak-authorization` and `quarkus-oidc` extensions to implement secure authorization in Quarkus applications using Keycloak. The setup involves bearer token authorization with permissions managed in Keycloak, enabling centralized control over resource and role access using policies like Resource-Based Access Control (RBAC). Resource attributes like name and URI dictate access permissions, offering a dynamic authorization mechanism that shifts the responsibility of security outside the application. The document includes detailed steps on setting up the project, configuring OIDC with Keycloak, running the application in various modes, and testing authorization through the endpoints. By integrating Keycloak, developers can manage security dynamically, reducing the need for redeployments and enhancing security governance.",
+  "uuid" : "eaf22e9e-1107-49a0-9d1a-f27ad5fef747"
+}

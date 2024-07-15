@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Security Architecture",
+  "categories" : [ "security", "authentication", "customization" ],
+  "summary" : "The Quarkus Security architecture document outlines integral components such as the HttpAuthenticationMechanism, IdentityProvider, and SecurityIdentityAugmentor, explaining their roles in securing HTTP applications. This architecture supports multiple authentication mechanisms, with extensive customization options including proactive authentication and allows for detailed security configuration and extension through various Quarkus guides. Suitable for users looking to understand or enhance the security framework within their Quarkus applications.",
+  "uuid" : "7b9c1c8f-e9cb-4bcb-ab02-9d7e208467f6"
+}

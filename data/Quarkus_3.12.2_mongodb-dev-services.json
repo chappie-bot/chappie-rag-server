@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services for MongoDB",
+  "categories" : [ "Dev Services", "MongoDB", "Configuration", "Testcontainers", "Development Support" ],
+  "summary" : "Quarkus provides a feature known as Dev Services that facilitates the automatic startup and configuration of MongoDB in development and testing environments, without requiring explicit connection configuration. This feature uses Testcontainers to run a MongoDB instance. Dev Services for MongoDB supports sharing a single MongoDB instance across multiple Quarkus applications in development mode via a service discovery mechanism but requires explicit configuration in production environments within the `application.properties` using the `%prod.` profile.",
+  "uuid" : "2baab9ae-066b-4548-840c-6ea2acac31c8"
+}

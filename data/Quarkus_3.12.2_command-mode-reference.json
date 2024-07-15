@@ -1,0 +1,6 @@
+{
+  "title" : "Command Mode Applications",
+  "categories" : [ "core", "command-line" ],
+  "summary" : "The guide focuses on developing Quarkus applications designed to execute a task and then terminate, suitable for scripts or command-line tasks. It covers creating a Quarkus project specifically for command-mode, writing command-style applications using the QuarkusApplication interface, handling application lifecycles, including multiple main methods, and testing. Useful for users wanting to build CLI applications with Quarkus or manage application shutdown and startup processes explicitly.",
+  "uuid" : "88fddcdb-9764-4f02-b573-ffeb92cae416"
+}

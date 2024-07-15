@@ -1,0 +1,6 @@
+{
+  "title" : "Using Apache Kafka with Schema Registry and JSON Schema",
+  "categories" : [ "messaging", "kafka", "apicurio", "registry" ],
+  "summary" : "This Quarkus guide explains how to integrate Apache Kafka with Schema Registry and JSON Schema for managing serialized record schemata. It illustrates creating a Quarkus application to produce and consume messages with Kafka using JSON Schema serialization and connecting to either Confluent or Apicurio registries. The guide covers schema creation, producer and consumer setup, and native compilation support alongside testing strategies. It's imperative for developers aiming to leverage Kafka for robust data streaming with schema management in Quarkus applications.",
+  "uuid" : "e7b07915-959b-4e5b-b9ba-8619c6f845b9"
+}

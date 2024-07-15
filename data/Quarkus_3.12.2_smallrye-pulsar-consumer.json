@@ -1,0 +1,6 @@
+{
+  "title" : "Pulsar Consumer Configuration Attributes",
+  "categories" : [ "Messaging", "Pulsar", "Configuration", "Consumer Attributes" ],
+  "summary" : "The document outlines various attributes available for configuring a Pulsar consumer within a Quarkus application. These attributes determine behaviors such as subscription types, message acknowledgment policies, queue sizes, and message prioritization. Key attributes include 'topicNames', 'subscriptionName', 'subscriptionType', and 'receiverQueueSize', each with specifics on defaults and type requirements. The configuration options also cover advanced features like 'cryptoKeyReader', 'messageCrypto', and dead letter policies, enhancing message handling according to consumer needs.",
+  "uuid" : "4d921950-c108-46c2-819c-f2bda160736b"
+}

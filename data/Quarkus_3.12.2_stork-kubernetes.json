@@ -1,0 +1,6 @@
+{
+  "title" : "Using Stork with Kubernetes",
+  "categories" : [ "cloud", "service-discovery", "load-balancing", "stork", "kubernetes" ],
+  "summary" : "This guide details how to utilize Stork alongside Kubernetes for effective service discovery and load balancing within a Quarkus application. It covers prerequisites such as access to a Kubernetes cluster, setup and deployment of simple services (Red and Blue), and the integration of Stork for discovering and load-balancing between these services. It also guides through configuring the REST client for service communication, deploying client services, and handling potential security exceptions with BouncyCastle. Useful for developers looking to implement service discovery and load-balancing within their Kubernetes-clustered Quarkus applications.",
+  "uuid" : "608913c8-9717-4999-a256-6e2bf9c9d0b8"
+}

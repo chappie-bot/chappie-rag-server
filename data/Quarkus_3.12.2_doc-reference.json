@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Style and Content Guidelines",
+  "categories" : [ "contributing", "documentation", "internals" ],
+  "summary" : "This detailed Quarkus documentation provides style and content guidelines for contributing to the Quarkus project. It covers writing styles, including grammar and sentence structures, file naming and structuring conventions, proper use of AsciiDoc syntax, and guidelines for headings and cross-reference links. The archive serves as an essential reference for contributors and includes examples to clarify the outlined best practices.",
+  "uuid" : "4a4b7f8e-ddd7-4dbe-a623-8027d6b9d919"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Observability Dev Services with Grafana OTel LGTM",
+  "categories" : [ "observability", "devservices", "telemetry", "metrics", "tracing", "logging", "opentelemetry", "micrometer", "prometheus", "tempo", "loki", "grafana" ],
+  "summary" : "The documentation provides a comprehensive guide on configuring and using Grafana OTel LGTM with Quarkus for observability, which includes telemetry, metrics, tracing, and logging. It details setting up the necessary Dev Services and resources, including the Quarkus extensions for integrating OpenTelemetry, MicroMeter, Prometheus, Loki, and Tempo into Quarkus applications. It includes configuring endpoints for collecting and processing telemetry data, setting up Grafana for visualization, and enabling or disabling Dev Services programmatically. Additionally, it explains how to perform integration tests with Grafana and telemetry tools in Quarkus applications.",
+  "uuid" : "a91562d5-f05e-4c3d-bc8d-08848b2c59b7"
+}

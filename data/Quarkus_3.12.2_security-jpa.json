@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Security with Jakarta Persistence",
+  "categories" : [ "security", "identity-providers", "sql", "database", "jpa", "jdbc" ],
+  "summary" : "This document outlines how to configure Quarkus applications to use Jakarta Persistence for storing user identities, including username, password, and roles, and how it integrates with Quarkus Security mechanisms such as basic and form-based authentication. It details the requirements for entity specifications, demonstrates example code for user and roles entities, discusses password storage options including hashing with bcrypt and custom providers, and provides guidance on using annotations like @UserDefinition, @Username, @Password, and @Roles. The document also includes information on proactive authentication and multitenancy with Hibernate ORM.",
+  "uuid" : "d7446240-0ff2-4bf2-a344-369620bb0ab7"
+}

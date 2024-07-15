@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Virtual Thread Support with Reactive Messaging",
+  "categories" : [ "messaging", "kafka", "react  JSON Concurrency", "virtual threads" ],
+  "summary" : "This Quarkus guide covers how to utilize Java virtual threads in reactive messaging applications, specifically with Kafka. It details using the @RunOnVirtualThread annotation to offload message processing from event-loop or worker threads to virtual threads, enabling blocking operations without thread blocking. Important aspects include setup requirements like Java 19+, the necessary Maven or Gradle dependencies, and specific usage of @RunOnVirtualThread in message consumer methods. The guide also discusses configuring maximum concurrency for virtual thread-based processing.",
+  "uuid" : "0976bff2-8f54-4d73-bc2a-15f9480e84b4"
+}

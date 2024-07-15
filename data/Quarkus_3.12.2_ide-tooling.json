@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Tools in your favorite IDE",
+  "categories" : [ "getting-started" ],
+  "summary" : "This document provides detailed information on the available Quarkus Tools for popular IDEs including Visual Studio Code, Eclipse, IntelliJ IDEA, and Eclipse Che. It highlights where to download these tools, their stability status, and specific Quarkus support features such as code wizards, configuration editors, autocompletion, validation, and more. The document addresses questions about IDE integration, enhanced Quarkus support in different IDE environments, and links for further details.",
+  "uuid" : "eb634b24-5b3d-4d4d-bbaa-c5e3fda11e2a"
+}

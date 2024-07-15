@@ -1,0 +1,6 @@
+{
+  "title" : "Connecting to an Elasticsearch Cluster with Quarkus",
+  "categories" : [ "data", "search", "elasticsearch", "nosql" ],
+  "summary" : "This Quarkus guide explains how to connect and interact with an Elasticsearch cluster using either the low level REST client or the Elasticsearch Java client. It includes prerequisites such as having Elasticsearch or Docker installed, instructions for setting up a simple application to insert and retrieve data, and details on how to configure Elasticsearch clients programmatically and via properties. The guide also explores creating a Maven project, and discusses various features of Quarkus like Dev Services and health checks for Elasticsearch, and concludes with creating a native executable.",
+  "uuid" : "ca16e6a8-060c-40b7-a214-1f831f53a3e3"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Writing Your Own Quarkus Extension",
+  "categories" : [ "Extensions", "Developer Guide" ],
+  "summary" : "Quarkus extensions allow developers to enhance the core functionality by adding new behaviors focused on both the build time and the runtime. This guide covers the conceptual groundwork of Quarkus extensions, emphasizing on pushing computations from runtime to build time to optimize application performance. It also provides step-by-step instructions on creating custom extensions, understanding the extension philosophy, and managing build time metadata processing and runtime service instantiation.",
+  "uuid" : "e1227e78-268b-4d03-9c6d-074cd49594ad"
+}

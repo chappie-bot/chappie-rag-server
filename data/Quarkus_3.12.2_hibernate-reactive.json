@@ -1,0 +1,6 @@
+{
+  "title" : "Using Hibernate Reactive with Quarkus",
+  "categories" : [ "Quarkus", "Reactive Programming", "Database Interaction", "Hibernate Reactive" ],
+  "summary" : "This documentation is aimed at developers interested in using Hibernate Reactive with Quarkus to handle database operations in a reactive manner. It covers how to configure and use Hibernate Reactive, the necessary dependencies and annotations, and points out that Hibernate Reactive can be used alongside Quarkus REST without replacing Hibernate ORM. The guide also provides instructions on setting up the project dependencies, configuring the Hibernate Reactive with specific details on how to annotate entities and manage transactions reactively. It points out how Hibernate Reactive can coexist with Flyway for schema management in reactive applications and provides guidance on testing Hibernate Reactive implementations with specific Quarkus testing utilities.",
+  "uuid" : "6901ebb3-6ae4-4fcd-b91b-afcb61a63663"
+}

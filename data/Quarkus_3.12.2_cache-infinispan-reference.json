@@ -1,0 +1,6 @@
+{
+  "title" : "Infinispan Cache Implementation in Quarkus",
+  "categories" : [ "data", "caching", "infinispan" ],
+  "summary" : "This documentation section explores how to use Infinispan as an alternative cache backend in Quarkus applications, instead of the default Caffeine cache. It covers the inclusion of necessary dependencies, configuration of the Infinispan client, cache annotation usage, and detailed guidance on serialization with Protobuf using Protostream for custom types including Java primitives and POJOs. Additionally, it explains the cache expiration settings such as lifespan and max-idle to manage cache entry longevity.",
+  "uuid" : "769c91fc-ba8c-416c-b4cd-3607e211973e"
+}

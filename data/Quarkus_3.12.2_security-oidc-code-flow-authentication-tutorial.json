@@ -1,0 +1,6 @@
+{
+  "title" : "Protect a web application by using OpenID Connect (OIDC) authorization code flow",
+  "categories" : [ "security", "web" ],
+  "summary" : "This Quarkus tutorial guides users on how to secure application HTTP endpoints using the OIDC authorization code flow with Keycloak as an identity provider. It covers creating a secure Quarkus web application, configuring the OIDC and Keycloak setup, adding necessary Quarkus extensions, and integrating secured endpoints that utilize tokens for authentication. The document also provides instructions on building, running, configuring, and testing the application in various modes including native compilation, and offers tips on integrating and testing with Keycloak in development environments.",
+  "uuid" : "ef0414e6-5248-4d9a-9f0b-706b424ea365"
+}

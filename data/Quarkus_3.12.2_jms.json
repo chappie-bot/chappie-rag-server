@@ -1,0 +1,6 @@
+{
+  "title" : "Using JMS in Quarkus Applications",
+  "categories" : [ "messaging", "integration", "JMS", "AMQP", "Artemis", "Qpid" ],
+  "summary" : "This guide explains how to incorporate JMS messaging into Quarkus applications using Apache Qpid JMS with AMQP 1.0 or Apache ActiveMQ Artemis. It covers the prerequisites such as having a running Artemis server, the architecture involving components generating and consuming messages, and detailed steps to set up, configure and run the application both in JVM and native mode. Also, it guides through creating an application, configuring the JMS client, and finally running a simple application to display prices via a REST endpoint.",
+  "uuid" : "b5cf62cf-8c43-423b-bfdc-741177016ad0"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Using Security with an LDAP Realm",
+  "categories" : [ "security", "identity-providers", "ldap" ],
+  "summary" : "This guide provides instructions on how to authenticate and authorize user identities in a Quarkus application using an LDAP directory. It details configuring a simple microservice with RBAC and integrating LDAP for user role management. Essential aspects such as project setup, extension integration, endpoint protection, and application configuration with LDAP specifics are covered. It targets developers integrating LDAP authentication and those handling user roles via LDAP in their Quarkus applications.",
+  "uuid" : "7d000ad6-11a9-45e0-b8a3-a4c398006e34"
+}

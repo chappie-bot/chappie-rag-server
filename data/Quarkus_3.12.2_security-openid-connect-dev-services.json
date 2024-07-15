@@ -1,0 +1,6 @@
+{
+  "title" : "Dev Services and Dev UI for OpenID Connect (OIDC)",
+  "categories" : [ "security" ],
+  "summary" : "The documentation describes how to use Quarkus Dev Services and Dev UI specifically for OpenID Connect (OIDC), focusing on integration with Keycloak as well as other OIDC providers. It covers the setup and configuration of Dev Services for seamless integration during development and testing phases. Dev Services starts a Keycloak container automatically under certain conditions, facilitating easy access to security features without manual setup. The document also touches on how to handle Keycloak in various authorization grants (e.g., authorization code, implicit, password, client credentials) and provides the ability to test these integrations directly through the Dev UI. Additionally, it includes customization options for different realms, clients, or roles using Keycloak and addresses advanced configurations like client secret handling and token acquisition for testing through Swagger UI or GraphQL UI.",
+  "uuid" : "6fb7caed-8df7-4cd0-8312-b5199c786199"
+}

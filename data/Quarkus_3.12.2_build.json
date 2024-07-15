@@ -1,0 +1,6 @@
+{
+  "title" : "Building Quarkus Applications",
+  "categories" : [ "CLI Tools", "Maven", "Gradle" ],
+  "summary" : "This section provides commands for building Quarkus applications using different tools such as CLI, Maven, and Gradle. It distinguishes between commands with additional parameters and those without. For CLI, use 'quarkus build' with optional parameters. For Maven users, the command is './mvnw install', and for Gradle, it's './gradlew build', both also supporting additional parameters if provided.",
+  "uuid" : "16617f19-f58d-4b45-a0fb-f20cf77b6611"
+}

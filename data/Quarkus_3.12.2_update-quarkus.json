@@ -1,0 +1,6 @@
+{
+  "title" : "Update projects to the latest Quarkus version",
+  "categories" : [ "core", "tooling", "experimental" ],
+  "summary" : "This guide explains the process for upgrading Quarkus projects to the newest version using OpenRewrite recipes and Quarkus CLI or Maven tools. It details prerequisites, the update procedure, and troubleshooting tips regarding issues like incompatible extensions or incomplete updates. It also emphasizes the need for checking certain migrations such as Hibernate ORM 5 to 6 when upgrading.",
+  "uuid" : "016cdd39-5e84-41ce-8b26-e46651f7c7b4"
+}

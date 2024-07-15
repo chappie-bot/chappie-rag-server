@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Mailer Reference Guide",
+  "categories" : [ "mail", "mailer", "reactive programming", "asynchronous communication" ],
+  "summary" : "This guide elaborates on how to configure and use the Quarkus Mailer for handling mail operations in a Quarkus application. It covers using both the imperative and reactive APIs for sending emails, incorporating attachments and HTML content, and provides examples on how to integrate Qute templates for dynamic mail content. Additionally, configuration details for connecting to SMTP servers, handling multiple mailer configurations, and guidance on using SSL with native executables and testing email functionalities are also provided. The document also includes specific configurations for popular email services like Gmail, AWS SES, MailJet, and Sendgrid.",
+  "uuid" : "7941d62f-88f6-4489-9e05-9a93aa38ec59"
+}

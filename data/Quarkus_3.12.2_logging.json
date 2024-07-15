@@ -1,0 +1,6 @@
+{
+  "title" : "Logging Configuration in Quarkus",
+  "categories" : [ "core", "getting-started", "observability" ],
+  "summary" : "The document provides a comprehensive guide on logging configuration in Quarkus, covering the basics of logging API usage, configuring log levels, categories, and formats, and implementing various logging handlers such as console, file, and syslog. It also handles JSON logging, log filtering, and MDC integration. This resource is valuable for developers needing to set up or troubleshoot logging in Quarkus applications, ensure logging consistency across different APIs with adapters, and utilize advanced configurations for structured and centralized logging.",
+  "uuid" : "94070272-b62e-49d5-b267-30455759f4e6"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Application Data Caching",
+  "categories" : [ "Data Caching", "Performance", "API" ],
+  "summary" : "This guide details how to improve the performance of Quarkus applications by caching results of expensive method calls in CDI-managed beans using annotations. It covers enabling caching with Caffeine, Infinispan, or Redis backends, creating a simple example with Maven, annotations for caching such as @CacheResult, and dealing with common cache configurations and operations. Additionally, the guide explains handling cache keys, purging caches programmatically or via annotations, and integrating cache metrics with Micrometers.",
+  "uuid" : "36f9d347-75a1-42fb-976d-dca9b3bde26c"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Using Blaze-Persistence with Quarkus",
+  "categories" : [ "data" ],
+  "summary" : "This guide illustrates how to implement Blaze-Persistence in Quarkus projects to enhance data layer operations using its fluent API for building queries and managing DTOs. Key features include easy integration with Hibernate ORM, advanced SQL support such as Common Table Expressions, and efficient DTO layers with reduced boilerplate. Configuration and setup instructions, dependency details, and examples of entity views and service implementations with Quarkus are provided to assist developers.",
+  "uuid" : "3ac30682-1f7c-49fa-84a7-c6366437e07c"
+}

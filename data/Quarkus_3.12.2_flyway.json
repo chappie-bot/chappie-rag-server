@@ -1,0 +1,6 @@
+{
+  "title" : "Using Flyway with Quarkus",
+  "categories" : [ "data", "database", "migrations", "schema-management" ],
+  "summary" : "The guide provides detailed instructions on integrating Flyway for database schema migrations in Quarkus applications. It covers setting up dependencies, configuring migrations, and practical examples of using Flyway in single and multiple datasource environments. Additionally, customization of Flyway configurations and managing migrations in Kubernetes are discussed. This documentation is essential for developers seeking to leverage Flyway for database versioning within Quarkus projects.",
+  "uuid" : "4633d4dd-e17d-49ab-adba-246defcb0f39"
+}

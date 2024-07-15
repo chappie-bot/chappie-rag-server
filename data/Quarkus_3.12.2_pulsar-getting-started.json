@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with Quarkus Messaging and Apache Pulsar",
+  "categories" : [ "messaging", "reactive-messaging", "pulsar" ],
+  "summary" : "This guide covers how to use Quarkus Messaging to interact with Apache Pulsar. It includes building two applications: a producer that sends quote requests and a processor that responds with quotes. It demonstrates the creation of Maven projects, handling of Pulsar topics via Reactive Messaging, and interactions through server-sent events. The guide also provides details on running applications in both JVM and native modes using Docker, and it includes links to Pulsar's documentation for extended configurations.",
+  "uuid" : "9b758487-12e8-4018-b0e1-fb37c7d1339d"
+}

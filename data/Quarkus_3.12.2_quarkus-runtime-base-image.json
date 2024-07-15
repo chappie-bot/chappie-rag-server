@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Base Runtime Image",
+  "categories" : [ "tooling", "docker", "podman", "images" ],
+  "summary" : "The guide provides details on using Quarkus base Docker images for containerized native executables. It particularly highlights the use of 'quarkus-micro-image:2.0', a small and container-optimized image, and provides instructions for basic usage, extending the image with extra libraries, and alternative options using 'ubi-minimal' images for users needing a full Linux distribution with more utilities.",
+  "uuid" : "8768e542-d1be-42d7-b4fa-f77bcfa469ff"
+}

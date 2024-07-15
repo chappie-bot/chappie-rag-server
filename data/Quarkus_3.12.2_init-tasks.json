@@ -1,0 +1,6 @@
+{
+  "title" : "Initialization Tasks in Quarkus",
+  "categories" : [ "initialization", "kubernetes", "openshift", "liquibase", "flyway" ],
+  "summary" : "This Quarkus guide details how to configure initialization tasks specifically for environments like Kubernetes and OpenShift, focusing on tasks performed by extensions such as Flyway, Liquibase, and others. It explores the configuration options for enabling/disabling tasks, controlling the behavior of generated jobs and init containers, and ensuring proper permissions for these components. The guide also discusses scenarios where an application has multiple instances, emphasizing that initialization logic only runs once using Kubernetes Jobs and init containers. Additionally, the document provides instructions on configuring environment-specific properties and customizing container settings and permissions within Kubernetes or Openshift deployments.",
+  "uuid" : "945e0421-30b0-4b69-ac25-995ffba65ba7"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Building Quarkus Native Applications",
+  "categories" : [ "Quarkus CLI", "Maven", "Gradle", "Native Build" ],
+  "summary" : "The documentation outlines different commands for building Quarkus native applications using Quarkus CLI, Maven, and Gradle. Parameters can be adjusted for building in a containerized environment. It covers the use of '--no-tests' flag specifically for users working on Windows and macOS environments.",
+  "uuid" : "ed3fc3a3-f778-48fa-ac6e-d3c965f3b03d"
+}

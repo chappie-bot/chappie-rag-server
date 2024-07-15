@@ -1,0 +1,6 @@
+{
+  "title" : "Using Security with .properties File",
+  "categories" : [ "security", "identity-providers" ],
+  "summary" : "This documentation explores how a Quarkus application can use a .properties file to configure user identities and roles for development and testing environments. It details integration with Quarkus's security extension and guides on setting up properties file-based authentication with user-password and user-roles mappings, and elaborates on potential security implications of using plain-text and MD5 hashed passwords.",
+  "uuid" : "b2d8fc0a-aa16-4e31-96e0-eaff6b5cb684"
+}

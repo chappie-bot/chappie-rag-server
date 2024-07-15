@@ -1,0 +1,6 @@
+{
+  "title" : "Testing Your Application",
+  "categories" : [ "core", "native", "tooling" ],
+  "summary" : "This guide details the steps and approaches for testing Quarkus applications in different environments, including JVM and native modes. It addresses architecture setup, prerequisites, and execution of tests with HTTP examples, leveraging tools like REST Assured and JUnit5. Testing methods cover real-time HTTP interactions, controlling test ports, timeout settings, and utilizing annotations like @TestHTTPResource to dynamically handle URLs. Additionally, the guide discusses the usage of @QuarkusTest for seamless integration testing within the Quarkus framework.",
+  "uuid" : "b2bfcb65-588d-40dc-bfeb-7375e08efd8e"
+}

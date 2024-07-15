@@ -1,0 +1,6 @@
+{
+  "title" : "Utilizing AppCDS with Quarkus for Improved Performance",
+  "categories" : [ "core", "cloud" ],
+  "summary" : "This guide provides a comprehensive overview on how to enable Application Class Data Sharing (AppCCDs) to enhance startup time and reduce memory footprint of Quarkus applications. It outlines the benefits of AppCDS, the manual steps involved in creating an AppCDS archive, and Quarkus-specific simplifications that automate much of the process. The importance of JVM compatibility and additional configuration for containerized deployments are also covered. This guide is useful for developers looking to optimize their Quarkus applications for production environments.",
+  "uuid" : "705a652f-8cec-468f-a99e-4dcdafc3a1d2"
+}

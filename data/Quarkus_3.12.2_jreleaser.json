@@ -1,0 +1,6 @@
+{
+  "title" : "Packaging and Releasing CLI Applications with Quarkus and JReleaser",
+  "categories" : [ "Quarkus", "CLI", "JReleaser", "GitHub", "Maven", "Native Image" ],
+  "summary" : "This guide outlines the process of packaging and releasing Quarkus-based Command Line Interface (CLI) applications using JReleaser. It provides detailed steps for setting up the project, preparing for GitHub releases, and configuring Maven for native compilation and distribution bundling. Additionally, the guide covers the configuration of JReleaser to automate the release workflow including changelog generation, distributions setup, and the deployment of a Homebrew formula. This information can assist users in automating the release process for native executables built with Quarkus and Maven, utilizing GitHub for hosting and JReleaser for the release management.",
+  "uuid" : "f35355b6-c6f8-425c-b80c-2a3d39e59dbd"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Load Shedding Reference Guide",
+  "categories" : [ "web" ],
+  "summary" : "The Quarkus 'quarkus-load-shedding' extension provides a mechanism for load shedding, configuring how requests are handled during server overload conditions. Key features include detection of overload via a modified TCP Vegas algorithm, optional priority-based request rejection, and customization of request prioritization and cohort classification. The extension currently focuses on HTTP requests and needs further testing for robustness in production environments. Additional resources and further readings are also provided to understand load shedding practices from major tech companies.",
+  "uuid" : "309c82e9-ff7d-4c83-babe-904bd487b507"
+}

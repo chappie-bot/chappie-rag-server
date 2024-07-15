@@ -1,0 +1,6 @@
+{
+  "title" : "Use virtual threads in REST applications",
+  "categories" : [ "web", "core" ],
+  "summary" : "This guide provides detailed steps on how to implement and use virtual threads in RESTful applications using Quarkus. It covers the creation of a sample Maven project, setting up the necessary configurations, writing Java classes for handling HTTP requests, and integrating the REST client to demonstrate asynchronous I/O operations without blocking carrier threads. It also provides instruction on testing thread pinning and ensuring that the REST client behaves correctly by not pinning threads in a virtual environment. The documentation is useful for developers seeking to optimize REST applications for concurrency and performance in Quarkus using virtual threads.",
+  "uuid" : "aa74351d-14d9-49ca-8f06-a0d44a9cfc4e"
+}

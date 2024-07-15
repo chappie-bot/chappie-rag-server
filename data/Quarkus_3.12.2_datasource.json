@@ -1,0 +1,6 @@
+{
+  "title" : "Configure data sources in Quarkus",
+  "categories" : [ "data", "getting-started", "reactive" ],
+  "summary" : "This section of the Quarkus documentation provides comprehensive guidance on configuring data sources for both JDBC and reactive database interactions. Key topics include setting up JDBC data source configurations with proper extensions and properties, using reactive drivers, managing connection pools, and integrating with Quarkus features such as health checks and metrics. Users can leverage both reactive and JDBC approaches simultaneously, as well as configure multiple data sources. Additionally, the document covers zero-config setup in development mode using Dev Services, configuring datasources in either the application properties or with specific profiles for different environments.",
+  "uuid" : "3c80cc79-f20c-47e5-8a60-f582352b23b3"
+}

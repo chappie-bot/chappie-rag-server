@@ -1,0 +1,6 @@
+{
+  "title" : "Building Quarkus apps with Quarkus Command Line Interface (CLI)",
+  "categories" : [ "tooling", "cli" ],
+  "summary" : "This documentation section covers how to install and use the Quarkus Command Line Interface (CLI) for various operations including project creation, extension management, and building projects. It provides installation instructions for different platforms like Linux, macOS, and Windows using managers such as SDKMAN!, Homebrew, Chocolatey, and JBang. Additionally, the document elaborates on CLI functionalities such as project setup, extension addition/removal, and development practices with dev mode.",
+  "uuid" : "63858dcb-bfd6-4e8a-bfd1-d7a0c3f6dd99"
+}

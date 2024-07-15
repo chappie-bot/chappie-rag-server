@@ -1,0 +1,6 @@
+{
+  "title" : "README: Quarkus Documentation Overview",
+  "categories" : [ "Documentation Standards", "Contribution Guidelines", "Glossary Terms" ],
+  "summary" : "The Quarkus documentation is transitioning to make it more accessible and straightforward, utilizing AsciiDoc markup. Key links include how to contribute, content guidelines and tutorial creation. The documentation also provides a glossary of preferred terminology such as 'Live coding', 'GraalVM native image', and 'Kubernetes Native Java' to ensure consistency across materials.",
+  "uuid" : "c77bc2e0-2484-4de3-9e97-7ac1ababc209"
+}

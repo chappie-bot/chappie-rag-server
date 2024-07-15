@@ -1,0 +1,6 @@
+{
+  "title" : "Cross-origin resource sharing (CORS) in Quarkus",
+  "categories" : [ "security", "web" ],
+  "summary" : "The document explains CORS in the context of Quarkus, detailing how it allows resources to be shared across different origins. It highlights Quarkus's support for CORS through the CORS filter, configurable via `application.properties`, with properties for specifying origins, methods, headers, and more. Useful for developers seeking to implement or modify CORS settings in a Quarkus application. Also covers enabling CORS in dev mode and strongly advises against allowing all origins in production.",
+  "uuid" : "430667f6-e1bf-4861-8396-033bc7a30cb7"
+}

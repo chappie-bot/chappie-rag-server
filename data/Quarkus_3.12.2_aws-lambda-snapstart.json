@@ -1,0 +1,6 @@
+{
+  "title" : "AWS Lambda SnapWide Configuration Guide",
+  "categories" : [ "cloud", "aws", "lambda", "serverless", "snapstart" ],
+  "summary" : "This guide discusses how to configure AWS Lambda for SnapStart to drastically reduce Java functions' cold startup times. It covers enabling/disabling SnapStart optimizations in Quarkus, class preloading techniques, client priming, and resource registration using the CRaC API for improved application initialization and restoration.",
+  "uuid" : "980121d9-9f6b-4a29-9e32-951cc005f0e9"
+}

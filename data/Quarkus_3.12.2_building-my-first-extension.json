@@ -1,0 +1,6 @@
+{
+  "title" : "Building My First Quarkus Extension",
+  "categories" : [ "writing-extensions", "extensions" ],
+  "summary" : "This document provides a comprehensive guide on developing a Quarkus extension, focused on creating a 'Sample Greeting Extension' that exposes a customizable HTTP endpoint. It covers the essential concepts of build time vs. runtime in Quarkus, the two main components of a Quarkus extension (runtime and deployment modules), and detailed instructions on setting up a project using Maven or Gradle. Additionally, it explains how to code, test, and debug the extension, providing links to further resources and explaining the process of integrating the extension into the Quarkus ecosystem via Quarkiverse Hub.",
+  "uuid" : "73ab0acc-733f-4e15-b33a-175ff185fbfd"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Using xDS gRPC with Quarkus",
+  "categories" : [ "serialization", "grpc", "xds" ],
+  "summary" : "The documentation provides guidance on integrating xDS gRPC with a Quarkus application. It includes setup instructions for both server and client configurations. Key steps involve adding dependencies and setting properties related to xDS in the Quarkus project. The guide specifically notes that current Quarkus xDS gRPC integration does not support native executables. Additionally, configurations for Kubernetes using the Istio Service Mesh are provided which are crucial for proper deployment in such environments.",
+  "uuid" : "b8e72418-b2c8-48ed-ad75-5047e588db09"
+}

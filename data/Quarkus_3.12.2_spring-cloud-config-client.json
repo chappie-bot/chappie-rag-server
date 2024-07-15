@@ -1,0 +1,6 @@
+{
+  "title" : "Reading Properties from Spring Cloud Config Server",
+  "categories" : [ "compatibility", "spring", "cloud", "configuration" ],
+  "summary" : "This guide details how to use the `quarkus-spring-cloud-config-client` extension to enable a Quarkus application to retrieve configuration properties at runtime from a Spring Cloud Config Server. It covers setting up a project, configuring the application, and details on packaging and running the application. Relevant for users needing integration with Spring Cloud for configuration management in Quarkus applications.",
+  "uuid" : "e47d555b-4195-44e5-8077-7ba63d53ee98"
+}

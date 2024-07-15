@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Extension Registry",
+  "categories" : [ "architecture", "internals", "extensions" ],
+  "summary" : "The Quarkus Extension Registry documentation describes how extension registries provide Quarkus dev tools with information about available Quarkus platforms and non-platform extensions, their compatibility, and update policies. It details the primary community extension registry at registry.quarkus.io, which is pre-configured in Quarkus dev tools and supports Maven-based configuration. Additionally, it covers custom client configuration for handling multiple registries and adjusting update policies for local caches, aimed at helping users manage Quarkus extensions in different deployment scenarios.",
+  "uuid" : "d2bb7dd3-c3ea-408c-b0ae-621b9d4a8f7d"
+}

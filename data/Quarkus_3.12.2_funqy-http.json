@@ -1,0 +1,6 @@
+{
+  "title" : "Funqy HTTP Binding (Standalone)",
+  "categories" : [ "cloud", "serverless", "function" ],
+  "summary" : "The guide provides an overview of deploying and using Funqy as a standalone service with Quarkus, specifically using HTTP binding. It covers the minimalistic approach of Funqy's HTTP binding, suitable for serverless execution but with limited REST features. Key essentials like executing functions, setting up Maven dependencies, using POST or GET methods, and mappings with query parameters are detailed for users looking to implement or migrate to Funqy-based functions.",
+  "uuid" : "fa0b9531-aea8-4797-af2b-cb3b1bde1ee3"
+}

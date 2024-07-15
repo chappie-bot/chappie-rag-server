@@ -1,0 +1,6 @@
+{
+  "title" : "Building Quarkus Applications with CLI and Maven",
+  "categories" : [ "Developer Tools", "Quarkus CLI", "Maven", "Building Projects" ],
+  "summary" : "This section of the Quarkus documentation provides instructions on how to build Quarkus applications using the command line interface (CLI) and Maven. It includes specific commands to set Java compiler options ('--enable-preview') for both CLI and Maven environments. The CLI section demonstrates the usage of 'quarkus build' with MAVEN_OPTS, while the Maven section shows how to execute 'mvnw install' with similar options. This information is essential for developers needing to compile Quarkus projects with preview features of the Java language.",
+  "uuid" : "5e157471-b525-4e04-b79b-9abcce345303"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Adding Extensions in Quarkus",
+  "categories" : [ "Configuration", "CLI", "Maven", "Gradle" ],
+  "summary" : "The documentation provides steps to add extensions to a Quarkus project using different build tools. It covers how to use the Quarkus CLI, Maven, and Gradle for adding extensions specified by the user. This is useful for developers looking to expand the functionality of their Quarkus applications by integrating additional extensions.",
+  "uuid" : "d6e53a5b-da09-4ca7-afc7-704ff8c524c1"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Scripting with Quarkus",
+  "categories" : [ "command-line", "scripting", "jbang" ],
+  "summary" : "This guide explores how to script with Quarkus using JBang, allowing developers to build REST applications using just a single Java file without the need for Maven or Gradle. It covers setting up a Quarkus project, adding dependencies, and creating a service with REST endpoints. Dependency injection and native compilation with JBang are also discussed. The guide is ideal for quickly getting started with Quarkus in a scripting environment.",
+  "uuid" : "b3bfd7f3-5a54-4a0d-8950-e6c05ef67f08"
+}

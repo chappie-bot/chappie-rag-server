@@ -1,0 +1,6 @@
+{
+  "title" : "Authorization of Web Endpoints in Quarkus",
+  "categories" : [ "security", "web" ],
+  "summary" : "The Quarkus documentation outlines how to implement authorization in web applications using both annotations and configuration settings. Key points include configuring role-based policies and defining specific permissions on HTTP request methods and paths. It introduces permissions like 'deny', 'permit', and 'authenticated' and details the process of creating custom security checks through CDI beans. Additionally, it covers topics such as sub-path and method matching strategies, path precedence, and extending standard security annotations or permissions for complex authorization scenarios. This guide is particularly useful for developers looking to secure RESTful services and integrate custom security policies in a Quarkus application.",
+  "uuid" : "dd9cdec8-cc06-45f9-9c51-977032ff82a7"
+}

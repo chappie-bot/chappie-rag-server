@@ -1,0 +1,6 @@
+{
+  "title" : "Build Analytics in Quarkus",
+  "categories" : "analytics",
+  "summary" : "The guide discusses the Quarkus build analytics feature, designed to collect anonymous data during build time about the usage environments and configurations, such as platform, OS, Java version, and build tools like Maven and Gradlink. Collection is optional and privacy-preserving, requiring opt-in during initial usage in dev mode. It details how to configure and disable data reporting both globally and per project, emphasizing that analytics do not affect runtime components.",
+  "uuid" : "7aa7e4ea-06a8-4641-96ba-4ee541387de5"
+}

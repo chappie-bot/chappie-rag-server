@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus for the Web",
+  "categories" : [ "web", "http", "web-extensions", "static-resources", "server-side rendering", "model-view-controller", "SPA", "web-bundler", "nodejs", "npm", "javascript", "css", "jsf" ],
+  "summary" : "This Quarkus documentation provides comprehensive guidance on building web applications using Quarkus. It covers serving static resources, scripting, styles, and using web libraries, introduces web assets bundling techniques, and discusses server-side rendering with engines like Qute. Additionally, it explores model-view-controller setups with the Renarde extension, integration of Single Page Applications, and full-stack microservices. Options for scaling, testing with Playwright, and choosing between Quinoa and the Web Bundler are also discussed.",
+  "uuid" : "480eb75f-2d38-4fc8-aa39-473735800698"
+}

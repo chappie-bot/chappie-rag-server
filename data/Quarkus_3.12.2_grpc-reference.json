@@ -1,0 +1,6 @@
+{
+  "title" : "gRPC Reference Guide for Quarkus",
+  "categories" : [ "Serialization", "gRPC", "Quarkus Extensions" ],
+  "summary" : "This document provides a comprehensive guide on how to configure and use gRPC servers and clients in Quarkus. It details steps for adding the necessary dependencies and configuring gRPC servers using either the default Netty-based server or the Vert.x-based server, which supports combined HTTP and gRPC traffic on the same port. It also covers client configuration options, including settings for using Vert.x-based clients. Additionally, instructions on setting up TLS and mTLS for both servers and clients are provided to ensure secure communication.",
+  "uuid" : "1bb3d90b-6bde-40bd-ac5a-18f9668f81ec"
+}

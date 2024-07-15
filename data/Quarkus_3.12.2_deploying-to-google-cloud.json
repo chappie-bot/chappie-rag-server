@@ -1,0 +1,6 @@
+{
+  "title" : "Deploying to Google Cloud Platform (GCP)",
+  "categories" : [ "cloud", "devops", "google", "gcp", "deployment" ],
+  "summary" : "The guide details how to deploy a Quarkus application to various Google Cloud Platform services. It includes steps for deploying to Google Cloud Functions, Google App Engine Standard, Google App Engine Flexible Custom Runtimes, and Google Cloud Run, along with utilizing Cloud SQL with different configurations. Key deployment methods described include using gcloud, Maven, and Docker, and considerations for JVM and native compilations. Specific configurations and prerequisites such as Google Cloud Account, Cloud SDK, and necessary Maven settings are also highlighted.",
+  "uuid" : "73f203ad-32ad-49b7-9735-8171f01ca61a"
+}

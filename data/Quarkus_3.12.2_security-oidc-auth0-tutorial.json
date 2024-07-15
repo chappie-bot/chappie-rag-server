@@ -1,0 +1,6 @@
+{
+  "title" : "Protect Quarkus web application by using an Auth0 OpenID Connect provider",
+  "categories" : [ "security", "web" ],
+  "summary" : "This Quarkus documentation explains how to secure a Quarkus web application using Auth0 as an OpenID Connect (OIDC) provider. It covers configuring the Auth0 application, creating a Quarkus application with the quarkus-oidc extension, and adding authentication and authorization mechanisms. The tutorial also includes steps for creating and testing endpoints within the Quarkus application, dealing with tokens, handling the logout process, and applying role-based access control and permission-based access control. Key concepts like token propagation, JWT access tokens, and integration testing are discussed to help protect APIs and microservices. This detailed guide is useful for developers implementing secure authentication in Quarkus applications using Auth0.",
+  "uuid" : "61e77218-14ab-45e3-b1e3-653f3c13b185"
+}

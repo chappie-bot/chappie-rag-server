@@ -1,0 +1,6 @@
+{
+  "title" : "Using Apache Kafka with Schema Registry and Avro in Quarkus",
+  "categories" : [ "messaging", "kafka", "apicurio", "registry" ],
+  "summary" : "This guide provides instructions on how to implement a Quarkus application that uses Apache Kafka with Avro serialization and connects to a schema registry, such as Confluent or Apicurio Registry. It demonstrates how to configure Kafka producers and consumers in a Quarkus project, manage Avro schemas, and automate schema registration. Key topics include setting up the Maven project, configuration specifics for Avro and Kafka setups, and running and testing the application in dev, JVM, and native modes.",
+  "uuid" : "9308bdbd-6c9c-47af-9847-c1243630c772"
+}

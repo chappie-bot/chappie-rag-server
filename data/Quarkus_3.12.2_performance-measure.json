@@ -1,0 +1,6 @@
+{
+  "title" : "Measuring Performance in Quarkus Applications",
+  "categories" : [ "miscellaneous", "internals", "performance" ],
+  "summary" : "This guide provides comprehensive methods and insights into measuring the performance of Quarkus applications, covering memory usage, startup time, and common pitfalls with performance tools. It details how to measure Resident Set Size (RSS) rather than JVM heap for memory and outlines the usage of platform-specific tools and techniques to obtain accurate memory usage statistics, especially in containerized environments like Docker. Additionally, the document describes the procedure for accurately calculating the startup time to the first request, essential for evaluating application readiness in production. Finally, it lists some default flags applied by Quarkus during the native-image compilation to enhance performance, alongside exploring the issue of Coordinated Omission in performance tools, which can lead to misleading latency and throughput metrics.",
+  "uuid" : "007c3fb4-9c2f-4fc6-ab00-692979de7f37"
+}

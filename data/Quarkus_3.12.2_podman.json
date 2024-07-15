@@ -1,0 +1,6 @@
+{
+  "title" : "Using Podman with Quarkus",
+  "categories" : [ "tooling", "devops", "podman" ],
+  "summary" : "The guide covers the installation and configuration of Podman for working with OCI Containers using Quarkus. It details platform-specific installation instructions for Podman, including a warning against using Homebrew for Mac installations due to integration issues. The importance of enabling Docker compatibility mode for Mac and Windows is emphasized. It also compares rootful versus rootless configurations, with specific attention to system compatibility and security considerations. The document provides commands for setting up Podman on Windows, Mac, and Linux and advises on configuring the 'DOCKER_HOST' environment variable on Linux to ensure correct functioning of container clients and Quarkus.",
+  "uuid" : "d882176f-6caa-4fdd-93d1-e45ca682166b"
+}

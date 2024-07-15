@@ -1,0 +1,6 @@
+{
+  "title" : "Centralized log management (Graylog, Logstash, Fluentd)",
+  "categories" : [ "observability", "logging" ],
+  "summary" : "This Quarkus guide explains the process of sending logs to centralized management systems such as Graylog, Logstash, and Fluentd using the 'quarkus-logging-gelf' extension. It covers setups for different logging environments using Docker, configuration details, and includes clear examples on how to integrate these systems into your Quarkus application for effective log management.",
+  "uuid" : "f0398c6c-307c-4872-8a55-e12ab25a1b41"
+}

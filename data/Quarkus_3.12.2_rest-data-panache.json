@@ -1,0 +1,6 @@
+{
+  "title" : "Generating Jakarta REST resources with Panache",
+  "categories" : [ "web", "hibernate-orm", "panache", "mongodb", "sql", "jdbc", "nosql" ],
+  "summary" : "The guide covers the Quarkus extension REST Data with Panache, which facilitates the creation of CRUD applications by generating REST endpoints for Hibernate ORM and MongoDB entities. The extension supports various content types including application/json and application/hal+json, and provides customization options through annotations such as @ResourceProperties and @MethodProperties. The document also includes instructions for setting up dependencies, integrating security, customizing response bodies, and adding additional endpoint methods.",
+  "uuid" : "9de1ebb8-3345-4a98-9ce0-ffaeb5b7a318"
+}

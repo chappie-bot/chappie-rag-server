@@ -1,0 +1,6 @@
+{
+  "title" : "Management Interface Reference in Quarkus",
+  "categories" : [ "observability", "security", "configuration", "http", "kubernetes", "testing" ],
+  "summary" : "This Quarkus documentation details the configuration and usage of a separate management interface. It explains how to enable and configure the management interface, including setting up HTTP servers, securing endpoints, and handling endpoints via the management router. Key details include adjusting the management root path, enabling basic authentication for secured access, and handling management URLs in tests. It also covers the configuration shifts required when running behind a reverse proxy and the impacts on Kubernetes deployments.",
+  "uuid" : "96bab378-645b-4680-ada5-9b448d92f297"
+}

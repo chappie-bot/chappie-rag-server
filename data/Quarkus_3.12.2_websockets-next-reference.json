@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus WebSockets Next Extension Reference Guide",
+  "categories" : [ "web", "websockets" ],
+  "summary" : "The Quarkus WebSockets Next extension facilitates WebSocket server and client communication via a modern, declarative API that deviates from the Jakarta WebSocket specification for improved simplicity and integration with Quarkus' reactive systems. The guide covers full usage, including WebSocket protocol basics, configuration of server and client APIs, message handling, error management, serialization, and security. It outlines the setup required to implement WebSocket connections, both from server and client perspectives, and explains the management of WebSocket sessions with authentication and error handling.",
+  "uuid" : "0f34c8ea-a28a-41c0-87a3-2d5c57962710"
+}

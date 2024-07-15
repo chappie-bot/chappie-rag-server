@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Pulsar Client Configuration Attributes",
+  "categories" : [ "Quarkus", "Pulsar", "Configuration", "Client", "Messaging" ],
+  "summary" : "This section of the Quarkus documentation details the comprehensive range of configuration attributes available for the Pulsar client. It includes attributes for connection management, authentication, TLS settings, timeouts, client behavior, proxy settings, and more. Each entry specifies the attribute name, a description, the type of the attribute, whether it must be included in the configuration file, and defaults if applicable. This information is vital for users needing to customize their Pulsar client within a Quarkus application to ensure optimal performance and compatibility with their specific Pulsar broker setup.",
+  "uuid" : "bc53420c-99ad-46fc-831b-189be5e6a594"
+}

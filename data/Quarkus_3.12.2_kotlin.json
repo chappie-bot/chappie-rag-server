@@ -1,0 +1,6 @@
+{
+  "title" : "Using Kotlin with Quarkus",
+  "categories" : [ "alt-languages", "kotlin", "quarkus" ],
+  "summary" : "This guide provides detailed instructions for using Kotlin in a Quarkus application. It covers creating a Maven or Gradle project with Kotlin, configuring necessary plugins and dependencies, handling data classes and serialization in Kotlin, and using Kotlin with Quarkus extensions for live reload, REST API, and more. Notable points include managing Kotlin versions, using Kotlin with the Kubernetes Client, integration of Kotlin Coroutines into Quarkus, and handling CDI @Inject in Kotlin.",
+  "uuid" : "18b076bd-b78b-4444-b7db-9c6187a8f7cf"
+}

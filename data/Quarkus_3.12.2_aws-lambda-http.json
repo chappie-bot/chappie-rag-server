@@ -1,0 +1,6 @@
+{
+  "title" : "AWS Lambda with Quarkus: Deploying Various Java HTTP Frameworks",
+  "categories" : [ "AWS", "Lambda", "Serverless", "Cloud Deployment", "Quarkus Extensions" ],
+  "summary" : "This guide provides detailed instructions on deploying Quarkus applications using different HTTP frameworks (Vert.x Web, Servlet, RESTEasy) as AWS Lambda functions, utilizing AWS Gateway HTTP API or AWS Gateway REST API. It covers prerequisites, setting up AWS, creating and deploying Maven projects, simulating the AWS Lambda environment locally, and security integrations. Key elements include handling native and JVM deployments, utilizing Quarkus extensions specifically designed for AWS Lambda, and customizing security settings and mappings in your Quarkus application.",
+  "uuid" : "476dae49-f472-48a5-9069-9240b416138e"
+}

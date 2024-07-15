@@ -1,0 +1,6 @@
+{
+  "title" : "Using Transactions in Quarkus",
+  "categories" : [ "data", "getting-started" ],
+  "summary" : "This Quarkus guide discusses the implementation and management of transactions using the `quarkus-narayana-jta` extension, which is compliant with the Jakarta Transactions specification. It covers the setup of the transaction manager, usage of `@Transactional` for declarative transaction demarcation, various transaction configurations such as timeouts, and programmatic transaction management with `QuarkusTransaction`. Additionally, it explains handling transactions reactively and configuring transaction logs in a database. The guide is intended for developers who need to implement transactional operations within their Quarkus applications.",
+  "uuid" : "437771be-1a35-4b44-ac71-86214dd03419"
+}

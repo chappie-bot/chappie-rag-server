@@ -1,0 +1,6 @@
+{
+  "title" : "OpenID Connect client and token propagation quickstart",
+  "categories" : [ "security", "oidc", "client" ],
+  "summary" : "This documentation explains the usage of OpenID Connect (OIDC) and OAuth2 client with various token propagation methods in Quarkus applications. It covers acquiring and refreshing access tokens, token propagation techniques, and securing endpoints with role-based access control. Key topics include building applications with OIDC filters, OIDC clients, configuring Maven projects with specific extensions, and setting up Keycloak as an authentication server. Sample codes are provided for implementing protected resources, OIDC clients, token propagation filters, and exception handling. The guide is ideal for users looking to secure Quarkus applications using OIDC and handle token-based authentication efficiently.",
+  "uuid" : "282ec058-a6f0-42e3-aae7-706039c16f78"
+}

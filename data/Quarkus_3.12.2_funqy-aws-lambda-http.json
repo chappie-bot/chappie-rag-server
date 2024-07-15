@@ -1,0 +1,6 @@
+{
+  "title" : "Funqy HTTP Binding with AWS Lambda",
+  "categories" : [ "cloud", "aws", "lambda", "serverless", "function" ],
+  "summary" : "This Quarkus guide details how to expose Funqy functions via HTTP on AWS Lambda, utilizing AWS API Gateway. It emphasizes that while this adds overhead compared to standard Funqy AWS Lambda integration, it facilitates HTTP clients invoking Funqy functions. The guide also advises on the minimalistic nature of Funqy's HTTP binding and suggests alternatives for full REST capabilities like Jakarta REST or Spring MVC with AWS Lambda. Additionally, it provides a quickstart for implementing Funqy HTTP on AWS Lambda, along with necessary code and dependency setup.",
+  "uuid" : "658d0891-086d-4173-bb4b-2debc5f826bc"
+}

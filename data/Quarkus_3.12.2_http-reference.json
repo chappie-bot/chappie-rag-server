@@ -1,0 +1,6 @@
+{
+  "title" : "HTTP Reference",
+  "categories" : [ "web", "http", "ssl", "cors", "traffic shaping", "http2", "headers", "compression", "serving static resources" ],
+  "summary" : "This document provides an extensive guide on configuring and understanding HTTP functionalities in Quarkus. It explains the use of Vert.x for the HTTP layer and Undertow for Servlet support, offers detailed configurations for static resource handling, HTTP compression, SSL/TLS settings, CORS setup, HTTP access logging, and many other HTTP-related configurations. It's designed to help you effectively manage HTTP servers, secure connections, static content, and logging to enhance the functionality and security of Quarkus applications.",
+  "uuid" : "b484242d-6cc4-4bad-a563-18a20d8d2f20"
+}

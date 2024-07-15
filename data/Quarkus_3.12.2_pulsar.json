@@ -1,0 +1,6 @@
+{
+  "title" : "Apache Pulsar Reference Guide for Quarkus",
+  "categories" : [ "messaging", "reactive-messaging", "pulsar" ],
+  "summary" : "This documentation explains how Quarkus integrates with Apache Pulsar using SmallRye Reactive Messaging. It covers the basics of Apache Pulsar including producers, consumers, and brokers, alongside in-depth details on how to configure the SmallRye Pulsar connector. The guide also discusses different messaging patterns, serialization, schema management, and transactional messaging to ensure exactly-once delivery. Additionally, it provides instructions on adding the `quarkus-messaging-pulsar` extension and configurations necessary to customize behaviors for production settings.",
+  "uuid" : "c3d7342b-5458-4afb-893a-6281bf6e2efb"
+}

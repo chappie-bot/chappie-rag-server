@@ -1,0 +1,6 @@
+{
+  "title" : "Micrometer Metrics in Quarkus",
+  "categories" : [ "observability", "metrics", "micrometer" ],
+  "summary" : "The documentation provides information on using Micrometer for metrics collection in Quarkus applications. It covers how to integrate Micrometer with various backend monitoring systems through Quarkus and Quarkiverse extensions. Key features include configuration of metrics paths, custom and automatic metrics, as well as advanced features like custom MeterRegistry, annotations, and support for MicroProfile Metrics API. Suitable for users looking to implement application monitoring and observability within their Quarkus applications.",
+  "uuid" : "6363dbab-f42c-44dc-acc9-074bf813dc95"
+}

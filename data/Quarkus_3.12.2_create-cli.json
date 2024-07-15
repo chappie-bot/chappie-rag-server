@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Project Initialization via CLI and Maven",
+  "categories" : [ "CLI", "Maven", "Project Setup", "Gradle" ],
+  "summary" : "The documentation guides developers on how to initiate a new Quarkus project using both the Quarkus CLI and Maven. With the CLI approach, options like `--stream`, `--extension`, and project directory navigation are configurable, and special flags like `--gradle` are included for Gradle project setup. In the Maven configuration, you can specify group ID, artifact ID, platform version, and extensions, with the ability to switch to Gradle using specific build tool flags. This detailed instruction can help users looking to set up a new Quarkus project tailored to specific dependencies or build tool preferences.",
+  "uuid" : "6523704e-c47b-4bf0-8122-4bbbb9eb39f6"
+}

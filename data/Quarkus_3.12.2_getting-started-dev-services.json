@@ -1,0 +1,6 @@
+{
+  "title" : "Your Second Quarkus Application: Using Dev Services and Panache",
+  "categories" : [ "getting-started", "data", "core" ],
+  "summary" : "This tutorial guides you through creating a Quarkus application that interacts with a database using Dev Services and Panache, without the need for manual database configuration or management. It covers setting up your project, handling database operations with Hibernate ORM, and optimizing development and production configurations to seamlessly transition between them using profiles.",
+  "uuid" : "50b4d0f9-0b33-42cc-be72-04c85e11060b"
+}

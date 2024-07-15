@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Extension for Spring DI API",
+  "categories" : [ "compatibility", "spring", "cdi", "injection" ],
+  "summary" : "This guide details how to use Spring Dependency Injection annotations within a Quarkus application using the 'quarkus-spring-di' extension. It covers creating and configuring Maven projects, adding Spring beans with annotations, and discusses limitations and conversion guides for moving from Spring DI to CDI annotations. Additionally, the guide addresses testing and packaging for both JVM and native compilations.",
+  "uuid" : "4fc9ac58-2ea2-426d-b0d2-b590fc76c658"
+}

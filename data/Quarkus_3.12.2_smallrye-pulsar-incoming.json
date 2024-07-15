@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus SmallRye Reactive Messaging - Pulsar Connector Properties",
+  "categories" : [ "Quarkus", "Configuration", "SmallRye Reactive Messaging", "Pulsar" ],
+  "summary" : "This section of the Quarkus documentation provides detailed information on the configuration attributes for the 'smallrye-pulsar' connector. These attributes allow users to customize various aspects of Pulsar interaction such as acknowledgment strategies, batch receiving, client and consumer configurations, and dead letter policies. It also covers settings related to topics, service URL, schema handling, and options for enabling health reporting and tracing. This information is essential for developers looking to implement and manage reactive messaging systems with Pulsar in a Quarkus application.",
+  "uuid" : "cea9ef4b-ace3-4d18-a10f-be4c00558f48"
+}

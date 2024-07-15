@@ -1,0 +1,6 @@
+{
+  "title" : "Using OpenAPI and Swagger UI with Quarkus",
+  "categories" : [ "web", "rest", "openapi", "swagger-ui", "dev-ui" ],
+  "summary" : "This guide details how to generate an OpenAPI descriptor for a Quarkus application and utilize Swagger UI for API testing. It covers adding necessary extensions, creating REST resources, and configuring OpenAPI and Swagger UI properties. Moreover, it guides on providing application-level OpenAPI annotations, enhancing the OpenAPI schema with filters, loading schemas from static files, and practical usage of Swagger UI for development and testing.",
+  "uuid" : "55e8a6b1-9cb3-425b-92a7-1010317ef6fe"
+}

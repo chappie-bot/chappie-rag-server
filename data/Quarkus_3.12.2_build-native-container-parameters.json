@@ -1,0 +1,6 @@
+{
+  "title" : "Building Native Executables with Quarkus",
+  "categories" : [ "Quarkus CLI", "Maven", "Gradle", "Native Compilation", "Containerization" ],
+  "summary" : "The documentation outlines the commands to build native executables using Quarkus with different build tools. It provides specific commands for the Quarkus CLI, Maven, and Gradle, focusing on enabling native compilation and container builds. This guide is essential for users looking to optimize their Quarkud-based applications for production by compiling them into native executables with support for containerized environments.",
+  "uuid" : "e5e0f8db-8f52-4091-8253-29bae51d3e4f"
+}

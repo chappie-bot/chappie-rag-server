@@ -1,0 +1,6 @@
+{
+  "title" : "Automate Quarkus deployment with Ansible",
+  "categories" : [ "command-line", "ansible", "devops" ],
+  "summary" : "This guide explains how to automate the deployment of a Quarkus application using Ansible, including setup prerequisites, creating an inventory file, and using Ansible commands for building and deploying Quarkus applications. It covers how to configure the environment, build the application with Maven, deploy it as a systemd service, and validate the deployment. This guide is useful for developers looking to streamline their deployment process for Quarkus applications using Ansible.",
+  "uuid" : "400015ed-41bd-4f47-aea2-554f82c71344"
+}

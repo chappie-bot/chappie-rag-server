@@ -1,0 +1,6 @@
+{
+  "title" : "Validation with Hibernate Validator",
+  "categories" : [ "web", "data" ],
+  "summary" : "This guide discusses how to apply Hibernate Validator for input/output validation in REST services, and also for validating method parameters and return values in business services. It includes setup instructions, creating a Maven project, adding constraints to your Java classes, automatic and manual validation techniques, and configuring Hibernate Validator extension in a Quarkus project. The documentation is intended to help developers integrate and leverage bean validation effectively within their Quarkus applications.",
+  "uuid" : "51494b79-2414-4ee4-903d-b367c3222134"
+}

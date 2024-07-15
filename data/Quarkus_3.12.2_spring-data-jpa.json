@@ -1,0 +1,6 @@
+{
+  "title" : "Extension for Spring Data API",
+  "categories" : [ "compatibility", "data", "jpa", "spring" ],
+  "summary" : "The guide provides detailed instructions on using the Quarkus extension for Spring Data JPA, encouraging users to explore database access alternatives like Hibernate ORM with Panache. It covers prerequisites, setting up a Maven project, defining entities, and configuring database properties. Additionally, it explains repository implementation, CRUD operations, deriving queries from method names, defining custom queries, and addresses the testability of repositories in dev mode. This guide is beneficial for developers seeking to utilize Spring Data JPA within Quarkus.",
+  "uuid" : "044061f1-3ad1-4bc4-8281-817c070ffb33"
+}

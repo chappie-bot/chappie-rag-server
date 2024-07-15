@@ -1,0 +1,6 @@
+{
+  "title" : "Simplified MongoDB with Panache and Kotlin",
+  "categories" : [ "data", "alt-languages" ],
+  "summary" : "This Quarkus guide focuses on utilizing MongoDB with Panache within a Kotlin project, emphasizing how to implement active records and repositories. It explains the differences when working with Kotlin compared to Java, specifically highlighting Kotlin's companion objects and the lack of static methods. The guide further details entity and repository definitions, essential operations such as CRUD, and necessary configurations for integrating MongoDB Panache with Kotlin. Recommended for users transitioning from Java or those new to using MongoDB with Kotlin.",
+  "uuid" : "fcc90851-8f4f-4f3d-ade0-c2e8a425febc"
+}

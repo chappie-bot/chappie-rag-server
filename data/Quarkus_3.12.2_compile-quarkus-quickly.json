@@ -1,0 +1,6 @@
+{
+  "title" : "Installing Quarkus Snapshots",
+  "categories" : [ "Quarkus Setup", "Developer Tools", "Maven" ],
+  "summary" : "The documentation details steps for building and installing Quarkus modules into a local Maven repository with the version 999-SNAPSHOT. Two specific Maven commands are provided: one for ignoring docs and test modules, and another for excluding test modules but including docs.",
+  "uuid" : "90bec8b0-a737-4f18-8cb2-3e413f3ce8ba"
+}

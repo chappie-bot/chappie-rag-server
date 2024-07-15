@@ -1,0 +1,6 @@
+{
+  "title" : "Utilizing SmallRye Metrics in Quarkus Applications",
+  "categories" : [ "observability", "metrics", "deprecated" ],
+  "summary" : "This guide covers the SmallRye Metrics extension in Quarkus, demonstrating how to implement and observe application-specific metrics using the MicroProfile Metrics specification. Although SmallRye Metrics is deprecated and will be replaced in future Quarkus versions, it remains useful for projects requiring MicroProfile compatibility. The guide includes detail on creating a Quarkus application to check prime numbers and gather metrics such as request counts and execution times, which can be exported in JSON or OpenMetrics format for tools like Prometheus.",
+  "uuid" : "540ed24c-14ad-40d8-9dc6-4d7ed63cd786"
+}

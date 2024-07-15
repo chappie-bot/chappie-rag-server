@@ -1,0 +1,6 @@
+{
+  "title" : "Reactive Messaging AMQP 1.0 Connector Reference Documentation",
+  "categories" : [ "messaging", "amqp", "reactive" ],
+  "summary" : "The Reactive Messaging AMQP 1.0 Connector Reference Documentation provides detailed instructions on configuring and utilizing the AMQP connector for reactive messaging in Quarkus applications. It covers setup requirements, extension installation, message sending and receiving, channel mappings, and advanced configurations like health reporting and cloud event support. The guide highlights differences between AMQP 1.0 and 0.9.1 (RabbitMQ), outlines error handling strategies, and includes numerous coding examples for practical application. Key configurations for AMQP broker access and message serialization/deserialization are also detailed.",
+  "uuid" : "32f74a8c-ee66-46a4-8762-1108e5fc3c0c"
+}

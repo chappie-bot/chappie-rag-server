@@ -1,0 +1,6 @@
+{
+  "title" : "Using the legacy REST Client",
+  "categories" : [ "web", "rest-client", "resteasy-client", "resteasy-classic" ],
+  "summary" : "This guide describes how to use the RESTEasy Classic REST Client to interact with REST APIs. It covers creating a Maven project with necessary dependencies, setting up a client interface with MicroProfile annotations, configuring properties for the client, and consuming and testing REST endpoints using this client. Additionally, the document highlights the transition from RESTEasy Classic to Quarkus REST and provides tips on async support and custom headers, alongside information on disabling SSL verifications and configuring redirection handling.",
+  "uuid" : "ad199083-d8b6-427e-ad43-7e4acb17c6f5"
+}

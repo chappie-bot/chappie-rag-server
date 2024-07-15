@@ -1,0 +1,6 @@
+{
+  "title" : "Using Reactive Routes",
+  "categories" : [ "web", "http", "routing" ],
+  "summary" : "This guide explains how to use Quarkus' reactive routes, an alternative to traditional HTTP request handling. It covers creating HTTP endpoints using the @Route annotation, configuring the HTTP layer, and handling various request parameters. The guide also discusses integrating with Quarkus' reactive architecture, handling conflicting routes, using Vert.x Web Router, and leveraging extensions like OpenAPI and Swagger UI for API documentation. Suitable for users seeking comprehensive knowledge on creating efficient, non-blocking HTTP services in Quarkus with a focus on reactive programming patterns.",
+  "uuid" : "175ce58f-c567-48bd-8422-e17ba1fd37cf"
+}

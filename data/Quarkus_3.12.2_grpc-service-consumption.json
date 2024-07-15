@@ -1,0 +1,6 @@
+{
+  "title" : "Consuming a gRPC Service",
+  "categories" : [ "gRPC", "Client Configuration", "Service Consumption" ],
+  "summary" : "This guide details how to consume gRPC services in Quarkus, including stubs generation, injection, and configuration. It introduces various stub types such as service interfaces with Mutiny, blocking stubs, and reactive stubs, details on setting up gRPC client configurations like enabling TLS, handling timeouts and interceptors, as well as dealing with headers and exceptions. It also explains how to work with grpc stream operations, manage client metrics and custom exception handling, and testing with mocked gRPC services in Quarkus tests. Suitable setups like Chocolatey for Windows are also discussed.",
+  "uuid" : "3d0ad730-133c-4872-a5b1-105084653159"
+}

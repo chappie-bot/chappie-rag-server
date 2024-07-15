@@ -1,0 +1,6 @@
+{
+  "title" : "Funqy HTTP Binding with Azure Functions",
+  "categories" : [ "cloud", "azure", "serverless", "function", "funqy" ],
+  "summary" : "The document provides guidance on deploying serverless Quarkus applications using Funqy HTTP binding on Microsoft Azure Functions. This setup is noted for its simplicity but lacks typical REST features, recommending alternative frameworks such as Jakarta REST or Spring MVC for more complex needs.",
+  "uuid" : "14ef4993-482b-4f53-8a33-e40766109c2d"
+}

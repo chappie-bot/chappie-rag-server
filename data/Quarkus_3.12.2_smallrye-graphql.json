@@ -1,0 +1,6 @@
+{
+  "title" : "Implementing GraphQL Services with SmallRye in Quarkus",
+  "categories" : [ "web", "graphql", "api development" ],
+  "summary" : "This guide covers the implementation of GraphQL services using SmallRye GraphQL, which is a MicroProfile GraphQL specification. It teaches how to create a Quarkus application that offers a GraphQL API, allowing clients to fetch exactly the data they need, thus preventing over-fetching or under-fetching. The guide offers step-by-step instructions on setting up the project, creating entities, handling queries, mutations, and subscriptions, and includes examples of GraphQL queries and mutations. Additionally, it demonstrates the adaptation of different data types and the creation of a service that can efficiently manage data fetching and updates in real-time.",
+  "uuid" : "00d74c3c-500c-430a-9e47-a8a3bf0a7288"
+}

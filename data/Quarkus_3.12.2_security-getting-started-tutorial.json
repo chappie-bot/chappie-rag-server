@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with Security in Quarkus Using Basic Authentication and Jakarta Persistence",
+  "categories" : [ "security", "getting-started", "tutorial" ],
+  "summary" : "This tutorial covers the implementation of Security in a Quarkus application using Basic authentication and Jakarta Persistence for role-based access control. It guides through setting up a secured application with role-based endpoints, configuring the application with necessary extensions, and eventually testing it using Dev Services for PostgreSQL. The tutorial is beneficial for beginners aiming to secure their Quarkus application and manage access based on user roles. The detailed steps include creating a Maven project with the necessary dependencies, implementing authorization policies at endpoints, defining user entities, and configuring database. The guide also includes instructions on how to build, run in development, and test the application using Continuous Testing with integration tests.",
+  "uuid" : "efae5a60-f8a0-45ba-89ca-cb15bcfca8c5"
+}

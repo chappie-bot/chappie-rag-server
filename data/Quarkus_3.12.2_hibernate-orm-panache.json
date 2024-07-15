@@ -1,0 +1,6 @@
+{
+  "title" : "Simplified Hibernate ORM with Panache",
+  "categories" : [ "data", "hibernate-orm", "panache", "sql", "jdbc" ],
+  "summary" : "The documentation explores the Hibernate ORM with Panache for Quarkus, aimed at simplifying entity management and operations. It offers a simplified API with both active record and repository patterns, enabling straightforward database interactions and queries. Key topics include setting up Hibernate ORM, configuring it for use, defining entities, performing CRUD operations, and utilizing advanced queries with pagination and sorting. Additionally, it covers transaction control, custom ID handling, mocking for testing, and considerations for incorporating entities from external sources.",
+  "uuid" : "85eba6dc-0c9c-49de-8f80-66cfdfced243"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Qute Templating Engine",
+  "categories" : [ "miscellaneous", "templating", "qute", "http" ],
+  "summary" : "This documentation covers the Qute Templating Engine, suitable for Quarkus applications, emphasizing minimal reflection to optimize native images. It includes information on rendering templates both directly via HTTP or through RESTful APIs with fine-grained control. The document also explains type-safe template declarations and parameter validations to prevent runtime errors, and introduces template extension methods for adding computed properties. Additionally, there's guidance on using Qute for periodic report rendering, integrating with Quarkus Scheduler for timely report generation.",
+  "uuid" : "e401720c-485a-4662-8cbf-67479e83463d"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "gRPC Code Generation in Quarkus",
+  "categories" : [ "Serialization", "Configuration", "Build Tools", "gRPC" ],
+  "summary" : "This guide details how to configure and enable gRPC code generation in Quarkus projects using Maven or Gradle. It explains setting up dependencies, customizing the proto file directory, generating descriptor sets, and managing code generation for imported proto files from dependencies.",
+  "uuid" : "73f2256c-bbf3-454c-b753-eec517be7f84"
+}

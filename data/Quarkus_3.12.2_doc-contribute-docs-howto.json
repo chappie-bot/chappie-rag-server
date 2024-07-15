@@ -1,0 +1,6 @@
+{
+  "title" : "Contribute to Quarkus Documentation",
+  "categories" : [ "contributing", "documentation", "writing guidelines" ],
+  "summary" : "This guide provides comprehensive details on how to contribute to the Quarkus documentation, including prerequisites, locating and creating AsciiDoc content, setting document headers, managing prerequisites, and handling redirects. It also outlines the steps for previewing, building, and linting documentation using Vale, and how to effectively submit and manage pull requests for documentation updates. Additionally, the guide includes instructions for previewing document changes on the Quarkus website post-merge.",
+  "uuid" : "b95333df-d4c3-4a0a-a667-320e99023e38"
+}

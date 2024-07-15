@@ -1,0 +1,6 @@
+{
+  "title" : "Using the REST Client",
+  "categories" : [ "web", "rest", "rest-client", "resteasy-reactive", "quarkus" ],
+  "summary" : "This guide covers how to utilize the REST Client in Quarkus for interacting with REST APIs. The REST Client supports both synchronous and asynchronous interaction modes and can be configured to handle custom query parameters, headers, multipart messages, and more. It integrates seamlessly with Quarkus's reactive environment but also allows imperative usage. Key features discussed include creating the REST client interface, configuring endpoint invocations with custom headers and query parameters, asynchronous operations, error handling, and using the client in conjunction with the Jakarta REST API. Additionally, the guide describes configuring the client programmatically or via application properties, including details about SSL setup, proxy configuration, and logging.",
+  "uuid" : "89022785-f93f-485f-a777-e6cf4b8469ed"
+}

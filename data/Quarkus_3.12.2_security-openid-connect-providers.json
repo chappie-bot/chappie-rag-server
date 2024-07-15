@@ -1,0 +1,6 @@
+{
+  "title" : "Configuring Well-Known OpenID Connect Providers with Quarkus",
+  "categories" : [ "security", "web" ],
+  "summary" : "This document provides a guide on configuring well-known social OIDC and OAuth2 providers in Quarkus applications. It includes detailed steps for setting up various providers such as Apple, Google, Facebook, GitHub, and others. Each provider setup involves registering applications, obtaining credentials, and specifying redirect URIs. It further discusses token scopes, handling multiple providers, token propagation for accessing provider services, and ensuring secure, precise redirect handling. The guide is essential for developers looking to integrate Quarkus with various external authentication services.",
+  "uuid" : "0d181b6c-043b-4f1e-b583-d11672ec7399"
+}

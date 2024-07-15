@@ -1,0 +1,6 @@
+{
+  "title" : "Configuration Attributes for SmallRye Pulsar Connector in Quarkus",
+  "categories" : [ "Quarkus", "SmallRye", "Pulsar", "Configuration", "Messaging" ],
+  "summary" : "This section of the Quarkus documentation details the configurable attributes of the 'smallrye-pulsar' connector. It includes options like client configuration, health monitoring, message queue limits, producer configuration, schema definitions, service URL, topic selection, tracing, and message acknowledgment settings. Each attribute is explained with its type, whether it's mandatory, and its default value if applicable. This is useful for users setting up or customizing their Quarkus application’s interaction with Apache Pulsar through SmallRye.",
+  "uuid" : "6797ce03-bf19-4dc2-aebb-481e85fcb347"
+}

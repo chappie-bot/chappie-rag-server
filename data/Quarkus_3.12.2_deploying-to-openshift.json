@@ -1,0 +1,6 @@
+{
+  "title" : "Deploying on OpenShift",
+  "categories" : [ "cloud", "native", "devops", "kubernetes", "openshift", "deployment" ],
+  "summary" : "This guide provides detailed instructions on generating and deploying OpenShift resources for a native Quarkus application. It includes prerequisites such as having access to an OpenShift cluster and the OpenShift CLI. The documentation also covers the process of bootstrapping a new project with the OpenShift extension, building and deploying the application, and managing custom configurations for deployment. Key features discussed include environment variables, volumes, and advanced deployment strategies like non-S2I builds, customizing routes, exposing services, and securing routes with TLS.",
+  "uuid" : "1b60404a-c286-4a9b-9f38-6d885fca5780"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Using JWT RBAC with Quarkus",
+  "categories" : [ "security", "jwt" ],
+  "summary" : "This guide details how Quarkus applications can leverage SmallRye JWT for Bearer Token Authorization to secure Jakarta REST endpoints. It covers setup and configuration of the SmallRye JWT extension, prerequisites, creating a Maven project, examining and running Jakarta REST resources with role-based access control, and various endpoint configurations. Additionally, it provides examples and instructions on handling public keys, generating and parsing JWTs, and securing REST endpoints using JSON Web Tokens. This guide is useful for developers looking to implement authentication and authorization in Quarkus applications using JWTs.",
+  "uuid" : "4ca5f25c-df84-46fe-a649-cd94fdec9754"
+}

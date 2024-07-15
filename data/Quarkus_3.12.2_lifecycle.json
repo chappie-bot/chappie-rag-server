@@ -1,0 +1,6 @@
+{
+  "title" : "Application Initialization and Termination",
+  "categories" : [ "core", "lifecycle", "command-mode" ],
+  "summary" : "Covers details on how to execute custom actions during startup and cleanup actions at termination of a Quarkus application. This includes writing a main method, observing startup and shutdown events, injecting command line arguments, and understanding application lifecycle annotations like @Startup and @Shutdown. Additionally, it presents examples and configurations for packaging and running the application in different modes, as well as handling graceful shutdowns.",
+  "uuid" : "acfb12d7-77f8-4d02-b0a8-211e062e964b"
+}

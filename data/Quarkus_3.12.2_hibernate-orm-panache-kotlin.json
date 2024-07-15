@@ -1,0 +1,6 @@
+{
+  "title" : "Simplified Hibernate ORM with Panache and Kotlin",
+  "categories" : [ "data", "alt-languages" ],
+  "summary" : "This guide focuses on using Hibernate ORM with Panache specifically tailored for Kotlin projects in Quarkus. It introduces Kotlin-specific features such as companion objects for entity operations, and nuances in defining entities and repositories compared to Java. The guide also explains the configuration differences needed for Kotlin, demonstrates entity and repository code examples, and provides a link to a complete solution with further detailed instructions. This content is crucial for users integrating Hibernate ORM with Kotlin-based Quarkus applications.",
+  "uuid" : "f19fbe47-95d5-4d15-84fe-4e3e8ed977d2"
+}

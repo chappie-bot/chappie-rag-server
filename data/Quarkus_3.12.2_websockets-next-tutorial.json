@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with WebSockets Next in Quarkus",
+  "categories" : [ "web", "tutorial", "experimental", "websockets", "developer guide" ],
+  "summary" : "This guide provides a detailed tutorial on using the Quarkus WebSockets Next extension to build a simple chat application. It covers the setup of a new Maven project, adding the extension, creating WebSocket endpoints, and handling messages. The key functionalities like opening, broadcasting, and closing connections are explained through examples. Additionally, it includes guidance on running the application and building both the JAR and native executables. Ideal for developers looking to integrate WebSocket functionalities in their Quarkus applications.",
+  "uuid" : "76c87356-eeeb-4aaa-bee0-00ba4f41fa9e"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Running Quarkus Applications with CLI, Maven, and Gradle",
+  "categories" : [ "Quarkus", "Development", "CLI", "Maven", "Gradle" ],
+  "summary" : "The documentation provides commands for starting Quarkus applications using different build tools. It covers how to run the applications using the Quarkus CLI, Maven wrapper, and Gradle wrapper, including adjustments for additional parameters if needed.",
+  "uuid" : "a298d283-07d5-40ab-9b82-6a1c64ff25b7"
+}

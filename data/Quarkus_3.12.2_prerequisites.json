@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Setup Guide Prerequisites",
+  "categories" : [ "Setup", "Configuration", "Prerequisites" ],
+  "summary" : "This guide details the initial requirements and tools needed to start working with Quarkus, including an IDE, JDK 17+, Apache Maven, and optionally Docker or Podman. Additionally, for users interested in building native executables, Mandrel or GraalVM may be required, depending on the configuration choices.",
+  "uuid" : "d70135d0-70f9-400a-a9e1-157ae98ad95a"
+}

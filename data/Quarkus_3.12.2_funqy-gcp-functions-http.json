@@ -1,0 +1,6 @@
+{
+  "title" : "Funqy HTTP Binding with Google Cloud Functions",
+  "categories" : [ "cloud", "serverless", "function" ],
+  "summary" : "The Quarkus guide for Funqy HTTP Binding with Google Cloud Functions provides an overview of integrating Quarkus Funqy functions with Google Cloud Platform, specifically tailored for HTTP clients. It highlights that this integration is not meant to replace REST over HTTP due to Funqy's minimalistic HTTP binding, which lacks certain REST features. The guide suggests alternative HTTP frameworks compatible with Quarkus and Google Cloud Functions, and includes a quickstart for practical implementation. Users are guided on creating a project and deploying non-Google specific Java code to Google Cloud Functions.",
+  "uuid" : "68a90dbb-a50a-436b-8ef0-b5c5f0c47ee8"
+}

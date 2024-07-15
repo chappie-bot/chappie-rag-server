@@ -1,0 +1,6 @@
+{
+  "title" : "Scheduler Reference Guide",
+  "categories" : [ "scheduling", "cronjob" ],
+  "summary" : "This guide covers the Scheduler extensions available in Quarkus, specifically `quarkus-scheduler` for in-memory scheduling and `quarkus-quartz` for persistent and clustered tasks. It details how to set up scheduled jobs, manage concurrent, conditional, and programmatic executions, handle delayed starts, and configure triggers with cron expressions or intervals. Also included are the integration points with metrics, tracing, and how scheduled methods can be tested in Quarkus applications. Appropriate for users needing to implement or manage timed tasks within Quarkus applications.",
+  "uuid" : "fdc77bd0-c54c-4392-83ac-618817431ad8"
+}

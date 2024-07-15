@@ -1,0 +1,6 @@
+{
+  "title" : "Collect metrics using Micrometer",
+  "categories" : [ "observability", "micrometer", "prometheus" ],
+  "summary" : "This Quarkus tutorial guides users on how to integrate Micrometer for metrics collection in a Quarkus application. It includes creating a Maven project, setting up a REST endpoint, and configuring Micrometer with Prometheus for metrics exposure. Key focus areas include using counters, timers, and gauges to track application-specific metrics, with example code to implement each metric type. Upon completion, users can effectively collect and monitor metrics, leveraging dimensional labels and observing metrics in Prometheus format to analyze application performance.",
+  "uuid" : "c9d6a088-1705-4714-b5cc-a92040525479"
+}

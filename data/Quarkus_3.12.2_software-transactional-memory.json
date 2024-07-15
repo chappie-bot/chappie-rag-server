@@ -1,0 +1,6 @@
+{
+  "title" : "Using Software Transactional Memory in Quarkus",
+  "categories" : [ "data", "transactions", "microservices" ],
+  "summary" : "This guide details the usage of Software Transactional Memory (STM) in Quarkus, highlighting its benefits for microservices and Kubernetes-native applications. It explains the differences and advantages over traditional JTA, incorporating concepts such as non-durability, concurrency control, modularity, and ease of use in application development. The guide also includes instructions for setting up STM with Quarkus, defining STM-aware classes, managing transaction boundaries, and offers a practical example through a quickstart guide.",
+  "uuid" : "98779e61-44b7-43cd-bcff-0945f3b1dc10"
+}

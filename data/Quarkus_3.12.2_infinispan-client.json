@@ -1,0 +1,6 @@
+{
+  "title" : "Using the Infinispan Client",
+  "categories" : [ "data", "infinispan" ],
+  "summary" : "This documentation provides a detailed guide on how to use the Infinispan Client with Quarkus, including setting up a new project, implementing a Greeting application, and configuring both development and production environments. Key topics covered include connecting to an Infinispan server, serializing data with Protostream, REST endpoints for creating and retrieving greetings, and properly configuring Infinispan client for production use. It also discusses native compilation with GraalVM for Infinispan clients.",
+  "uuid" : "99877837-f306-457b-a6ba-145ed2401ddf"
+}

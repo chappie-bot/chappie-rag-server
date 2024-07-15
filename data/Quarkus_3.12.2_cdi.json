@@ -1,0 +1,6 @@
+{
+  "title" : "Introduction to Contexts and Dependency Injection (CDI) in Quarkus",
+  "categories" : [ "core" ],
+  "summary" : "This guide provides an overview of the CDI (Contexts and Dependency Injection) model in Quarkus, aligned with the Jakarta CDI 4.1 specification. It covers fundamental concepts such as beans, their lifecycle, dependency injection, interceptors, and the type-safe resolution process. The guide also discusses advanced CDI features like qualifier annotations, scope, client proxies, and the usage of interceptors and decorators in separating business logic from cross-cutting concerns. Furthermore, it includes examples highlighting producer methods, event handlers, and lifecycle callbacks, essential for developers looking to implement or migrate applications to use Quarkus’s CDI capabilities.",
+  "uuid" : "f25e85cb-7007-4c04-bcfa-6616804da31a"
+}

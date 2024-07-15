@@ -1,0 +1,6 @@
+{
+  "title" : "Observability Dev Services",
+  "categories" : [ "observability", "devservices", "telemetry", "metrics", "tracing", "logging" ],
+  "summary" : "This Quarkus guide describes the Observability Dev Services, which extend the Dev Services framework to support a full stack of observability tools like Grafana, Prometheus, and Jaeger, using Testcontainers. It introduces the concept of Dev Resources, a flexible way to manage multiple observability tools in a development environment. The guide also explains how to configure and use these tools individually or as a combined stack, and provides guidance on setting the scope for dependencies to avoid including test libraries in production.",
+  "uuid" : "8786791f-fbda-472a-b4fe-ba7f9268941c"
+}

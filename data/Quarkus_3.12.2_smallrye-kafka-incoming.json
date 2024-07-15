@@ -1,0 +1,6 @@
+{
+  "title" : "Configuration Attributes for the 'smallrye-kafka' Connector in Quarkus",
+  "categories" : [ "Configuration", "Quarkus", "Kafka", "smallrye-kafka" ],
+  "summary" : "This documentation details the various configurable attributes of the 'smallrye-kafka' connector within Quarkus. It outlines each attribute, its type, default values, and whether it's mandatory. Key attributes mentioned include bootstrap servers, topics, health checks, serialization, consumer group configurations, retry logic, commit strategies, and more. Noteworthy, some attributes such as health-readiness checks have deprecations and new replacement settings. The document is aimed at developers integrating Kafka with Quarkus applications, providing them with necessary configurations for consumer and producer setups.",
+  "uuid" : "8581699b-59fa-487a-8ec2-c050eda95a9a"
+}

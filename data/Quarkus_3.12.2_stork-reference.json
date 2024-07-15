@@ -1,0 +1,6 @@
+{
+  "title" : "Stork Reference Guide",
+  "categories" : [ "cloud", "service-discovery", "load-balancing", "stork" ],
+  "summary" : "The Stork Reference Guide for Quarkus documents how to use the SmallRye Stork integration for service discovery and load balancing, with particular emphasis on Kubernetes environments. It details the supported clients (REST and gRPC, though with limitations in the latter’s load-balancing), and explains how to set up and configure Stork in Kubernetes, including pod-level service discovery and load balancer selection. The guide also discusses extending Stork with custom service discovery or load balancer providers, and outlines how to configure observability through metrics with the quarkus-micrometer extension.",
+  "uuid" : "490bfb15-08e2-43f0-9460-574476e23837"
+}

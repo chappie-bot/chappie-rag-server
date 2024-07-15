@@ -1,0 +1,6 @@
+{
+  "title" : "Using OpenTelemetry in Quarkus",
+  "categories" : [ "observability", "opentelemetry" ],
+  "summary" : "This guide details how to integrate OpenTelemetry with a Quarkus application to enable distributed tracing for web services. It covers the setup of OpenTelemetry, necessary prerequisites, Maven configurations, creating REST endpoints with automatic tracing, advanced configurations including custom samplers and propagators, and how to visualize traces with Grafana or Jaeger. The guide also touches on disabling parts of the OpenTelemetry extension, additional Quarkus instrumentations, and configuring additional telemetry for databases through JDBC. It is essential for developers looking to add observability to their Quarkus applications using OpenTelemetry.",
+  "uuid" : "9ea71a9e-6531-4254-a615-8b2c61360723"
+}

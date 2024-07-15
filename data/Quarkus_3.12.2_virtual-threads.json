@@ -1,0 +1,6 @@
+{
+  "title" : "Virtual Thread Support in Quarku",
+  "categories" : [ "core", "virtual-threads", "performance", "concurrency" ],
+  "summary" : "This Quarkus documentation covers the implementation and utilization of virtual threads in Java 21+ for Quarkus applications. It details the nature of virtual versus platform threads, the use-cases for virtual threads primarily in I/O-bound workloads, and provides implementation examples using Quarkus annotations such as @RunOnVirtualThread. It highlights the considerations, limitations, and performance implications in specific scenarios like CPU-bound tasks and the potential issues with thread pinning and monopolization. Additionally, the document advises on adapting to virtual thread compatible libraries, managing threaded operations in Quarkus applications, and guidance on how to build, test, and configure Quarkus applications to effectively utilize virtual threads.",
+  "uuid" : "e50af216-d54c-45a2-95e9-139da30ff885"
+}

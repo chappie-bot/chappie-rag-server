@@ -1,0 +1,6 @@
+{
+  "title" : "Creating JSON REST Services with Quarkus and RESTEasy Classic",
+  "categories" : [ "web", "rest", "resteasy-classic" ],
+  "summary" : "This guide documents the use of RESTEasy Classic for creating JSON REST services in Quarkus. It covers creating Maven projects with required dependencies for JSON handling via Jackson or JSON-B, constructing REST services, serialization, and consuming them with front-end applications. It also discusses native executable specifics in Quarkus, such as reflection requirements for classes used within REST services. Additionally, reactive programming, HTTP request filtering, and CORS handling are elaborated to optimize functionality for diverse applications.",
+  "uuid" : "2d105ef2-1060-4945-851b-7f67767463f4"
+}

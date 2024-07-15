@@ -1,0 +1,6 @@
+{
+  "title" : "Using Security with WebAuthn in Quarkus Applications",
+  "categories" : [ "Security", "WebAuthn", "Authentication" ],
+  "summary" : "This documentation provides a detailed guide on implementing WebAuthn authentication in Quarkus applications, replacing traditional password-based methods. It elaborates on the prerequisites, which include a WebAuthn or PassKeys-capable device, and dives into an explanation of how WebAuthn works by utilizing public key cryptography for user authentication without storing passwords. Key aspects such as architecture setup, creating a Maven project, coding the application endpoints for public, user, and admin access, storing and managing WebAuthn credentials in a database, and configuring the Quarkus project with necessary extensions are comprehensively covered. Additionally, the document discusses how to handle the authentication flows including registration and login, and provides insight into testing the implementation with the Quarkus testing extensions.",
+  "uuid" : "7211376d-1c08-4596-b3b6-b692490742e9"
+}

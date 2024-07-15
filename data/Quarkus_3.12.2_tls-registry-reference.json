@@ -1,0 +1,6 @@
+{
+  "title" : "TLS registry reference",
+  "categories" : [ "network", "security", "TLS", "SSL", "HTTPS" ],
+  "summary" : "Provides comprehensive guidelines on configuring and using the TLS registry in Quarkus applications. This includes details on setting up TLS for both servers and clients, handling key stores and trust stores across different formats like PEM, PKCS12, and JKS, leveraging SNI, and utilizing credential providers for secure management of key materials. It also explicates the integration particulars for TLS settings in various communication scenarios such as HTTP/S servers, gRPC clients, and mTLS configurations.",
+  "uuid" : "a2f73560-981d-40c2-acc3-4c129a853e36"
+}

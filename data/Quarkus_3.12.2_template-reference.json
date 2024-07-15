@@ -1,0 +1,6 @@
+{
+  "title" : "Guidelines for Creating Quarkus Reference Documentation",
+  "categories" : [ "documentation", "reference", "guidelines" ],
+  "summary" : "This Quarkus documentation guide provides essential instructions for creating and maintaining reference documents within the Quarkus ecosystem. It covers the usage of sentence capitalization for titles, the categorization of documentation, and the inclusion of extension statuses. The document also emphasizes the importance of cross-referencing, consistency, accuracy, and clear factual descriptions, including examples, commands, and configuration references. Furthermore, it instructs on linking to additional resources such as tutorials and explaining complex topics comprehensively. This guide is crucial for contributors aiming to enhance the Quarkus documentation's utility and navigability.",
+  "uuid" : "d2299f04-8344-4551-b19f-58035605020f"
+}

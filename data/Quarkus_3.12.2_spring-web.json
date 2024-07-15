@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Extension for Spring Web API",
+  "categories" : [ "compatibility", "spring", "rest" ],
+  "summary" : "This guide provides detailed instructions on using the Quarkus extension for Spring Web to define RESTful services with Spring Web annotations. It includes prerequisites, setup instructions, and examples for creating a Maven project, adding necessary extensions, and developing a REST API using Spring annotations. The guide also covers testing, packaging, running the application, and enhancing the API with OpenAPI and Swagger UI documentation. Additionally, it addresses the supported functionalities and limitations of Spring Web in Quarkus.",
+  "uuid" : "8830df80-63a5-451a-9b6f-b37435719318"
+}

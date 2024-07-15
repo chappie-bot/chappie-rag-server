@@ -1,0 +1,6 @@
+{
+  "title" : "Measuring the coverage of your tests in Quarkus",
+  "categories" : [ "tooling", "testing", "coverage", "jacoco" ],
+  "summary" : "This guide provides detailed steps on how to measure the test coverage of your Quarkus applications using JaCoCo. It covers unit tests, integration tests, and the separation and consolidation of test execution. The guide includes setup for both Maven and Gradle builds, handling multi-module projects, and running tests with coverage. Additionally, it explains how to set up coverage thresholds and includes tips for ensuring that your tests are effective, not just covered.",
+  "uuid" : "2ea596ad-5703-48ba-a850-2519a3bbfb85"
+}

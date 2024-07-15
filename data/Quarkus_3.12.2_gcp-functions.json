@@ -1,0 +1,6 @@
+{
+  "title" : "Google Cloud Functions with Quarkus",
+  "categories" : [ "cloud", "serverless", "function", "google cloud platform", "deployment" ],
+  "summary" : "This document provides a comprehensive guide on using the 'quarkus-google-cloud-functions' extension to create, deploy, and manage Google Cloud Functions. It covers the prerequisites, including a Google Cloud account and Cloud SDK CLI, and details the steps to create and configure a Maven project for deploying functions like HttpFunction, BackgroundFunction, RawBackgroundFunction, and CloudEventsFunction. Additionally, it discusses the deployment process, potential issues like Cloud Build activation, and running functions locally with a cloud function invoker. It also explores testing Google Cloud Functions using the Quarkus test framework and mentions further resources for Jakarta REST, Servlet, Vert.x support, and provider-agnostic implementations.",
+  "uuid" : "7f5b4878-0870-421d-a9c9-f8bc35dd3b44"
+}

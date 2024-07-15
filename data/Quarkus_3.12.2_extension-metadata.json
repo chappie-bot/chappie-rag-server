@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Extension Metadata",
+  "categories" : [ "writing-extensions", "extensions", "codestarts" ],
+  "summary" : "This document explains the purpose and content of Quarkus extension metadata files, crucial for those developing Quarkus extensions. Key files discussed include 'quarkus-extension.yaml' for run-time metadata and 'quarkus-extension.properties' for build-specific properties. The guide details how, where, and why these files are used, alongside examples, ensuring developers can correctly package and distribute their Quarkus extensions.",
+  "uuid" : "4c9bf13c-ed69-4807-8488-ba78a3cc98dd"
+}

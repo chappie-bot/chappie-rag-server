@@ -1,0 +1,6 @@
+{
+  "title" : "Proactive Authentication in Quarkun",
+  "categories" : [ "security", "web", "authentication" ],
+  "summary" : "The document explains proactive authentication in Quarkus, detailing default settings, customization options, and managing exceptions for authentication processes. Quarkus handles proactive authentication by authenticating all requests by default, ensuring security even for public pages. Users can disable this to authenticate only as needed, requiring changes in the `application.properties`. The document also covers handling synchronous and asynchronous authentication in reactive applications, tips on how to handle authentication on worker threads, and strategies for customizing responses to authentication failures using `ExceptionMapper`. Useful for developers looking to refine authentication workflows or handle specific authentication exceptions in Quarkus applications.",
+  "uuid" : "2ed1b690-97e3-4881-a47a-a573da8dabb1"
+}

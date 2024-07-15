@@ -1,0 +1,6 @@
+{
+  "title" : "Dev UI for Extension Developers",
+  "categories" : [ "writing-extensions" ],
+  "summary" : "This guide provides a detailed overview of how to integrate and enhance the Quarkus Dev UI with custom extensions for Quarkus developers. It covers how to visualize and interact with extension properties, add custom links, pages, and other interactive components using the Dev UI in Quarkus development mode. Highlights include adding external and internal links, full customization of UI components, and leveraging the Dev UI to improve extension debuggability and usability.",
+  "uuid" : "7aad1c72-0716-480c-96c8-94701debf579"
+}

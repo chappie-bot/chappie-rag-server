@@ -1,0 +1,6 @@
+{
+  "title" : "Getting Started with SmallRye Stork in Quarkus",
+  "categories" : [ "cloud", "service-discovery", "load-balancing", "stork" ],
+  "summary" : "This guide provides a comprehensive overview of using SmallRye Stork with Quarkus for service discovery and load balancing in distributed systems. Key topics include setting up microservices, integrating with Consul for service registration, and utilizing Stork for effective service discovery and load balancing. It covers the creation of services, configuring and using the Quarkus REST Client to communicate via Stork, and detailed steps for both setup and running the complete application. The guide is useful for developers looking to implement resilient cloud-native applications with dynamic service discovery and client load balancing.",
+  "uuid" : "48b261c4-9837-41c3-a243-56485165394f"
+}

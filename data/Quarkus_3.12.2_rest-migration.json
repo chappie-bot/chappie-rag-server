@@ -1,0 +1,6 @@
+{
+  "title" : "Migrating to Quarkus REST (formerly RESTEasy Reactive)",
+  "categories" : [ "web", "rest", "rest-client", "resteasy-reactive", "migration" ],
+  "summary" : "The document guides the migration from RESTEasy Classic to Quarkus REST, detailing how to replace dependencies, annotations, and handle specific server configurations such as injection of '@SessionScoped' beans, multipart support, and servlets. It also covers adjustments in client configurations such as using the REST Client for Keycloak administration and handling OIDC integration, as well as guidance for developers on custom extensions compatibility.",
+  "uuid" : "932ffdbc-7698-45eb-a518-1356bd52277a"
+}

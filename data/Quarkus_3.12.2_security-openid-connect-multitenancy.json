@@ -1,0 +1,6 @@
+{
+  "title" : "Using OpenID Connect (OIDC) Multitenancy in Quarkus",
+  "categories" : [ "Security", "Multitenancy", "OpenID Connect", "OIDC" ],
+  "summary" : "The guide illustrates how to support multitenancy in a Quarkus application using OpenID Connect. It covers setting up a single application to serve multiple tenants, utilizing different OIDC providers like Keycloak and Google. Key topics include architectural details, prerequisites, solution steps, tenant-specific configurations, and endpoint definitions. Additionally, it includes dynamic tenant configuration resolution and integration with other security layers like Hibernate ORM or MongoDB with Panache for synchronized tenant resolution.",
+  "uuid" : "aecb518a-1855-4101-b089-57fe4f51b3a1"
+}

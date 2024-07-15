@@ -1,0 +1,6 @@
+{
+  "title" : "Context Propagation in Quarkus",
+  "categories" : [ "core" ],
+  "summary" : "This Quarkus documentation details the integration of SmallRye Context Propagation for managing contextual data across asynchronous and reactive programming models in Quarkus applications. It explains the use of ThreadLocal in traditional code, the issues it presents in reactive environments, and how SmallRye facilitates the transference of context. It covers setup instructions, usage examples with Mutiny and CompletionStage, and configurations for overriding default context propagation behaviors. Additionally, it discusses context propagation for CDI Managed Executors and Thread Context, including usage scenarios with customized configurations and annotations.",
+  "uuid" : "f83c055c-06b0-4d54-8079-761db5cb79b6"
+}

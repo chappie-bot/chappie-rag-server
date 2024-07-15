@@ -1,0 +1,6 @@
+{
+  "title" : "Quarkus Extension for Spring Scheduling API",
+  "categories" : [ "compatibility", "spring", "scheduling" ],
+  "summary" : "This documentation provides insight into using Spring Scheduled annotations within a Quarkus application for scheduling tasks. It covers the setup of the spring-scheduled extension, configuration of scheduled tasks using annotations, and integration with Quarkus features. This guide serves users looking to leverage Spring scheduling functionalities alongside Quarkus, including detailed examples and configuration steps.",
+  "uuid" : "1fb94278-a971-4538-a06f-a67912913d07"
+}

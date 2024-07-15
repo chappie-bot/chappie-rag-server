@@ -1,0 +1,6 @@
+{
+  "title" : "Contexts and Dependency Injection in Quarkus",
+  "categories" : "core, cdi, arc, injection, interceptor, observer",
+  "summary" : "This documentation section explains the implementation of Contexts and Dependency Injection (CDI) in Quarkus, known as ArC. It clarifies that while Quarkus adheres to the Jakarta EE's CDI 4.1 Lite specification, it omits CDI Full features. The guide further delves into specifics regarding bean discovery, Jandex indexing, bean exclusions, and more. It provides insights into generating Jandex indices with Maven or Gradle, managing unused beans, and enhancing performance via the elimination of unnecessary components. Additionally, it covers advanced topics like eager instantiation of beans with `StartupEvent`, conditional bean activation, and handling of unproxyable classes. The tutorial also hints at practices for better performance and compatibility with native executables in Quarkus.",
+  "uuid" : "1eaa7a17-4241-40f0-876c-9e0e91a30285"
+}

@@ -1,0 +1,6 @@
+{
+  "title" : "Accessing application properties with Spring Boot properties API",
+  "categories" : [ "compatibility", "spring", "configuration" ],
+  "summary" : "This Quarkus documentation explains how to use Spring Boot's `@ConfigurationProperties` for accessing application properties, offering an alternative to MicroProfile Config annotations. It covers the setup of a new Quarkus project incorporating the quarkus-spring-boot-properties extension, injecting properties, and managing both required and optional property values with default settings. Additionally, it details running the application in development mode, packaging, and working with complex configurations via class grouping. This guide is useful for developers familiar with Spring Boot who are transitioning to or integrating with Quarkus.",
+  "uuid" : "caaacde5-b1fa-4335-a3b1-77666a2810cc"
+}
