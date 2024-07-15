@@ -27,8 +27,11 @@ curl -X 'GET' \
 ```
 
 This will start the process to ingest the Quarkus 3.12.2 documentation. The process runs on a schedule to not be rate limited by openai, and ingest one
-page at a time. You can follow the process by going to the Chappie UI (localhost:8080). On the status page you will see the progress. You can also
-get the persentage ingestioned with:
+page at a time. You can follow the process by going to the Chappie UI (localhost:8080). On the status page you will see the progress. 
+
+![Chappie Ingestion](https://github.com/chappie-bot/chappie-server/blob/main/Screenshot_ingestion.png?raw=true)
+
+You can also get the persentage ingestioned with:
 
 ```
 curl -X 'GET' \
@@ -37,5 +40,7 @@ curl -X 'GET' \
 ```
 
 Once everything for a certain product/version combination is ingested, you can also use the Chappie UI to ask questions against the documentation.
+
+![Chappie Ingestion](https://github.com/chappie-bot/chappie-server/blob/main/Screenshot_chat.png?raw=true)
 
 There is still a LOT to be done. Please see the issues for a list.
