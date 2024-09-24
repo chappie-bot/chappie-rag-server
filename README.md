@@ -44,6 +44,6 @@ curl -X 'GET' \
 
 Once everything for a certain product/version combination is ingested, you can also use the Chappie UI to ask questions against the documentation.
 
-![Chappie Ingestion](https://github.com/chappie-bot/chappie-server/blob/main/Screenshot_chat.png?raw=true)
+![Chappie Ingestion](https://github.com/chappie-bot/chappie-rag-server/blob/main/Screenshot_chat.png?raw=true)
 
 There is still a LOT to be done. Please see the issues for a list.
